@@ -1,5 +1,5 @@
 ---
-title: {{ .Name }}
+title: {{ .Name | time.Format .Site.Params.DateFormat }}
 date: {{ .Date }}
 draft: false
 ---
