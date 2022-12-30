@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Piyopanman</title>
+    <link>https://piyopanman.dev/categories/</link>
+    <description>Recent content in Categories on Piyopanman</description>
+    <image>
+      <url>https://piyopanman.dev/images/piyopanman.png</url>
+      <link>https://piyopanman.dev/images/piyopanman.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 30 Dec 2022 15:24:46 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>メモ</title>
+      <link>https://piyopanman.dev/categories/%E3%83%A1%E3%83%A2/</link>
+      <pubDate>Fri, 30 Dec 2022 15:24:46 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/categories/%E3%83%A1%E3%83%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>開発</title>
+      <link>https://piyopanman.dev/categories/%E9%96%8B%E7%99%BA/</link>
+      <pubDate>Fri, 30 Dec 2022 15:24:46 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/categories/%E9%96%8B%E7%99%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>daily-report</title>
+      <link>https://piyopanman.dev/categories/daily-report/</link>
+      <pubDate>Fri, 30 Dec 2022 15:09:51 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/categories/daily-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
