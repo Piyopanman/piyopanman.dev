@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Daily-reports on Piyopanman</title>
-    <link>https://piyopanman.github.io/piyopanman.dev/daily-reports/</link>
+    <link>https://piyopanman.dev/daily-reports/</link>
     <description>Recent content in Daily-reports on Piyopanman</description>
     <image>
-      <url>https://piyopanman.github.io/images/piyopanman.png</url>
-      <link>https://piyopanman.github.io/images/piyopanman.png</link>
+      <url>https://piyopanman.dev/images/piyopanman.png</url>
+      <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Dec 2022 15:09:51 +0900</lastBuildDate><atom:link href="https://piyopanman.github.io/piyopanman.dev/daily-reports/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 15:09:51 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/daily-reports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022年12月30日</title>
-      <link>https://piyopanman.github.io/piyopanman.dev/daily-reports/2022-12-30/</link>
+      <link>https://piyopanman.dev/daily-reports/2022-12-30/</link>
       <pubDate>Fri, 30 Dec 2022 15:09:51 +0900</pubDate>
       
-      <guid>https://piyopanman.github.io/piyopanman.dev/daily-reports/2022-12-30/</guid>
+      <guid>https://piyopanman.dev/daily-reports/2022-12-30/</guid>
       <description>やったこと Hugoで新・日報作りの続き hugoで紛らわしい用語のまとめ というメモを書いた javascript.infoを読む会ソロ 記事読んだ</description>
     </item>
     
     <item>
       <title>2022月12月29日</title>
-      <link>https://piyopanman.github.io/piyopanman.dev/daily-reports/2022-12-29/</link>
+      <link>https://piyopanman.dev/daily-reports/2022-12-29/</link>
       <pubDate>Fri, 30 Dec 2022 01:10:19 +0900</pubDate>
       
-      <guid>https://piyopanman.github.io/piyopanman.dev/daily-reports/2022-12-29/</guid>
+      <guid>https://piyopanman.dev/daily-reports/2022-12-29/</guid>
       <description>やったこと javascript.infoを読む会ソロ（~5.11 日付と時間） 日報作り直すためにHugoのドキュメントずっと読んでた 記事読んだ</description>
     </item>
     
