@@ -74,4 +74,4 @@ front matterの中で
 - 独自のshortcodeを作成する際に使うことが多い（[shortcode template](https://gohugo.io/templates/shortcode-templates/)）
 - shortcodeは`.md`ファイル内でhtmlを書かなくて済むようにという思想から作られたものだが、だからと言ってshortcode変数が(`content/`)`.md`ファイル内で使えるというわけではない
   - `content/xxx.md`ファイル内でfront matterで定義された値にアクセスするには、  
-  `{ {< param yyy >} }`という形でアクセスする(どこに書いてあったか忘れた)
+  `{ {< param yyy >} }`という形でアクセスする([公式](https://gohugo.io/content-management/shortcodes/#param))
