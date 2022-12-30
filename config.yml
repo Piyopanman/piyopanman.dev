@@ -24,13 +24,12 @@ outputs:
     - JSON  
 
 params:
-  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Piyopanman
-  description: "Piyopanman's daily report"
-  keywords: [Blog, Portfolio, PaperMod]
+  description: "Piyopanman's Site"
+  keywords: [Blog, Portfolio, DailyReport]
   # author: Me
-  images: ["<link or path of image for opengraph, twitter-cards>"]
-  # DateFormat: "January 2, 2006"
+  images: ["/images/piyopanman.png"]
   DateFormat: "2006年01月02日"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
