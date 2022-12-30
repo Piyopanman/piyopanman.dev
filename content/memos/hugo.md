@@ -7,7 +7,8 @@ draft: false
 tags: ["Hugo"]
 ---
 
-紛らわしい用語とか紛らわしい用法とかまとめておく！
+紛らわしい用語とか紛らわしい用法とかまとめておく！  
+間違っていたらTwitterか何かで教えてください！！！！
 # Section, Content Type, Archetype
 ## Section
 - [公式](https://gohugo.io/content-management/sections/)
