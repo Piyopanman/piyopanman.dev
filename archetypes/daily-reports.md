@@ -2,6 +2,8 @@
 title: {{ .Name | time.Format .Site.Params.DateFormat }}
 date: {{ .Date }}
 draft: false
+
+score: # 0 ~ 10
 ---
 
 ## やったこと
