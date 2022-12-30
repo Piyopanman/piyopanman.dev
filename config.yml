@@ -76,7 +76,7 @@ params:
     imageTitle: "very kawaii hiyoko"
     buttons:
       - name: 日報
-        url: daily-reports
+        url: categories/daily-report
       - name: Posts
         url: posts
       - name: Tags
@@ -128,7 +128,7 @@ menu:
   main:
     - identifier: daily-reports
       name: 日報
-      url: /daily-reports/
+      url: /categories/daily-report/
       weight: 1
     - idendifier: search
       name: Search

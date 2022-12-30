@@ -1,6 +1,7 @@
 ---
 title: {{ .Name | time.Format .Site.Params.DateFormat }}
 date: {{ .Date }}
+categories: "daily-report"
 draft: false
 
 score: # 0 ~ 10
