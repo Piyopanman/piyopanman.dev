@@ -78,7 +78,7 @@ params:
     imageTitle: "very kawaii hiyoko"
     buttons:
       - name: 日報
-        url: daily-report
+        url: daily-reports
       - name: メモ
         url: memos      
       - name: 記事
