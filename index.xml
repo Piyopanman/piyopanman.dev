@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Dec 2022 15:24:46 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 17:36:05 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年の抱負とか</title>
+      <link>https://piyopanman.dev/articles/ambition-for-2023/</link>
+      <pubDate>Sat, 31 Dec 2022 17:36:05 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/articles/ambition-for-2023/</guid>
+      <description>2023年の抱負とかを書いたよ</description>
+    </item>
+    
+    <item>
+      <title>2022年12月31日</title>
+      <link>https://piyopanman.dev/daily-reports/2022-12-31/</link>
+      <pubDate>Sat, 31 Dec 2022 16:23:34 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2022-12-31/</guid>
+      <description>やったこと Hugoを使って新・日報開発の続き 目次の設定、OGPの設定など Twitter Card Validatorが使えなくなってるの知らなかったよ〜〜 でもtw</description>
+    </item>
+    
     <item>
       <title>【Hugo】紛らわしい用語の整理</title>
       <link>https://piyopanman.dev/memos/hugo/</link>
@@ -26,7 +44,7 @@
       <pubDate>Fri, 30 Dec 2022 15:09:51 +0900</pubDate>
       
       <guid>https://piyopanman.dev/daily-reports/2022-12-30/</guid>
-      <description>やったこと Hugoで新・日報作りの続き hugoで紛らわしい用語のまとめ というメモを書いた javascript.infoを読む会ソロ 記事読んだ</description>
+      <description>やったこと Hugoで新・日報作りの続き なんとかGitHub Pagesを使ってデプロイするところまでできた🎉 カスタムドメインも設定できた！ hu</description>
     </item>
     
     <item>
