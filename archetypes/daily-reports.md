@@ -1,7 +1,7 @@
 ---
 title: {{ .Name | time.Format .Site.Params.DateFormat }}
 date: {{ .Date }}
-categories: "daily-report"
+categories: "日報"
 draft: false
 
 score: # 0 ~ 10
