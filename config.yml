@@ -23,6 +23,9 @@ outputs:
     - RSS
     - JSON  
 
+social:
+  twitter: "hiyoko_coder"    
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Piyopanman
@@ -68,22 +71,23 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Piyopanman
-    subtitle: "つかまり立ちです"
+    subtitle: "🐤つかまり立ちです🐤"
     imageUrl: "images/piyopanman.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: "very kawaii hiyoko"
     buttons:
       - name: 日報
-        url: categories/daily-report
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+        url: daily-report
+      - name: メモ
+        url: memos      
+      - name: 記事
+        url: articles
+
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there 🎉"
+    Title: "Piyopanman.dev 🐤"
     Content: Welcome to my blog
 
   socialIcons:
@@ -127,24 +131,28 @@ menu:
   main:
     - identifier: daily-reports
       name: 日報
-      url: /categories/daily-report/
+      url: /daily-reports/
       weight: 1
-    - idendifier: search
-      name: Search
-      url: /search/
-      weight: 5
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
+    - identifier: memos
+      name: メモ
+      url: /memos/
+      weight: 2
+    - identifier: articles
+      name: 記事
+      url: /articles/
+      weight: 3           
     - identifier: tags
-      name: Tags
+      name: タグ
       url: /tags/
-      weight: 20
-    # - identifier: example
-    #   name: example.org
-    #   url: https://example.org
-    #   weight: 30
+      weight: 5
+    # - identifier: categories
+    #   name: カテゴリ
+    #   url: /categories/
+    #   weight: 5
+    - idendifier: search
+      name: 検索
+      url: /search/
+      weight: 10
     
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
