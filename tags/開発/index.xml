@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Articles on Piyopanman</title>
-    <link>https://piyopanman.dev/articles/</link>
-    <description>Recent content in Articles on Piyopanman</description>
+    <title>開発 on Piyopanman</title>
+    <link>https://piyopanman.dev/tags/%E9%96%8B%E7%99%BA/</link>
+    <description>Recent content in 開発 on Piyopanman</description>
     <image>
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Jan 2023 23:11:28 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 23:11:28 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/tags/%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Javaのクラスのアクセス制御と複数クラスの宣言</title>
       <link>https://piyopanman.dev/articles/java-classes/</link>
@@ -21,12 +21,12 @@
     </item>
     
     <item>
-      <title>2023年の抱負とか</title>
-      <link>https://piyopanman.dev/articles/ambition-for-2023/</link>
-      <pubDate>Sat, 31 Dec 2022 17:36:05 +0900</pubDate>
+      <title>【Hugo】紛らわしい用語の整理</title>
+      <link>https://piyopanman.dev/memos/hugo/</link>
+      <pubDate>Fri, 30 Dec 2022 15:24:46 +0900</pubDate>
       
-      <guid>https://piyopanman.dev/articles/ambition-for-2023/</guid>
-      <description>2023年の抱負とかを書いたよ</description>
+      <guid>https://piyopanman.dev/memos/hugo/</guid>
+      <description>紛らわしい用語とか紛らわしい用法とかまとめておく！ 間違っていたらTwitterか何かで教えてください！！！！ Section, Content Type, Archetype Section 公式 ディレクトリ構造に</description>
     </item>
     
   </channel>

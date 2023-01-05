@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Articles on Piyopanman</title>
-    <link>https://piyopanman.dev/articles/</link>
-    <description>Recent content in Articles on Piyopanman</description>
+    <title>Java on Piyopanman</title>
+    <link>https://piyopanman.dev/tags/java/</link>
+    <description>Recent content in Java on Piyopanman</description>
     <image>
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Jan 2023 23:11:28 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 23:11:28 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Javaのクラスのアクセス制御と複数クラスの宣言</title>
       <link>https://piyopanman.dev/articles/java-classes/</link>
@@ -18,15 +18,6 @@
       
       <guid>https://piyopanman.dev/articles/java-classes/</guid>
       <description>Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！ クラスに対するアクセス制御レベル クラスに対す</description>
-    </item>
-    
-    <item>
-      <title>2023年の抱負とか</title>
-      <link>https://piyopanman.dev/articles/ambition-for-2023/</link>
-      <pubDate>Sat, 31 Dec 2022 17:36:05 +0900</pubDate>
-      
-      <guid>https://piyopanman.dev/articles/ambition-for-2023/</guid>
-      <description>2023年の抱負とかを書いたよ</description>
     </item>
     
   </channel>
