@@ -6,7 +6,7 @@ draft: false
 
 showtoc: true
 tocopen: true
-tags: ["Hugo"]
+tags: ["Hugo", "開発"]
 ---
 
 紛らわしい用語とか紛らわしい用法とかまとめておく！  
