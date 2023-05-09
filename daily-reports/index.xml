@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Jan 2023 21:31:08 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/daily-reports/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2023 23:18:36 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/daily-reports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年05月09日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-09/</link>
+      <pubDate>Tue, 09 May 2023 23:18:36 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-09/</guid>
+      <description>やったこと お仕事 参考サイトや良さそうな本などをカテゴリごと（TypeScript, React, SQL, 競プロなど）に整理して置いておく場所を作りたいため、N</description>
+    </item>
+    
     <item>
       <title>2023年01月05日</title>
       <link>https://piyopanman.dev/daily-reports/2023-01-05/</link>
