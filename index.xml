@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 May 2023 08:00:54 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 23:37:18 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年05月12日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-12/</link>
+      <pubDate>Thu, 11 May 2023 23:37:18 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-12/</guid>
+      <description>やったこと JavaのSealedについて調べてた Java 17でSealed ClassesがPreviewからStandardになった言語仕様 Jav</description>
+    </item>
+    
     <item>
       <title>2023年05月11日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-11/</link>
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>10年のネガティブが10分でポジティブに変わった</title>
       <link>https://piyopanman.dev/articles/small-joy-2023-05-10/</link>
       <pubDate>Thu, 11 May 2023 00:17:21 +0900</pubDate>
       
