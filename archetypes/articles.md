@@ -1,5 +1,5 @@
 ---
-title: # must
+title: "" # must
 date: {{ .Date }}
 categories: ["記事"]
 draft: false
