@@ -8,7 +8,7 @@ showtoc: true
 tocopen: true
 
 description: ""
-tags: ["刀剣" "趣味"]
+tags: ["刀剣", "趣味"]
 
 cover: 
     image: "" # image path/url
