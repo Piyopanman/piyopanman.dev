@@ -10,7 +10,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 May 2023 23:11:01 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 23:56:40 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年05月22日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-22/</link>
+      <pubDate>Mon, 22 May 2023 23:56:40 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-22/</guid>
+      <description>やったこと yappliについて調べた CMでノーコードがなんたらって言っていたのでkintoneの強豪かなと思っていたが、yappliはお客様</description>
+    </item>
+    
+    <item>
+      <title>2023年05月21日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-21/</link>
+      <pubDate>Sun, 21 May 2023 21:38:12 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-21/</guid>
+      <description>やったこと ABC213 A 排他的論理和の問題だった 技術書典、初参加してきた〜〜 ツイート 久しぶりに同人誌即売会に参加したが、気になるもの片っ端から買って行</description>
+    </item>
+    
+    <item>
+      <title>2023年05月20日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-20/</link>
+      <pubDate>Sat, 20 May 2023 23:34:03 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-20/</guid>
+      <description>やったこと MusicLMという音楽生成AIがあるらしい（ 参考 ） ABC212 A APG4B(AtCoder Programming Guide for Beginner)を1.07まで読んだ 自分がタスク管理ツールに求め</description>
+    </item>
+    
+    <item>
+      <title>2023年05月19日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-19/</link>
+      <pubDate>Sat, 20 May 2023 23:33:53 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-19/</guid>
+      <description>やったこと ABC211 A オブザーバビリティって何っていう概要だけ本当にさらっと調べた ログとメトリクスとトレース（とプロファイル）が大事 docker&amp;a</description>
+    </item>
+    
+    <item>
+      <title>2023年05月18日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-18/</link>
+      <pubDate>Thu, 18 May 2023 23:29:03 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-18/</guid>
+      <description>やったこと Qiitaのベータ版を有効にしてダークモードで記事の閲覧ができるようになった ABC210 A Denoの入門っぽい jlinkというコマンドで、カ</description>
+    </item>
+    
     <item>
       <title>2023年05月17日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-17/</link>
