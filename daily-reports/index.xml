@@ -10,7 +10,61 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 May 2023 23:56:40 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/daily-reports/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 May 2023 09:28:30 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/daily-reports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年05月27日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-27/</link>
+      <pubDate>Sun, 28 May 2023 09:28:30 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-27/</guid>
+      <description>やったこと ABC リングフィット タスク管理ツール調査 Linearがタスクの上限250だったので…これなかったらマジで使い続けていたと思う 読んだ記事</description>
+    </item>
+    
+    <item>
+      <title>2023年05月28日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-28/</link>
+      <pubDate>Sun, 28 May 2023 09:28:25 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-28/</guid>
+      <description>やったこと ABC220 A APG4b ~2.06 先週１週間の振り返り 今週１週間で何するかの計画 タスク管理のためにGitHub Projects使っている人がいたので調べてみ</description>
+    </item>
+    
+    <item>
+      <title>2023年05月26日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-26/</link>
+      <pubDate>Thu, 25 May 2023 22:53:20 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-26/</guid>
+      <description>やったこと ABC218 A 読んだ記事 # Web標準に新たなステータス「Baseline」が登場。変化し続けるWeb標準のうちWeb開発者が安心して使える機</description>
+    </item>
+    
+    <item>
+      <title>2023年05月25日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-25/</link>
+      <pubDate>Thu, 25 May 2023 22:53:07 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-25/</guid>
+      <description>やったこと リングフィット ABC217 A、APG4bの~2.02 お仕事関連のキャッチアップ 読んだ記事 スクラムでユーザー理解を深める仕組みを社内に浸透 ニー</description>
+    </item>
+    
+    <item>
+      <title>2023年05月24日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-24/</link>
+      <pubDate>Wed, 24 May 2023 23:25:10 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-24/</guid>
+      <description>やったこと お散歩 重大な事実に気づいてしまったのですが、Linearの無料プランだとissueの上限が250&amp;hellip;&amp;hellip;&amp;</description>
+    </item>
+    
+    <item>
+      <title>2023年05月23日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-05-23/</link>
+      <pubDate>Tue, 23 May 2023 23:18:51 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-05-23/</guid>
+      <description>やったこと html, js, php, git などの無料問題集があることを知る ABC215 A, APG4bの1.13まで 15．Facadeパターン | TECHSCORE(テックスコア)</description>
+    </item>
+    
     <item>
       <title>2023年05月22日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-22/</link>
