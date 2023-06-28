@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 May 2023 23:47:18 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 21:19:47 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugoのフロントマターの変数の入力をGitフックで強制する</title>
+      <link>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</link>
+      <pubDate>Tue, 27 Jun 2023 21:19:47 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</guid>
+      <description>Hugoのフロントマターの値の入力を強制させるためにGitフックを使ったのでそのメモです Hugoのフロントマターとは フロントマターはmdファ</description>
+    </item>
+    
     <item>
       <title>シソンヌのじろうから学ぶT型・Π型人材</title>
       <link>https://piyopanman.dev/articles/sissonne_jiro/</link>
