@@ -13,6 +13,6 @@ for file in $(git diff --name-only --cached | grep 'content/daily-reports/.*\.md
 done
 
 if ! $is_can_commit; then
-  echo "fatal: 日報のmdファイルにscoreを指定してからコミットしてください"
+  echo "日報のmdファイルにscoreを指定してからコミットしてください"
   exit 1
 fi
