@@ -21,7 +21,7 @@ cover:
 久しぶりに刀剣を見られた！  
 いつぶりか思い出せないくらい。  
 ずっとここら辺に住んでいるけど全然こんな刀剣市をやってるお店があるなんて知らなかったので、この機会に行けてよかったです。 
-{{<figure src="/image/articles/katana-exhibition-2023-05-14-01.jpg">}}
+{{<figure src="/images/articles/katana-exhibition-2023-05-14-01.jpg">}}
 ３階で展示即売をやっており、お兄さんが色々解説してくれました。   
 江戸時代中期から幕末にかけての刀が多く、３口ほど現代刀もありました。
 特に多かったのは長船派。４割くらい長船だった気がする。
@@ -47,4 +47,4 @@ cover:
 なので、12月にも開催されるらしい刀剣の展示即売会に関してのDMをいただけるように書いておきました。  
 
 いや〜〜〜久しぶりに鉄分補給した！やっぱいいね！  
-{{<figure src="/image/articles/katana-exhibition-2023-05-14-02.jpg" width="40%">}}
+{{<figure src="/images/articles/katana-exhibition-2023-05-14-02.jpg" width="40%">}}
