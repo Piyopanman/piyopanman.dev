@@ -2,10 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://piyopanman.dev/articles/</loc>
-    <lastmod>2023-06-27T21:19:47+09:00</lastmod>
+    <loc>https://piyopanman.dev/daily-reports/2023-07-01/</loc>
+    <lastmod>2023-07-01T23:18:19+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/categories/</loc>
+    <lastmod>2023-07-01T23:18:19+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/daily-reports/</loc>
+    <lastmod>2023-07-01T23:18:19+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/</loc>
+    <lastmod>2023-07-01T23:18:19+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/categories/%E6%97%A5%E5%A0%B1/</loc>
+    <lastmod>2023-07-01T23:18:19+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/daily-reports/2023-06-30/</loc>
+    <lastmod>2023-06-28T23:21:45+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/daily-reports/2023-06-29/</loc>
+    <lastmod>2023-06-28T23:21:37+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/daily-reports/2023-06-28/</loc>
+    <lastmod>2023-06-28T23:21:20+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/articles/</loc>
     <lastmod>2023-06-27T21:19:47+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/tags/git%E3%83%95%E3%83%83%E3%82%AF/</loc>
@@ -17,9 +38,6 @@
     <loc>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</loc>
     <lastmod>2023-06-27T21:19:47+09:00</lastmod>
   </url><url>
-    <loc>https://piyopanman.dev/</loc>
-    <lastmod>2023-06-27T21:19:47+09:00</lastmod>
-  </url><url>
     <loc>https://piyopanman.dev/tags/</loc>
     <lastmod>2023-06-27T21:19:47+09:00</lastmod>
   </url><url>
@@ -27,12 +45,6 @@
     <lastmod>2023-06-27T21:19:47+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/daily-reports/2023-06-27/</loc>
-    <lastmod>2023-06-26T23:37:23+09:00</lastmod>
-  </url><url>
-    <loc>https://piyopanman.dev/daily-reports/</loc>
-    <lastmod>2023-06-26T23:37:23+09:00</lastmod>
-  </url><url>
-    <loc>https://piyopanman.dev/categories/%E6%97%A5%E5%A0%B1/</loc>
     <lastmod>2023-06-26T23:37:23+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/daily-reports/2023-06-26/</loc>

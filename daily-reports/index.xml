@@ -10,7 +10,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jun 2023 23:37:23 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/daily-reports/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 23:18:19 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/daily-reports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年07月01日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-01/</link>
+      <pubDate>Sat, 01 Jul 2023 23:18:19 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-01/</guid>
+      <description>やったこと #キャリア Developers Boost 2023 基調講演「激動の時代を生き抜くためにU30が身につけるべきソフトスキル」 - Speaker Deck テクニカルスキルだけではなくコミュニ</description>
+    </item>
+    
+    <item>
+      <title>2023年06月30日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-06-30/</link>
+      <pubDate>Wed, 28 Jun 2023 23:21:45 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-06-30/</guid>
+      <description>やったこと GMO Developers | JJUG CCC 2023 Spring 解いた！ #Java Javaのstaticブロック、知らなかった&amp;hellip;。Java8以降は使うことなくなったらしい Ja</description>
+    </item>
+    
+    <item>
+      <title>2023年06月29日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-06-29/</link>
+      <pubDate>Wed, 28 Jun 2023 23:21:37 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-06-29/</guid>
+      <description>やったこと リングフィット obsidianのテンプレートの改善 プログラマー脳chapter8読み終わった Javaのnew ArrayList()</description>
+    </item>
+    
+    <item>
+      <title>2023年06月28日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-06-28/</link>
+      <pubDate>Wed, 28 Jun 2023 23:21:20 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-06-28/</guid>
+      <description>やったこと piyopanman.devで画像を表示させる HugoのBuilt-inのshortcodes を使うのが良さそう。 &amp;gt;An elephant at sunset のように</description>
+    </item>
+    
     <item>
       <title>2023年06月27日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-27/</link>
