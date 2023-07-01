@@ -1,0 +1,6 @@
+#!/bin/bash
+
+BRANCH_NAME=$(git symbolic-ref --short HEAD)
+COMMIT_MSG_PREFIX=$(echo $BRANCH_NAME | cut -d "-" -f 1-2)
+COMMIT_MSG=$(cat "$1")
+echo "${COMMIT_MSG_PREFIX} ${COMMIT_MSG}" > "$1"
