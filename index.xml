@@ -10,7 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Jul 2023 23:18:19 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jul 2023 22:11:03 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>精神的なフッ軽さ</title>
+      <link>https://piyopanman.dev/memos/fukkaru/</link>
+      <pubDate>Wed, 05 Jul 2023 22:11:03 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/memos/fukkaru/</guid>
+      <description>このツイートについて 技術的な文脈に限らず、何かに取り組むときの精神的なフッ軽さっていいなぁと最近よく思う 具体的で明確な理由がなくてもとりあえ</description>
+    </item>
+    
+    <item>
+      <title>2023年07月03日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-03/</link>
+      <pubDate>Sat, 01 Jul 2023 23:23:18 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-03/</guid>
+      <description>やったこと AtCoder React+Viteで環境構築、まじまじのマジで爆速でできて驚いた。なんだこれ 私が大学２年生でpiyopanman.com作った</description>
+    </item>
+    
+    <item>
+      <title>2023年07月02日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-02/</link>
+      <pubDate>Sat, 01 Jul 2023 23:23:14 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-02/</guid>
+      <description>やったこと 【女性限定/オフライン】Java 女子部 &amp;amp; GTUGGirls コラボイベント「はじめてのJava」 - Java女子部(Javajo) | Doorkeeper に参加 めっちゃ目</description>
+    </item>
+    
     <item>
       <title>2023年07月01日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-01/</link>
@@ -512,7 +539,7 @@
       <pubDate>Thu, 05 Jan 2023 23:11:28 +0900</pubDate>
       
       <guid>https://piyopanman.dev/articles/java-classes/</guid>
-      <description>Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！ クラスに対するアクセス制御レベル クラスに対す</description>
+      <description>Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！ Javaのアクセス修飾子 以下の４つがあります</description>
     </item>
     
     <item>

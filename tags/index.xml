@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jun 2023 21:19:47 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jul 2023 22:11:03 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ポエム</title>
+      <link>https://piyopanman.dev/tags/%E3%83%9D%E3%82%A8%E3%83%A0/</link>
+      <pubDate>Wed, 05 Jul 2023 22:11:03 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/tags/%E3%83%9D%E3%82%A8%E3%83%A0/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Gitフック</title>
       <link>https://piyopanman.dev/tags/git%E3%83%95%E3%83%83%E3%82%AF/</link>
@@ -26,15 +35,6 @@
       <pubDate>Tue, 27 Jun 2023 21:19:47 +0900</pubDate>
       
       <guid>https://piyopanman.dev/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ポエム</title>
-      <link>https://piyopanman.dev/tags/%E3%83%9D%E3%82%A8%E3%83%A0/</link>
-      <pubDate>Mon, 29 May 2023 23:47:18 +0900</pubDate>
-      
-      <guid>https://piyopanman.dev/tags/%E3%83%9D%E3%82%A8%E3%83%A0/</guid>
       <description></description>
     </item>
     

@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Dec 2022 15:24:46 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/memos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jul 2023 22:11:03 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/memos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>精神的なフッ軽さ</title>
+      <link>https://piyopanman.dev/memos/fukkaru/</link>
+      <pubDate>Wed, 05 Jul 2023 22:11:03 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/memos/fukkaru/</guid>
+      <description>このツイートについて 技術的な文脈に限らず、何かに取り組むときの精神的なフッ軽さっていいなぁと最近よく思う 具体的で明確な理由がなくてもとりあえ</description>
+    </item>
+    
     <item>
       <title>【Hugo】紛らわしい用語の整理</title>
       <link>https://piyopanman.dev/memos/hugo/</link>
