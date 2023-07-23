@@ -10,7 +10,88 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Jul 2023 22:11:03 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2023 09:26:35 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年07月23日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-23/</link>
+      <pubDate>Sun, 23 Jul 2023 09:26:35 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-23/</guid>
+      <description>やったこと 頭の良い人が話す前に考えていること 読破 スプリントレビュー スプリントプランニング 台本 JavaでHTTPサーバ続き 404ページは返るよ</description>
+    </item>
+    
+    <item>
+      <title>2023年07月22日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-22/</link>
+      <pubDate>Sun, 23 Jul 2023 09:26:30 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-22/</guid>
+      <description>やったこと JavaでHTTPサーバ作るやつ（ これ ） GETメソッドがきた時に、あればhtmlファイル、なければ４０４ページを返すようにした Ht</description>
+    </item>
+    
+    <item>
+      <title>2023年07月21日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-21/</link>
+      <pubDate>Sun, 23 Jul 2023 09:26:26 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-21/</guid>
+      <description>やったこと リングフィット 読んだ記事 僕が Laravel のコントリビューターになるまで - Qiita いい話。 Kotlinエバンジェリストとなった僕を形作ったのは、人と</description>
+    </item>
+    
+    <item>
+      <title>2023年07月20日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-20/</link>
+      <pubDate>Sun, 23 Jul 2023 09:26:20 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-20/</guid>
+      <description>やったこと 「頭のいい人が考えていること」読み進めた リングフィット Java女子部のイベントに参加した際に得た情報の整理 JavaのHTTPサーバ</description>
+    </item>
+    
+    <item>
+      <title>2023年07月19日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-19/</link>
+      <pubDate>Sun, 23 Jul 2023 09:26:13 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-19/</guid>
+      <description>やったこと monthlyの目標を振り返る 目標と全然ずれたことをしていることに気づく〜〜〜 う〜んむずいね 7月前半は同期と話す機会が多くて7月の</description>
+    </item>
+    
+    <item>
+      <title>2023年07月18日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-18/</link>
+      <pubDate>Sun, 23 Jul 2023 09:26:06 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-18/</guid>
+      <description>やったこと リングフィット スライド作り 読んだ記事 新卒の頃に思っていたこと、気づいたこと お仕事頑張ろうの気持ちになった 所感 お仕事終わり、Java</description>
+    </item>
+    
+    <item>
+      <title>2023年07月16日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-16/</link>
+      <pubDate>Sun, 23 Jul 2023 09:26:00 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-16/</guid>
+      <description>やったこと AtCoder リングフィット Udemyのもう怖くないLinuxコマンド終わった Linuxのしくみを少しだけ目を通した 読み進めようと思ったが、先</description>
+    </item>
+    
+    <item>
+      <title>2023年07月05日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-05/</link>
+      <pubDate>Sun, 23 Jul 2023 09:25:54 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-05/</guid>
+      <description>やったこと 読んだ記事 Webhookって何？を子どもでもわかるように描いてみた | kintone hive online</description>
+    </item>
+    
+    <item>
+      <title>2023年07月04日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-07-04/</link>
+      <pubDate>Sun, 23 Jul 2023 09:25:47 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-07-04/</guid>
+      <description>やったこと 読んだ記事 がんばらないObsidianノート術 - Qiita これ見て色々コミュニティプラグインを入れた。カレンダーとフォルダに絵文字を使える</description>
+    </item>
+    
     <item>
       <title>精神的なフッ軽さ</title>
       <link>https://piyopanman.dev/memos/fukkaru/</link>
