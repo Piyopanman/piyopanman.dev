@@ -10,13 +10,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Aug 2023 22:36:35 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 23:27:13 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日報</title>
       <link>https://piyopanman.dev/categories/%E6%97%A5%E5%A0%B1/</link>
-      <pubDate>Sun, 06 Aug 2023 22:36:35 +0900</pubDate>
+      <pubDate>Sat, 02 Sep 2023 23:27:13 +0900</pubDate>
       
       <guid>https://piyopanman.dev/categories/%E6%97%A5%E5%A0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>記事</title>
+      <link>https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/</link>
+      <pubDate>Sat, 02 Sep 2023 23:01:21 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Wed, 05 Jul 2023 22:11:03 +0900</pubDate>
       
       <guid>https://piyopanman.dev/categories/%E3%83%A1%E3%83%A2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>記事</title>
-      <link>https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/</link>
-      <pubDate>Tue, 27 Jun 2023 21:19:47 +0900</pubDate>
-      
-      <guid>https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/</guid>
       <description></description>
     </item>
     

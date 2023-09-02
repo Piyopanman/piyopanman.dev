@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jun 2023 21:19:47 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 23:01:21 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>両国 刀剣博物館「2023年度現代刀職展」に行ってきた</title>
+      <link>https://piyopanman.dev/articles/katana-exhibition-2023-08-28/</link>
+      <pubDate>Sat, 02 Sep 2023 23:01:21 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/articles/katana-exhibition-2023-08-28/</guid>
+      <description>両国の刀剣博物館の展示「2023年度現代刀職展 ー今に伝わるいにしえの技ー 」を見に行ってきました！ 良質な鉄分補給ができて大変よかったです。 刀剣</description>
+    </item>
+    
     <item>
       <title>Hugoのフロントマターの変数の入力をGitフックで強制する</title>
       <link>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</link>
