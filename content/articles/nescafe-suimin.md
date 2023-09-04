@@ -1,5 +1,5 @@
 ---
-title: "" # must
+title: "睡眠カフェで「立ってお昼寝」してきた" # must
 date: 2023-09-03T20:20:14+09:00
 categories: ["記事"]
 draft: false
