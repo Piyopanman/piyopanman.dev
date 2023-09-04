@@ -4,8 +4,8 @@ date: 2023-09-02T23:01:21+09:00
 categories: ["記事"]
 draft: false
 
-showtoc: true
-tocopen: true
+showtoc: false
+tocopen: false
 
 description: ""
 tags: ["刀剣", "趣味"]
@@ -24,7 +24,7 @@ cover:
 [刀剣博物館HP](https://www.touken.or.jp/museum/)
 
 # 声を大にして言いたい
-**現代刀職展示の短刀展示の方法が大好き！！！！！ということ！！！  
+**現代刀職展示の短刀展示の方法が大好き！！！！！**ということ！！！  
 
 たくさんの短刀が刀枕にちょこんと乗っかっているのが可愛すぎる。（自分の写真フォルダを見るに、少なくとも一昨年からこの展示方法）  
 
