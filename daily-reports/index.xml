@@ -10,7 +10,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 24 Sep 2023 23:45:16 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/daily-reports/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 23:03:12 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/daily-reports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年10月01日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-10-01/</link>
+      <pubDate>Sun, 01 Oct 2023 23:03:12 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-10-01/</guid>
+      <description>やったこと プログラマー脳読みきった！ オンボーディングの章、特によかったな。実際に誰かを受け入れる時も、自分がチームに受け入れられる時も、特に</description>
+    </item>
+    
+    <item>
+      <title>2023年09月29日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-09-29/</link>
+      <pubDate>Fri, 29 Sep 2023 00:13:05 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-09-29/</guid>
+      <description>やったこと プロになるSpring chapter24-27の復習 プログラマー脳 chapter11 プログラマの作業中の割り込み作業について。割り込みは自覚がなく</description>
+    </item>
+    
+    <item>
+      <title>2023年09月28日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-09-28/</link>
+      <pubDate>Fri, 29 Sep 2023 00:12:47 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-09-28/</guid>
+      <description>やったこと プロになるSPring chapter27 Service, Repositoryのインテグレーションテスト vimに慣れる会（ソロ） 良かったこと 腰が重いタスクに着手で</description>
+    </item>
+    
+    <item>
+      <title>2023年09月26日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-09-26/</link>
+      <pubDate>Mon, 25 Sep 2023 23:29:58 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-09-26/</guid>
+      <description>やったこと プロになるSpring chapter27 Serviceのユニットテスト doReturn(hoge).when(mockObject).someMe</description>
+    </item>
+    
+    <item>
+      <title>2023年09月25日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-09-25/</link>
+      <pubDate>Sun, 24 Sep 2023 23:47:18 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-09-25/</guid>
+      <description>やったこと Effective Java項目37を一生やっていた 読んだ記事 1on1ミーティングで上司からのサポートを引き出す方法 28項目の質問集を活用する | キャ</description>
+    </item>
+    
     <item>
       <title>2023年09月11日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-11/</link>
