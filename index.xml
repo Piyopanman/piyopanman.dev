@@ -10,7 +10,79 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Oct 2023 23:03:12 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Nov 2023 23:04:00 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年11月05日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-11-05/</link>
+      <pubDate>Sun, 05 Nov 2023 23:04:00 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-11-05/</guid>
+      <description>やったこと 応用情報キタミ式 文字集合、符号化方式 論理回路 全加算器、半加算器 スプリントプランニング 良かったこと 作業しない言い訳を思いついちゃった</description>
+    </item>
+    
+    <item>
+      <title>2023年11月02日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-11-02/</link>
+      <pubDate>Thu, 02 Nov 2023 22:52:54 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-11-02/</guid>
+      <description>やったこと キタミ式 誤差 論理演算 Mockitoのドキュメント読んでた 読んだ記事 課題を管理して実行して達成するための手順 - そーだいなるらくがき帳</description>
+    </item>
+    
+    <item>
+      <title>2023年10月30日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-10-30/</link>
+      <pubDate>Tue, 31 Oct 2023 00:13:30 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-10-30/</guid>
+      <description>やったこと SSO https://wa3.i-3-i.info/word11615.html キタミ式1-1の復習 社会人で試験勉強をする人に向けてのツイート 読んだ記事 かつて「のび太君」だった私からの復讐 新刊『世界一流エン</description>
+    </item>
+    
+    <item>
+      <title>2023年10月16日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-10-16/</link>
+      <pubDate>Mon, 16 Oct 2023 23:16:30 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-10-16/</guid>
+      <description>やったこと 応用情報キタミ式 chapter1(基礎理論)の途中まで 良かったこと 朝ちゃんとリングフィットしたこと ご飯食べすぎなかったこと 改善でき</description>
+    </item>
+    
+    <item>
+      <title>2023年10月10日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-10-10/</link>
+      <pubDate>Tue, 10 Oct 2023 23:18:54 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-10-10/</guid>
+      <description>やったこと スプリントレビュー、プランニング Effective Java項目51 メソッドのパラメータについて注意することについて 良かったこと ちょっと遅れてしまっ</description>
+    </item>
+    
+    <item>
+      <title>2023年10月05日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-10-05/</link>
+      <pubDate>Thu, 05 Oct 2023 23:15:41 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-10-05/</guid>
+      <description>やったこと The Java Tutorialsのジェネリクス 非具象化可能仮パラメータを可変長引数メソッドに使用する場合のコンパイラの警告の改善 Non-Reifiable Types (The Jav</description>
+    </item>
+    
+    <item>
+      <title>2023年10月04日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-10-04/</link>
+      <pubDate>Thu, 05 Oct 2023 00:12:21 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-10-04/</guid>
+      <description>やったこと リングフィット The Java Tutorialsのジェネリクスの章 Generics, Inheritance, and Subtypes (The Java™ Tutorials &amp;gt; Learning the Java Language &amp;gt; Generics (Updated)) ここ タイポある Effects of Type Erasure and Bridge Methods (The Java</description>
+    </item>
+    
+    <item>
+      <title>2023年10月03日</title>
+      <link>https://piyopanman.dev/daily-reports/2023-10-03/</link>
+      <pubDate>Wed, 04 Oct 2023 00:17:18 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/daily-reports/2023-10-03/</guid>
+      <description>やったこと リングフィット プロになる spring chapter28 Controllerのユニットテスト Lesson: Generics (Updated) (The Java™ Tutorials &amp;gt; Learning the Java Language) を途中まで読んだ ジェネリクスについて</description>
+    </item>
+    
     <item>
       <title>2023年10月01日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-01/</link>
