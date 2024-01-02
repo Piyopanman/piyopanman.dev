@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 Sep 2023 20:20:14 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jan 2024 17:36:05 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年の振り返りと2024年の抱負とか</title>
+      <link>https://piyopanman.dev/articles/ambition-for-2024/</link>
+      <pubDate>Tue, 02 Jan 2024 17:36:05 +0900</pubDate>
+      
+      <guid>https://piyopanman.dev/articles/ambition-for-2024/</guid>
+      <description>2023年の振り返りと2024年の抱負とかを書いたよ</description>
+    </item>
+    
     <item>
       <title>睡眠カフェで「立ってお昼寝」してきた</title>
       <link>https://piyopanman.dev/articles/nescafe-suimin/</link>
@@ -72,15 +81,6 @@
       
       <guid>https://piyopanman.dev/articles/java-classes/</guid>
       <description>Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！ Javaのアクセス修飾子 以下の４つがあります</description>
-    </item>
-    
-    <item>
-      <title>2023年の振り返りと2024年の抱負とか</title>
-      <link>https://piyopanman.dev/articles/ambition-for-2024/</link>
-      <pubDate>Sat, 31 Dec 2022 17:36:05 +0900</pubDate>
-      
-      <guid>https://piyopanman.dev/articles/ambition-for-2024/</guid>
-      <description>2024年の抱負とかを書いたよ</description>
     </item>
     
     <item>
