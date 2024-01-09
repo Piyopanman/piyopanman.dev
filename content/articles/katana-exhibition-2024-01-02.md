@@ -74,16 +74,22 @@ JR飯田橋駅から徒歩10分ほどのところにあり、アクセス良好�
 {{< figure src="/images/articles/katana-exhibition-2024-01-02/04.jpg" >}} 
 吉原義人さんの脇差。  
 表裏で全然異なる刃文を焼いた脇差で、裏の刃文を見られるように鏡が置いてありました。素晴らしい気遣いの展示だ！！  
-お正月から美しい華やかな刃文を見られて、良い一年になりそう。  
+お正月から美しい華やかな刃文を見られて、良い一年になりそう。 
+
+---
 
 {{< figure src="/images/articles/katana-exhibition-2024-01-02/05.jpg" >}} 
 {{< figure src="/images/articles/katana-exhibition-2024-01-02/06.jpg" >}} 
 石井成道さんの脇差。  
 焼刃土をおかずに焼入れしたという珍しい作られ方をした刀！人間の意図が一切含まれない自然な刃文、と思うとすごくロマンチックなものに見えました。  
 
+---
+
 {{< figure src="/images/articles/katana-exhibition-2024-01-02/09.jpg" >}} 
 {{< figure src="/images/articles/katana-exhibition-2024-01-02/10.jpg" >}} 
 加藤慎平さんの則重を意識した刀。穏やかなのたれの刃文と、帽子部分が可愛い。  
+
+---
 
 {{< figure src="/images/articles/katana-exhibition-2024-01-02/07.jpg" >}} 
 目貫の展示もありました。  
