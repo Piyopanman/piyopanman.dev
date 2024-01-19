@@ -3,19 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://piyopanman.dev/articles/</loc>
-    <lastmod>2024-01-09T21:17:02+09:00</lastmod>
+    <lastmod>2024-01-17T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/categories/</loc>
-    <lastmod>2024-01-09T21:17:02+09:00</lastmod>
+    <lastmod>2024-01-17T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/</loc>
-    <lastmod>2024-01-09T21:17:02+09:00</lastmod>
+    <lastmod>2024-01-17T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/tags/</loc>
-    <lastmod>2024-01-09T21:17:02+09:00</lastmod>
+    <lastmod>2024-01-17T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/tags/%E3%83%9D%E3%82%A8%E3%83%A0/</loc>
+    <lastmod>2024-01-17T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/</loc>
-    <lastmod>2024-01-09T21:17:02+09:00</lastmod>
+    <lastmod>2024-01-17T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/articles/digital-detox-1-week/</loc>
+    <lastmod>2024-01-17T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/tags/%E8%B6%A3%E5%91%B3/</loc>
     <lastmod>2024-01-09T21:17:02+09:00</lastmod>
@@ -171,9 +177,6 @@
     <lastmod>2023-07-23T09:25:47+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/memos/</loc>
-    <lastmod>2023-07-05T22:11:03+09:00</lastmod>
-  </url><url>
-    <loc>https://piyopanman.dev/tags/%E3%83%9D%E3%82%A8%E3%83%A0/</loc>
     <lastmod>2023-07-05T22:11:03+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/categories/%E3%83%A1%E3%83%A2/</loc>
