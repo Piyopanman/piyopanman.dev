@@ -1,11 +1,11 @@
 ---
-title: "複数の行動をチャンク化して「1日に1ターンしか行動できない」から脱する"
+title: "行動をチャンク化して「1日に1ターンしか行動できない」から脱却する"
 date: 2024-03-02T23:08:58+09:00
 categories: ["メモ"]
 draft: false
 
-showtoc: true
-tocopen: true
+showtoc: false
+tocopen: false
 tags: []
 ---
 
