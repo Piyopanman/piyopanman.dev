@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://piyopanman.dev/articles/</loc>
-    <lastmod>2024-01-17T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://piyopanman.dev/categories/</loc>
-    <lastmod>2024-01-17T00:00:00+09:00</lastmod>
+    <lastmod>2024-03-02T23:08:58+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/memos/</loc>
+    <lastmod>2024-03-02T23:08:58+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/</loc>
+    <lastmod>2024-03-02T23:08:58+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/categories/%E3%83%A1%E3%83%A2/</loc>
+    <lastmod>2024-03-02T23:08:58+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/memos/chunking-actions/</loc>
+    <lastmod>2024-03-02T23:08:58+09:00</lastmod>
+  </url><url>
+    <loc>https://piyopanman.dev/articles/</loc>
     <lastmod>2024-01-17T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/tags/</loc>
@@ -175,12 +184,6 @@
   </url><url>
     <loc>https://piyopanman.dev/daily-reports/2023-07-04/</loc>
     <lastmod>2023-07-23T09:25:47+09:00</lastmod>
-  </url><url>
-    <loc>https://piyopanman.dev/memos/</loc>
-    <lastmod>2023-07-05T22:11:03+09:00</lastmod>
-  </url><url>
-    <loc>https://piyopanman.dev/categories/%E3%83%A1%E3%83%A2/</loc>
-    <lastmod>2023-07-05T22:11:03+09:00</lastmod>
   </url><url>
     <loc>https://piyopanman.dev/memos/fukkaru/</loc>
     <lastmod>2023-07-05T22:11:03+09:00</lastmod>
