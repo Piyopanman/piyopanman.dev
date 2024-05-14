@@ -5,29 +5,27 @@
     <link>https://piyopanman.dev/tags/hugo/</link>
     <description>Recent content in Hugo on Piyopanman</description>
     <image>
+      <title>Piyopanman</title>
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jun 2023 21:19:47 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 21:19:47 +0900</lastBuildDate>
+    <atom:link href="https://piyopanman.dev/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugoのフロントマターの変数の入力をGitフックで強制する</title>
       <link>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</link>
       <pubDate>Tue, 27 Jun 2023 21:19:47 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</guid>
       <description>Hugoのフロントマターの値の入力を強制させるためにGitフックを使ったのでそのメモです Hugoのフロントマターとは フロントマターはmdファ</description>
     </item>
-    
     <item>
       <title>【Hugo】紛らわしい用語の整理</title>
       <link>https://piyopanman.dev/memos/hugo/</link>
       <pubDate>Fri, 30 Dec 2022 15:24:46 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/memos/hugo/</guid>
       <description>紛らわしい用語とか紛らわしい用法とかまとめておく！ 間違っていたらTwitterか何かで教えてください！！！！ Section, Content Type, Archetype Section 公式 ディレクトリ構造に</description>
     </item>
-    
   </channel>
 </rss>

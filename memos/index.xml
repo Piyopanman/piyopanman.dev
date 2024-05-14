@@ -5,38 +5,34 @@
     <link>https://piyopanman.dev/memos/</link>
     <description>Recent content in Memos on Piyopanman</description>
     <image>
+      <title>Piyopanman</title>
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 02 Mar 2024 23:08:58 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/memos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Mar 2024 23:08:58 +0900</lastBuildDate>
+    <atom:link href="https://piyopanman.dev/memos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>行動をチャンク化して「1日に1ターンしか行動できない」から脱却する</title>
       <link>https://piyopanman.dev/memos/chunking-actions/</link>
       <pubDate>Sat, 02 Mar 2024 23:08:58 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/memos/chunking-actions/</guid>
       <description>1 日に 1 ターンしか行動できない方、いませんか？私です。というか、私でした。 例えば、 その日美容院に行く予定があったら、美容院に行く以外のことは</description>
     </item>
-    
     <item>
       <title>精神的なフッ軽さ</title>
       <link>https://piyopanman.dev/memos/fukkaru/</link>
       <pubDate>Wed, 05 Jul 2023 22:11:03 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/memos/fukkaru/</guid>
       <description>このツイートについて 技術的な文脈に限らず、何かに取り組むときの精神的なフッ軽さっていいなぁと最近よく思う 具体的で明確な理由がなくてもとりあえ</description>
     </item>
-    
     <item>
       <title>【Hugo】紛らわしい用語の整理</title>
       <link>https://piyopanman.dev/memos/hugo/</link>
       <pubDate>Fri, 30 Dec 2022 15:24:46 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/memos/hugo/</guid>
       <description>紛らわしい用語とか紛らわしい用法とかまとめておく！ 間違っていたらTwitterか何かで教えてください！！！！ Section, Content Type, Archetype Section 公式 ディレクトリ構造に</description>
     </item>
-    
   </channel>
 </rss>

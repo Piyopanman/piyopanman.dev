@@ -5,110 +5,90 @@
     <link>https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/</link>
     <description>Recent content in 記事 on Piyopanman</description>
     <image>
+      <title>Piyopanman</title>
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://piyopanman.dev/categories/%E8%A8%98%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>短時間で得られる刺激から距離を置く</title>
       <link>https://piyopanman.dev/articles/digital-detox-1-week/</link>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/digital-detox-1-week/</guid>
       <description>身近な人がデジタルデトックスをやるということを聞き、自分もこれは必要かもしれないかもなと感じたため、自分なりにデジタルデトックスもどきを実践</description>
     </item>
-    
     <item>
       <title>靖国神社「新春刀剣展」に行ってきた</title>
       <link>https://piyopanman.dev/articles/katana-exhibition-2024-01-02/</link>
       <pubDate>Tue, 09 Jan 2024 21:17:02 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/katana-exhibition-2024-01-02/</guid>
       <description>2024年一発目、靖国神社内にある遊就館の展示「新春刀剣展」に行ってきました！ 新年から美しい刀を見られて心が洗われました。 概要 今回私が行って</description>
     </item>
-    
     <item>
       <title>2023年の振り返りと2024年の抱負とか</title>
       <link>https://piyopanman.dev/articles/ambition-for-2024/</link>
       <pubDate>Tue, 02 Jan 2024 17:36:05 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/ambition-for-2024/</guid>
       <description>2023年の振り返りと2024年の抱負とかを書いたよ</description>
     </item>
-    
     <item>
       <title>睡眠カフェで「立ってお昼寝」してきた</title>
       <link>https://piyopanman.dev/articles/nescafe-suimin/</link>
       <pubDate>Sun, 03 Sep 2023 20:20:14 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/nescafe-suimin/</guid>
       <description>ネスカフェ 睡眠カフェで「立ち寝コーヒーナップ」体験をしてきました！！ 名前の通り、立ってお昼寝をする体験です。 面白半分で行ったのですが、想像以</description>
     </item>
-    
     <item>
       <title>両国 刀剣博物館「2023年度現代刀職展」に行ってきた</title>
       <link>https://piyopanman.dev/articles/katana-exhibition-2023-08-28/</link>
       <pubDate>Sat, 02 Sep 2023 23:01:21 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/katana-exhibition-2023-08-28/</guid>
       <description>両国の刀剣博物館の展示「2023年度現代刀職展 ー今に伝わるいにしえの技ー 」を見に行ってきました！ 良質な鉄分補給ができて大変よかったです。 刀剣</description>
     </item>
-    
     <item>
       <title>Hugoのフロントマターの変数の入力をGitフックで強制する</title>
       <link>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</link>
       <pubDate>Tue, 27 Jun 2023 21:19:47 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</guid>
       <description>Hugoのフロントマターの値の入力を強制させるためにGitフックを使ったのでそのメモです Hugoのフロントマターとは フロントマターはmdファ</description>
     </item>
-    
     <item>
       <title>シソンヌのじろうから学ぶT型・Π型人材</title>
       <link>https://piyopanman.dev/articles/sissonne_jiro/</link>
       <pubDate>Mon, 29 May 2023 23:47:18 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/sissonne_jiro/</guid>
       <description>じろうさんが演じる女性役、大好き。</description>
     </item>
-    
     <item>
       <title>近所にある小さな骨董屋さんの刀剣大市に行ってきた</title>
       <link>https://piyopanman.dev/articles/katana-exhibition-2023-05-14/</link>
       <pubDate>Sun, 14 May 2023 23:29:29 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/katana-exhibition-2023-05-14/</guid>
       <description>当日のツイートは こちら 久しぶりに刀剣を見られた！ いつぶりか思い出せないくらい。 ずっとここら辺に住んでいるけど全然こんな刀剣市をやってるお店が</description>
     </item>
-    
     <item>
       <title>10年のネガティブが10分でポジティブに変わった</title>
       <link>https://piyopanman.dev/articles/small-joy-2023-05-10/</link>
       <pubDate>Thu, 11 May 2023 00:17:21 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/small-joy-2023-05-10/</guid>
       <description>記事にするほどでもないけどなぜか記事にしたかった</description>
     </item>
-    
     <item>
       <title>Javaのクラスのアクセス制御と複数クラスの宣言</title>
       <link>https://piyopanman.dev/articles/java-classes/</link>
       <pubDate>Thu, 05 Jan 2023 23:11:28 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/java-classes/</guid>
       <description>Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！ Javaのアクセス修飾子 以下の４つがあります</description>
     </item>
-    
     <item>
       <title>2023年の抱負とか</title>
       <link>https://piyopanman.dev/articles/ambition-for-2023/</link>
       <pubDate>Sat, 31 Dec 2022 17:36:05 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/ambition-for-2023/</guid>
       <description>2023年の抱負とかを書いたよ</description>
     </item>
-    
   </channel>
 </rss>

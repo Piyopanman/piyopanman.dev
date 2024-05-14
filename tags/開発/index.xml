@@ -5,29 +5,27 @@
     <link>https://piyopanman.dev/tags/%E9%96%8B%E7%99%BA/</link>
     <description>Recent content in 開発 on Piyopanman</description>
     <image>
+      <title>Piyopanman</title>
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Jan 2023 23:11:28 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/tags/%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 23:11:28 +0900</lastBuildDate>
+    <atom:link href="https://piyopanman.dev/tags/%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Javaのクラスのアクセス制御と複数クラスの宣言</title>
       <link>https://piyopanman.dev/articles/java-classes/</link>
       <pubDate>Thu, 05 Jan 2023 23:11:28 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/java-classes/</guid>
       <description>Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！ Javaのアクセス修飾子 以下の４つがあります</description>
     </item>
-    
     <item>
       <title>【Hugo】紛らわしい用語の整理</title>
       <link>https://piyopanman.dev/memos/hugo/</link>
       <pubDate>Fri, 30 Dec 2022 15:24:46 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/memos/hugo/</guid>
       <description>紛らわしい用語とか紛らわしい用法とかまとめておく！ 間違っていたらTwitterか何かで教えてください！！！！ Section, Content Type, Archetype Section 公式 ディレクトリ構造に</description>
     </item>
-    
   </channel>
 </rss>

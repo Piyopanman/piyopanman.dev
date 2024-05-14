@@ -5,20 +5,20 @@
     <link>https://piyopanman.dev/tags/java/</link>
     <description>Recent content in Java on Piyopanman</description>
     <image>
+      <title>Piyopanman</title>
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Jan 2023 23:11:28 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 23:11:28 +0900</lastBuildDate>
+    <atom:link href="https://piyopanman.dev/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Javaのクラスのアクセス制御と複数クラスの宣言</title>
       <link>https://piyopanman.dev/articles/java-classes/</link>
       <pubDate>Thu, 05 Jan 2023 23:11:28 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/java-classes/</guid>
       <description>Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！ Javaのアクセス修飾子 以下の４つがあります</description>
     </item>
-    
   </channel>
 </rss>

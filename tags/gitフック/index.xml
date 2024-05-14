@@ -5,20 +5,20 @@
     <link>https://piyopanman.dev/tags/git%E3%83%95%E3%83%83%E3%82%AF/</link>
     <description>Recent content in Gitフック on Piyopanman</description>
     <image>
+      <title>Piyopanman</title>
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jun 2023 21:19:47 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/tags/git%E3%83%95%E3%83%83%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 21:19:47 +0900</lastBuildDate>
+    <atom:link href="https://piyopanman.dev/tags/git%E3%83%95%E3%83%83%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugoのフロントマターの変数の入力をGitフックで強制する</title>
       <link>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</link>
       <pubDate>Tue, 27 Jun 2023 21:19:47 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</guid>
       <description>Hugoのフロントマターの値の入力を強制させるためにGitフックを使ったのでそのメモです Hugoのフロントマターとは フロントマターはmdファ</description>
     </item>
-    
   </channel>
 </rss>

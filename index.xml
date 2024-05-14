@@ -5,1039 +5,811 @@
     <link>https://piyopanman.dev/</link>
     <description>Recent content on Piyopanman</description>
     <image>
+      <title>Piyopanman</title>
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 02 Mar 2024 23:08:58 +0900</lastBuildDate><atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Mar 2024 23:08:58 +0900</lastBuildDate>
+    <atom:link href="https://piyopanman.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>行動をチャンク化して「1日に1ターンしか行動できない」から脱却する</title>
       <link>https://piyopanman.dev/memos/chunking-actions/</link>
       <pubDate>Sat, 02 Mar 2024 23:08:58 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/memos/chunking-actions/</guid>
       <description>1 日に 1 ターンしか行動できない方、いませんか？私です。というか、私でした。 例えば、 その日美容院に行く予定があったら、美容院に行く以外のことは</description>
     </item>
-    
     <item>
       <title>短時間で得られる刺激から距離を置く</title>
       <link>https://piyopanman.dev/articles/digital-detox-1-week/</link>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/digital-detox-1-week/</guid>
       <description>身近な人がデジタルデトックスをやるということを聞き、自分もこれは必要かもしれないかもなと感じたため、自分なりにデジタルデトックスもどきを実践</description>
     </item>
-    
     <item>
       <title>靖国神社「新春刀剣展」に行ってきた</title>
       <link>https://piyopanman.dev/articles/katana-exhibition-2024-01-02/</link>
       <pubDate>Tue, 09 Jan 2024 21:17:02 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/katana-exhibition-2024-01-02/</guid>
       <description>2024年一発目、靖国神社内にある遊就館の展示「新春刀剣展」に行ってきました！ 新年から美しい刀を見られて心が洗われました。 概要 今回私が行って</description>
     </item>
-    
     <item>
       <title>2023年の振り返りと2024年の抱負とか</title>
       <link>https://piyopanman.dev/articles/ambition-for-2024/</link>
       <pubDate>Tue, 02 Jan 2024 17:36:05 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/ambition-for-2024/</guid>
       <description>2023年の振り返りと2024年の抱負とかを書いたよ</description>
     </item>
-    
     <item>
       <title>2023年11月05日</title>
       <link>https://piyopanman.dev/daily-reports/2023-11-05/</link>
       <pubDate>Sun, 05 Nov 2023 23:04:00 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-11-05/</guid>
       <description>やったこと 応用情報キタミ式 文字集合、符号化方式 論理回路 全加算器、半加算器 スプリントプランニング 良かったこと 作業しない言い訳を思いついちゃった</description>
     </item>
-    
     <item>
       <title>2023年11月02日</title>
       <link>https://piyopanman.dev/daily-reports/2023-11-02/</link>
       <pubDate>Thu, 02 Nov 2023 22:52:54 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-11-02/</guid>
       <description>やったこと キタミ式 誤差 論理演算 Mockitoのドキュメント読んでた 読んだ記事 課題を管理して実行して達成するための手順 - そーだいなるらくがき帳</description>
     </item>
-    
     <item>
       <title>2023年10月30日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-30/</link>
       <pubDate>Tue, 31 Oct 2023 00:13:30 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-10-30/</guid>
       <description>やったこと SSO https://wa3.i-3-i.info/word11615.html キタミ式1-1の復習 社会人で試験勉強をする人に向けてのツイート 読んだ記事 かつて「のび太君」だった私からの復讐 新刊『世界一流エン</description>
     </item>
-    
     <item>
       <title>2023年10月16日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-16/</link>
       <pubDate>Mon, 16 Oct 2023 23:16:30 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-10-16/</guid>
       <description>やったこと 応用情報キタミ式 chapter1(基礎理論)の途中まで 良かったこと 朝ちゃんとリングフィットしたこと ご飯食べすぎなかったこと 改善でき</description>
     </item>
-    
     <item>
       <title>2023年10月10日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-10/</link>
       <pubDate>Tue, 10 Oct 2023 23:18:54 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-10-10/</guid>
       <description>やったこと スプリントレビュー、プランニング Effective Java項目51 メソッドのパラメータについて注意することについて 良かったこと ちょっと遅れてしまっ</description>
     </item>
-    
     <item>
       <title>2023年10月05日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-05/</link>
       <pubDate>Thu, 05 Oct 2023 23:15:41 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-10-05/</guid>
       <description>やったこと The Java Tutorialsのジェネリクス 非具象化可能仮パラメータを可変長引数メソッドに使用する場合のコンパイラの警告の改善 Non-Reifiable Types (The Jav</description>
     </item>
-    
     <item>
       <title>2023年10月04日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-04/</link>
       <pubDate>Thu, 05 Oct 2023 00:12:21 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-10-04/</guid>
       <description>やったこと リングフィット The Java Tutorialsのジェネリクスの章 Generics, Inheritance, and Subtypes (The Java™ Tutorials &amp;gt; Learning the Java Language &amp;gt; Generics (Updated)) ここ タイポある Effects of Type Erasure and Bridge Methods (The Java</description>
     </item>
-    
     <item>
       <title>2023年10月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-03/</link>
       <pubDate>Wed, 04 Oct 2023 00:17:18 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-10-03/</guid>
       <description>やったこと リングフィット プロになる spring chapter28 Controllerのユニットテスト Lesson: Generics (Updated) (The Java™ Tutorials &amp;gt; Learning the Java Language) を途中まで読んだ ジェネリクスについて</description>
     </item>
-    
     <item>
       <title>2023年10月01日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-01/</link>
       <pubDate>Sun, 01 Oct 2023 23:03:12 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-10-01/</guid>
       <description>やったこと プログラマー脳読みきった！ オンボーディングの章、特によかったな。実際に誰かを受け入れる時も、自分がチームに受け入れられる時も、特に</description>
     </item>
-    
     <item>
       <title>2023年09月29日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-29/</link>
       <pubDate>Fri, 29 Sep 2023 00:13:05 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-29/</guid>
       <description>やったこと プロになるSpring chapter24-27の復習 プログラマー脳 chapter11 プログラマの作業中の割り込み作業について。割り込みは自覚がなく</description>
     </item>
-    
     <item>
       <title>2023年09月28日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-28/</link>
       <pubDate>Fri, 29 Sep 2023 00:12:47 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-28/</guid>
       <description>やったこと プロになるSPring chapter27 Service, Repositoryのインテグレーションテスト vimに慣れる会（ソロ） 良かったこと 腰が重いタスクに着手で</description>
     </item>
-    
     <item>
       <title>2023年09月26日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-26/</link>
       <pubDate>Mon, 25 Sep 2023 23:29:58 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-26/</guid>
       <description>やったこと プロになるSpring chapter27 Serviceのユニットテスト doReturn(hoge).when(mockObject).someMe</description>
     </item>
-    
     <item>
       <title>2023年09月25日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-25/</link>
       <pubDate>Sun, 24 Sep 2023 23:47:18 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-25/</guid>
       <description>やったこと Effective Java項目37を一生やっていた 読んだ記事 1on1ミーティングで上司からのサポートを引き出す方法 28項目の質問集を活用する | キャ</description>
     </item>
-    
     <item>
       <title>2023年09月11日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-11/</link>
       <pubDate>Sun, 24 Sep 2023 23:45:16 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-11/</guid>
       <description>やったこと 業 プロになるSpring、眠かったのでchapter21, 22を眺めるだけ眺めた 良かったこと 朝早起きして、業務開始前にリングフィッ</description>
     </item>
-    
     <item>
       <title>2023年09月24日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-24/</link>
       <pubDate>Sun, 24 Sep 2023 23:43:08 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-24/</guid>
       <description>やったこと スプリントレビュー スプリントプランニング プロになるためのSpring chapter25: Repositoryのユニットテスト Effective Java 項目37で一生時間を</description>
     </item>
-    
     <item>
       <title>2023年09月10日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-10/</link>
       <pubDate>Mon, 11 Sep 2023 00:26:58 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-10/</guid>
       <description>やったこと スプリントレビュー、プランニング プロになるためのSpring chapter15-18復習 chapter19: セッションスコープ chapter20: フラッシュスコープ プ</description>
     </item>
-    
     <item>
       <title>2023年09月09日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-09/</link>
       <pubDate>Sat, 09 Sep 2023 22:51:37 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-09/</guid>
       <description>やったこと プロになるためのSpring chapter17 データベースアクセス時の例外。非チェック例外なのでハンドリングしたいところでのみtry-catch書</description>
     </item>
-    
     <item>
       <title>2023年09月07日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-07/</link>
       <pubDate>Thu, 07 Sep 2023 23:33:11 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-07/</guid>
       <description>やったこと バックロググルーミング 今日のノルマ作業は達成できたけどまだ 23時だし何かしたいな〜でも重いタスクはちょっとな〜と思いながらやってい</description>
     </item>
-    
     <item>
       <title>2023年09月06日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-06/</link>
       <pubDate>Wed, 06 Sep 2023 23:00:18 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-06/</guid>
       <description>やったこと プロになるSpring chapter12 chapter13 良かったこと ポモドーロの間の休憩時間を5分で収めることができたこと 今スプリントのバックログを順調にこなせ</description>
     </item>
-    
     <item>
       <title>睡眠カフェで「立ってお昼寝」してきた</title>
       <link>https://piyopanman.dev/articles/nescafe-suimin/</link>
       <pubDate>Sun, 03 Sep 2023 20:20:14 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/nescafe-suimin/</guid>
       <description>ネスカフェ 睡眠カフェで「立ち寝コーヒーナップ」体験をしてきました！！ 名前の通り、立ってお昼寝をする体験です。 面白半分で行ったのですが、想像以</description>
     </item>
-    
     <item>
       <title>2023年09月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-03/</link>
       <pubDate>Sat, 02 Sep 2023 23:33:51 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-03/</guid>
       <description>やったこと 睡眠カフェに行ったブログの執筆 Effective Javaの項目１０ 月例タスク スプリントプランニング スプリントレビュー リングフィット 良かったこと お家</description>
     </item>
-    
     <item>
       <title>2023年08月28日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-28/</link>
       <pubDate>Sat, 02 Sep 2023 23:27:13 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-08-28/</guid>
       <description>やったこと 若手LT会の資料作り途中まで Effective Javaの項目４ スプリントレビュー スプリントプランニング monthlyの目標を見返す 良かったこと いつ</description>
     </item>
-    
     <item>
       <title>2023年09月02日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-02/</link>
       <pubDate>Sat, 02 Sep 2023 23:10:48 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-09-02/</guid>
       <description>やったこと Spring本chapter１１ 8月の振り返り 9月のプランニング 刀剣に見に行ったブログの執筆 両国 刀剣博物館「2023年度現代刀職展</description>
     </item>
-    
     <item>
       <title>両国 刀剣博物館「2023年度現代刀職展」に行ってきた</title>
       <link>https://piyopanman.dev/articles/katana-exhibition-2023-08-28/</link>
       <pubDate>Sat, 02 Sep 2023 23:01:21 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/katana-exhibition-2023-08-28/</guid>
       <description>両国の刀剣博物館の展示「2023年度現代刀職展 ー今に伝わるいにしえの技ー 」を見に行ってきました！ 良質な鉄分補給ができて大変よかったです。 刀剣</description>
     </item>
-    
     <item>
       <title>2023年08月23日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-23/</link>
       <pubDate>Tue, 22 Aug 2023 23:10:29 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-08-23/</guid>
       <description>やったこと AtCoder Spring本復習 Junit本復習 はじめて知った事 ファイトクラブという映画 良かったこと 会社の人とご飯に行けたこと 物理出社してご飯</description>
     </item>
-    
     <item>
       <title>2023年08月22日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-22/</link>
       <pubDate>Tue, 22 Aug 2023 23:10:26 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-08-22/</guid>
       <description>やったこと リングフィット AtCoder JUnit実践入門 chapter11 〜chapter６まで復習 JUnit４の記法なので気をつける、深追いしないように プロになるため</description>
     </item>
-    
     <item>
       <title>2023年08月15日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-15/</link>
       <pubDate>Mon, 14 Aug 2023 23:22:14 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-08-15/</guid>
       <description>やったこと JUnit実践入門 chapter１ chapter２ 環境構築 オフィスの近くのいい感じのお店を探していた はじめて知った事 ？ 良かったこと</description>
     </item>
-    
     <item>
       <title>2023年08月14日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-14/</link>
       <pubDate>Mon, 14 Aug 2023 23:22:09 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-08-14/</guid>
       <description>やったこと プロになるためのSpring入門chapter９ JUnit実践入門の予習 はじめて知った事 Springの@Transactional</description>
     </item>
-    
     <item>
       <title>2023年08月06日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-06/</link>
       <pubDate>Sun, 06 Aug 2023 22:36:35 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-08-06/</guid>
       <description>やったこと スプリントレビュー、プランニング JavaでHTTPサーバ POSTできるようになっった 部屋の掃除 プロになるためのSpring chap</description>
     </item>
-    
     <item>
       <title>2023年08月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-03/</link>
       <pubDate>Sun, 30 Jul 2023 23:09:06 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-08-03/</guid>
       <description>やったこと リングフィット JavaでHTTPサーバ お仕事のこと itermの設定 香水頼んだ！！ワイワイ！！！ はじめて知った事 お仕事関連の色々 良か</description>
     </item>
-    
     <item>
       <title>2023年08月02日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-02/</link>
       <pubDate>Sun, 30 Jul 2023 23:09:01 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-08-02/</guid>
       <description>やったこと リングフィットちょろっと JavaでHTTPサーバ POSTリクエストに対応したいので、その方針について考えていた 登壇練習 お仕事のこと</description>
     </item>
-    
     <item>
       <title>2023年08月01日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-01/</link>
       <pubDate>Sun, 30 Jul 2023 23:08:53 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-08-01/</guid>
       <description>やったこと リングフィット 月次のタスク お仕事のこと JavaでHTTPサーバ URLエンコードされたパスの対応 プロになるためのSpring、cha</description>
     </item>
-    
     <item>
       <title>2023年07月31日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-31/</link>
       <pubDate>Sun, 30 Jul 2023 23:08:02 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-31/</guid>
       <description>やったこと リングフィット AtCoder プロになるSpringのchapter３、４ お仕事のこと はじめて知った事 お仕事の方で色々 良かったこと 美味しい晩御飯</description>
     </item>
-    
     <item>
       <title>2023年07月30日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-30/</link>
       <pubDate>Sun, 30 Jul 2023 23:07:24 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-30/</guid>
       <description>やったこと スプリントレビュー スプリントプランニング 月の振り返り、プランニング 部屋の掃除 プロになるためのSpringのChapter1 PCセッ</description>
     </item>
-    
     <item>
       <title>2023年07月23日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-23/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:35 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-23/</guid>
       <description>やったこと 頭の良い人が話す前に考えていること 読破 スプリントレビュー スプリントプランニング 台本 JavaでHTTPサーバ続き 404ページは返るよ</description>
     </item>
-    
     <item>
       <title>2023年07月22日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-22/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:30 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-22/</guid>
       <description>やったこと JavaでHTTPサーバ作るやつ（ これ ） GETメソッドがきた時に、あればhtmlファイル、なければ４０４ページを返すようにした Ht</description>
     </item>
-    
     <item>
       <title>2023年07月21日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-21/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:26 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-21/</guid>
       <description>やったこと リングフィット 読んだ記事 僕が Laravel のコントリビューターになるまで - Qiita いい話。 Kotlinエバンジェリストとなった僕を形作ったのは、人と</description>
     </item>
-    
     <item>
       <title>2023年07月20日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-20/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:20 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-20/</guid>
       <description>やったこと 「頭のいい人が考えていること」読み進めた リングフィット Java女子部のイベントに参加した際に得た情報の整理 JavaのHTTPサーバ</description>
     </item>
-    
     <item>
       <title>2023年07月19日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-19/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:13 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-19/</guid>
       <description>やったこと monthlyの目標を振り返る 目標と全然ずれたことをしていることに気づく〜〜〜 う〜んむずいね 7月前半は同期と話す機会が多くて7月の</description>
     </item>
-    
     <item>
       <title>2023年07月18日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-18/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:06 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-18/</guid>
       <description>やったこと リングフィット スライド作り 読んだ記事 新卒の頃に思っていたこと、気づいたこと お仕事頑張ろうの気持ちになった 所感 お仕事終わり、Java</description>
     </item>
-    
     <item>
       <title>2023年07月16日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-16/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:00 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-16/</guid>
       <description>やったこと AtCoder リングフィット Udemyのもう怖くないLinuxコマンド終わった Linuxのしくみを少しだけ目を通した 読み進めようと思ったが、先</description>
     </item>
-    
     <item>
       <title>2023年07月05日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-05/</link>
       <pubDate>Sun, 23 Jul 2023 09:25:54 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-05/</guid>
       <description>やったこと 読んだ記事 Webhookって何？を子どもでもわかるように描いてみた | kintone hive online</description>
     </item>
-    
     <item>
       <title>2023年07月04日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-04/</link>
       <pubDate>Sun, 23 Jul 2023 09:25:47 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-04/</guid>
       <description>やったこと 読んだ記事 がんばらないObsidianノート術 - Qiita これ見て色々コミュニティプラグインを入れた。カレンダーとフォルダに絵文字を使える</description>
     </item>
-    
     <item>
       <title>精神的なフッ軽さ</title>
       <link>https://piyopanman.dev/memos/fukkaru/</link>
       <pubDate>Wed, 05 Jul 2023 22:11:03 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/memos/fukkaru/</guid>
       <description>このツイートについて 技術的な文脈に限らず、何かに取り組むときの精神的なフッ軽さっていいなぁと最近よく思う 具体的で明確な理由がなくてもとりあえ</description>
     </item>
-    
     <item>
       <title>2023年07月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-03/</link>
       <pubDate>Sat, 01 Jul 2023 23:23:18 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-03/</guid>
       <description>やったこと AtCoder React+Viteで環境構築、まじまじのマジで爆速でできて驚いた。なんだこれ 私が大学２年生でpiyopanman.com作った</description>
     </item>
-    
     <item>
       <title>2023年07月02日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-02/</link>
       <pubDate>Sat, 01 Jul 2023 23:23:14 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-02/</guid>
       <description>やったこと 【女性限定/オフライン】Java 女子部 &amp;amp; GTUGGirls コラボイベント「はじめてのJava」 - Java女子部(Javajo) | Doorkeeper に参加 めっちゃ目</description>
     </item>
-    
     <item>
       <title>2023年07月01日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-01/</link>
       <pubDate>Sat, 01 Jul 2023 23:18:19 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-07-01/</guid>
       <description>やったこと #キャリア Developers Boost 2023 基調講演「激動の時代を生き抜くためにU30が身につけるべきソフトスキル」 - Speaker Deck テクニカルスキルだけではなくコミュニ</description>
     </item>
-    
     <item>
       <title>2023年06月30日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-30/</link>
       <pubDate>Wed, 28 Jun 2023 23:21:45 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-30/</guid>
       <description>やったこと GMO Developers | JJUG CCC 2023 Spring 解いた！ #Java Javaのstaticブロック、知らなかった&amp;hellip;。Java8以降は使うことなくなったらしい Ja</description>
     </item>
-    
     <item>
       <title>2023年06月29日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-29/</link>
       <pubDate>Wed, 28 Jun 2023 23:21:37 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-29/</guid>
       <description>やったこと リングフィット obsidianのテンプレートの改善 プログラマー脳chapter8読み終わった Javaのnew ArrayList()</description>
     </item>
-    
     <item>
       <title>2023年06月28日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-28/</link>
       <pubDate>Wed, 28 Jun 2023 23:21:20 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-28/</guid>
       <description>やったこと piyopanman.devで画像を表示させる HugoのBuilt-inのshortcodes を使うのが良さそう。 &amp;gt;An elephant at sunset のように</description>
     </item>
-    
     <item>
       <title>Hugoのフロントマターの変数の入力をGitフックで強制する</title>
       <link>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</link>
       <pubDate>Tue, 27 Jun 2023 21:19:47 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</guid>
       <description>Hugoのフロントマターの値の入力を強制させるためにGitフックを使ったのでそのメモです Hugoのフロントマターとは フロントマターはmdファ</description>
     </item>
-    
     <item>
       <title>2023年06月27日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-27/</link>
       <pubDate>Mon, 26 Jun 2023 23:37:23 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-27/</guid>
       <description>やったこと リングフィット AtCoder プログラマー脳chapter7 piyopanman.devで設定したGitフックについて 復習 記事を書いた（ Qiita ） はじ</description>
     </item>
-    
     <item>
       <title>2023年06月26日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-26/</link>
       <pubDate>Mon, 26 Jun 2023 23:37:19 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-26/</guid>
       <description>やったこと スプリントプランニング 今まで、スプリントバックログを決めてからバックログを決めていたけど、これ逆では？とやっと気がついた スプリント</description>
     </item>
-    
     <item>
       <title>2023年06月24日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-24/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:26 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-24/</guid>
       <description>やったこと 社内イベント参加 明日のLT準備 コードレビューでコメントタグを使い、心理的安全性を担保しよう スプリントレビュー はじめて知った事 特にな</description>
     </item>
-    
     <item>
       <title>2023年06月23日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-23/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:19 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-23/</guid>
       <description>やったこと 登壇スライド作成 ×2 歌舞伎を見に行った！！！ 読んだ記事 - 【新卒】インプットした知識を確実に定着させるために実践した4つの方法 - Qiita -</description>
     </item>
-    
     <item>
       <title>2023年06月22日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-22/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:15 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-22/</guid>
       <description>やったこと 昨日参加したイベントのスライドの整理 お仕事のこと少し はじめて知った事 特になし 良かったこと 夕ご飯が美味しかった メンタルが不調だったが</description>
     </item>
-    
     <item>
       <title>2023年06月21日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-21/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:12 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-21/</guid>
       <description>やったこと nju33 素敵[[個人ブログ]]見つけた AtCoder スライド作成 俺たちの本当にやりたかったDevDay に参加してきた！ 読んだ記事 本を読むべきたった1</description>
     </item>
-    
     <item>
       <title>2023年06月20日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-20/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:09 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-20/</guid>
       <description>やったこと 日時の文字を作るくん これ天才！ リングフィット AtCoder お仕事のこと 読んだ記事 &amp;ldquo;ChatGPT&amp;rdquo; をもっと使いたい！～活用事例Tips LT会～ - connpass というイベン</description>
     </item>
-    
     <item>
       <title>2023年06月19日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-19/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:06 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-19/</guid>
       <description>やったこと リングフィット プログラマー脳chapter5 PATHについてまとめる piyopanman.devのGitフックの続き。やっとできた</description>
     </item>
-    
     <item>
       <title>2023年06月18日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-18/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:01 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-18/</guid>
       <description>やったこと スプリントレビュー スプリントプランニング リングフィット 部屋のお掃除 AtCoder 登壇スライド作成 piyopanman.devのフロントマターの</description>
     </item>
-    
     <item>
       <title>2023年06月16日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-16/</link>
       <pubDate>Mon, 12 Jun 2023 22:41:11 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-16/</guid>
       <description>やったこと AtCoder 物理出社 カンバンの整理 登壇準備（スライドのアウトライン） 自動タイムトラッキングアプリRizeについて少し調べていた Rize · Maximize Your Productivity Rize Guide</description>
     </item>
-    
     <item>
       <title>2023年06月15日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-15/</link>
       <pubDate>Mon, 12 Jun 2023 22:41:08 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-15/</guid>
       <description>やったこと 読んだツイート やらない言い訳は、いくらでも出てきてしまう。上手くなったらとか言ってないでどんどん「今」やる姿勢を持つ リングフィット</description>
     </item>
-    
     <item>
       <title>2023年06月14日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-14/</link>
       <pubDate>Mon, 12 Jun 2023 22:41:05 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-14/</guid>
       <description>やったこと 読んだツイート 「自分もできてないから…」と何も言わないのではなく、自分ができてなくても堂々とフィードバックする。そうすると自分も襟</description>
     </item>
-    
     <item>
       <title>2023年06月13日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-13/</link>
       <pubDate>Mon, 12 Jun 2023 22:41:03 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-13/</guid>
       <description>やったこと リングフィット GitHub Actionsちょろっと jobコンテキスト の挙動まわりを少し調べていた プログラマー脳chapter4 思ったよりサク</description>
     </item>
-    
     <item>
       <title>2023年06月12日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-12/</link>
       <pubDate>Mon, 12 Jun 2023 22:40:58 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-12/</guid>
       <description>やったこと みたツイート 「書く」というのは、ぼんやり考えていることをしっかり考えること。その最高強度が論文という形式で、論文を書くと、考えてい</description>
     </item>
-    
     <item>
       <title>2023年06月10日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-10/</link>
       <pubDate>Thu, 08 Jun 2023 23:18:57 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-10/</guid>
       <description>やったこと AtCoder 読んだ記事 目指せOSSコントリビューター 初コミット目指して頑張ってみたもののトホホな結果に - Qiita こういうこともあるのだなぁという学</description>
     </item>
-    
     <item>
       <title>2023年06月09日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-09/</link>
       <pubDate>Thu, 08 Jun 2023 23:18:53 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-09/</guid>
       <description>やったこと AtCoder 読んだ記事 新卒の子にどこまで勉強すれば良いですかね？と聞かれた件 - Qiita 好きなことが得意なわけじゃ無いとか、変更のある分野とない分野</description>
     </item>
-    
     <item>
       <title>2023年06月08日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-08/</link>
       <pubDate>Thu, 08 Jun 2023 23:18:48 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-08/</guid>
       <description>やったこと リングフィット AtCoder GitHub Actionsのドキュメント読んだりしてた コンテキストについて 読んだ記事 仕事に感情を持ち込んでいる人へ。｜Tak</description>
     </item>
-    
     <item>
       <title>2023年06月07日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-07/</link>
       <pubDate>Sat, 03 Jun 2023 23:36:16 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-07/</guid>
       <description>やったこと [[GitHub Actions]]について Github Actions 入門編 (ざっくり系) - Qiita [入門]GitHub Actions ~全てのエンジニアのための備忘録~ | セルフノート 手を</description>
     </item>
-    
     <item>
       <title>2023年06月06日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-06/</link>
       <pubDate>Sat, 03 Jun 2023 23:36:12 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-06/</guid>
       <description>やったこと マインドフルネスについて どうやって行き着いたか忘れたけど、マインドフルネスという言葉を知った。（Chromeの履歴見てみたら、深夜</description>
     </item>
-    
     <item>
       <title>2023年06月05日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-05/</link>
       <pubDate>Sat, 03 Jun 2023 23:36:09 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-05/</guid>
       <description>やったこと タスク管理ツールのTimecrowdについて調べていた 業務効率化を個人で進めるためにはどうする？事例や便利なツールをご紹介します |</description>
     </item>
-    
     <item>
       <title>2023年06月04日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-04/</link>
       <pubDate>Sat, 03 Jun 2023 23:36:05 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-04/</guid>
       <description>やったこと JJUG CCCに参加してました！！ 失敗プログラマー途中まで読んだ。言語化が上手いし、スムーズに理解しやすい文章で書かれていて読むのが快感</description>
     </item>
-    
     <item>
       <title>2023年06月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-03/</link>
       <pubDate>Sat, 03 Jun 2023 23:12:47 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-03/</guid>
       <description>やったこと 質問：IPアドレス見えてますよ。大丈夫ですか？ - YouTube ラムダ研究所さんsnの動画。わかりやすい JDK21 ea 24でString Templateが</description>
     </item>
-    
     <item>
       <title>2023年06月02日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-02/</link>
       <pubDate>Sat, 03 Jun 2023 23:12:44 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-02/</guid>
       <description>やったこと ABC225 A 読んだ記事 https://newspicks.com/topics/the-magic-of-software/posts/2 Linearについての記事。Linearの位置付けと哲学。無料プランにタスク上限がなければなあ… CSS Stock｜We</description>
     </item>
-    
     <item>
       <title>2023年06月01日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-01/</link>
       <pubDate>Sat, 03 Jun 2023 23:12:42 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-06-01/</guid>
       <description>やったこと ABC224 A TOP4 in Tokyo Domeに参加！ めちゃくちゃ良かった〜生でルドーやると思わないじゃん…そして4人実況で1番好きと言っても過言では無いhu</description>
     </item>
-    
     <item>
       <title>2023年05月31日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-31/</link>
       <pubDate>Sat, 03 Jun 2023 23:12:35 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-31/</guid>
       <description>やったこと リングフィット ABC お仕事のこと 読んだ記事 サーバーサイド開発にありがたい GitHub Copilot / ChatGPT - Speaker Deck Copilotは副操縦士という意味なので、50→</description>
     </item>
-    
     <item>
       <title>2023年05月30日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-30/</link>
       <pubDate>Wed, 31 May 2023 00:20:36 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-30/</guid>
       <description>やったこと リングフィット ABC198 B 久しぶりにB問題といた…リハビリを続けます git操作の復習 ChatGPT様にめちゃくちゃ助けられた、ありがとう A</description>
     </item>
-    
     <item>
       <title>シソンヌのじろうから学ぶT型・Π型人材</title>
       <link>https://piyopanman.dev/articles/sissonne_jiro/</link>
       <pubDate>Mon, 29 May 2023 23:47:18 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/sissonne_jiro/</guid>
       <description>じろうさんが演じる女性役、大好き。</description>
     </item>
-    
     <item>
       <title>2023年05月29日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-29/</link>
       <pubDate>Mon, 29 May 2023 23:43:03 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-29/</guid>
       <description>やったこと リングフィット ABC221 A git rebaseでsquashした場合とfixupした場合の違い - Qiita お仕事でスムーズにできなかったので 図示の本 読ん</description>
     </item>
-    
     <item>
       <title>2023年05月27日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-27/</link>
       <pubDate>Sun, 28 May 2023 09:28:30 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-27/</guid>
       <description>やったこと ABC リングフィット タスク管理ツール調査 Linearがタスクの上限250だったので…これなかったらマジで使い続けていたと思う 読んだ記事</description>
     </item>
-    
     <item>
       <title>2023年05月28日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-28/</link>
       <pubDate>Sun, 28 May 2023 09:28:25 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-28/</guid>
       <description>やったこと ABC220 A APG4b ~2.06 先週１週間の振り返り 今週１週間で何するかの計画 タスク管理のためにGitHub Projects使っている人がいたので調べてみ</description>
     </item>
-    
     <item>
       <title>2023年05月26日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-26/</link>
       <pubDate>Thu, 25 May 2023 22:53:20 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-26/</guid>
       <description>やったこと ABC218 A 読んだ記事 # Web標準に新たなステータス「Baseline」が登場。変化し続けるWeb標準のうちWeb開発者が安心して使える機</description>
     </item>
-    
     <item>
       <title>2023年05月25日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-25/</link>
       <pubDate>Thu, 25 May 2023 22:53:07 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-25/</guid>
       <description>やったこと リングフィット ABC217 A、APG4bの~2.02 お仕事関連のキャッチアップ 読んだ記事 スクラムでユーザー理解を深める仕組みを社内に浸透 ニー</description>
     </item>
-    
     <item>
       <title>2023年05月24日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-24/</link>
       <pubDate>Wed, 24 May 2023 23:25:10 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-24/</guid>
       <description>やったこと お散歩 重大な事実に気づいてしまったのですが、Linearの無料プランだとissueの上限が250&amp;hellip;&amp;hellip;&amp;</description>
     </item>
-    
     <item>
       <title>2023年05月23日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-23/</link>
       <pubDate>Tue, 23 May 2023 23:18:51 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-23/</guid>
       <description>やったこと html, js, php, git などの無料問題集があることを知る ABC215 A, APG4bの1.13まで 15．Facadeパターン | TECHSCORE(テックスコア)</description>
     </item>
-    
     <item>
       <title>2023年05月22日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-22/</link>
       <pubDate>Mon, 22 May 2023 23:56:40 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-22/</guid>
       <description>やったこと yappliについて調べた CMでノーコードがなんたらって言っていたのでkintoneの強豪かなと思っていたが、yappliはお客様</description>
     </item>
-    
     <item>
       <title>2023年05月21日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-21/</link>
       <pubDate>Sun, 21 May 2023 21:38:12 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-21/</guid>
       <description>やったこと ABC213 A 排他的論理和の問題だった 技術書典、初参加してきた〜〜 ツイート 久しぶりに同人誌即売会に参加したが、気になるもの片っ端から買って行</description>
     </item>
-    
     <item>
       <title>2023年05月20日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-20/</link>
       <pubDate>Sat, 20 May 2023 23:34:03 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-20/</guid>
       <description>やったこと MusicLMという音楽生成AIがあるらしい（ 参考 ） ABC212 A APG4B(AtCoder Programming Guide for Beginner)を1.07まで読んだ 自分がタスク管理ツールに求め</description>
     </item>
-    
     <item>
       <title>2023年05月19日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-19/</link>
       <pubDate>Sat, 20 May 2023 23:33:53 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-19/</guid>
       <description>やったこと ABC211 A オブザーバビリティって何っていう概要だけ本当にさらっと調べた ログとメトリクスとトレース（とプロファイル）が大事 docker&amp;a</description>
     </item>
-    
     <item>
       <title>2023年05月18日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-18/</link>
       <pubDate>Thu, 18 May 2023 23:29:03 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-18/</guid>
       <description>やったこと Qiitaのベータ版を有効にしてダークモードで記事の閲覧ができるようになった ABC210 A Denoの入門っぽい jlinkというコマンドで、カ</description>
     </item>
-    
     <item>
       <title>2023年05月17日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-17/</link>
       <pubDate>Wed, 17 May 2023 23:11:01 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-17/</guid>
       <description>やったこと Llama Life - Find Your Focus というタスク管理アプリ。よさそうと思ったがタイムトラッキングしたい人と看板形式の管理をしたい人には向いてないと書かれて</description>
     </item>
-    
     <item>
       <title>2023年05月16日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-16/</link>
       <pubDate>Tue, 16 May 2023 22:34:12 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-16/</guid>
       <description>やったこと 昨日視聴したJava仕様勉強会から派生してJCPについて気づいたらずっと調べていた😇 JCPとJEPの関係性とかよくわかっていなかっ</description>
     </item>
-    
     <item>
       <title>2023年05月15日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-15/</link>
       <pubDate>Mon, 15 May 2023 23:16:48 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-15/</guid>
       <description>やったこと リングフィット AtCoder ABC206 A javapについて調べていた 使い始めたタスク管理ツールのLinearで、時間見積もりができないので、見積もりと</description>
     </item>
-    
     <item>
       <title>近所にある小さな骨董屋さんの刀剣大市に行ってきた</title>
       <link>https://piyopanman.dev/articles/katana-exhibition-2023-05-14/</link>
       <pubDate>Sun, 14 May 2023 23:29:29 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/katana-exhibition-2023-05-14/</guid>
       <description>当日のツイートは こちら 久しぶりに刀剣を見られた！ いつぶりか思い出せないくらい。 ずっとここら辺に住んでいるけど全然こんな刀剣市をやってるお店が</description>
     </item>
-    
     <item>
       <title>2023年05月14日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-14/</link>
       <pubDate>Sun, 14 May 2023 23:24:30 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-14/</guid>
       <description>やったこと 「俺たちの本当にやりたかったDevDay」申し込み完了 - connpass に申し込んだ。なんなのかよくわかっていないけど楽しそうなので Java SEの動向</description>
     </item>
-    
     <item>
       <title>2023年05月13日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-13/</link>
       <pubDate>Sat, 13 May 2023 08:47:50 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-13/</guid>
       <description>やったこと Wiseone というChrome拡張を入れた ChatGPTを使った、今読んでいる記事の要約や関連する他のサイトを教えてくれたりする拡張。特に後</description>
     </item>
-    
     <item>
       <title>2023年05月12日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-12/</link>
       <pubDate>Thu, 11 May 2023 23:37:18 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-12/</guid>
       <description>やったこと JavaのSealedについて調べてた Java 17でSealed ClassesがPreviewからStandardになった言語仕様 Jav</description>
     </item>
-    
     <item>
       <title>2023年05月11日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-11/</link>
       <pubDate>Thu, 11 May 2023 08:00:54 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-11/</guid>
       <description>やったこと Write Code Everyday；ABC203 A お仕事 リングフィット ポエム TechFeed Experts Night#18 〜 Java20リリース記念！最新動向、そして未来 - TechFeed の続き TechFeed Experts</description>
     </item>
-    
     <item>
       <title>10年のネガティブが10分でポジティブに変わった</title>
       <link>https://piyopanman.dev/articles/small-joy-2023-05-10/</link>
       <pubDate>Thu, 11 May 2023 00:17:21 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/small-joy-2023-05-10/</guid>
       <description>記事にするほどでもないけどなぜか記事にしたかった</description>
     </item>
-    
     <item>
       <title>2023年05月10日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-10/</link>
       <pubDate>Wed, 10 May 2023 08:23:30 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-10/</guid>
       <description>やったこと お仕事 TechFeed Experts Night#18 〜 Java20リリース記念！最新動向、そして未来 - TechFeed 追っかけ再生して途中まで見ました。なんかお仕事終わって家帰ってきた</description>
     </item>
-    
     <item>
       <title>2023年05月09日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-09/</link>
       <pubDate>Tue, 09 May 2023 23:18:36 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-05-09/</guid>
       <description>やったこと お仕事 参考サイトや良さそうな本などをカテゴリごと（TypeScript, React, SQL, 競プロなど）に整理して置いておく場所を作りたいため、N</description>
     </item>
-    
     <item>
       <title>Javaのクラスのアクセス制御と複数クラスの宣言</title>
       <link>https://piyopanman.dev/articles/java-classes/</link>
       <pubDate>Thu, 05 Jan 2023 23:11:28 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/java-classes/</guid>
       <description>Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！ Javaのアクセス修飾子 以下の４つがあります</description>
     </item>
-    
     <item>
       <title>2023年01月05日</title>
       <link>https://piyopanman.dev/daily-reports/2023-01-05/</link>
       <pubDate>Thu, 05 Jan 2023 21:31:08 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-01-05/</guid>
       <description>やったこと イのTA スッキリわかるJava入門実践編の第5章 javascript.infoを読む会ソロ（~6.2） Javaのクラスについての記</description>
     </item>
-    
     <item>
       <title>2023年01月04日</title>
       <link>https://piyopanman.dev/daily-reports/2023-01-04/</link>
       <pubDate>Wed, 04 Jan 2023 11:42:04 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-01-04/</guid>
       <description>やったこと javascript.infoを読む会ソロ(~6.2) スッキリわかるJava実践編の4章 読んだ記事 個人開発、年間成長計画のスゝメ 個</description>
     </item>
-    
     <item>
       <title>2023年01月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-01-03/</link>
       <pubDate>Tue, 03 Jan 2023 10:31:13 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2023-01-03/</guid>
       <description>やったこと 卒論ちょろっと ネットワークの基本、読み終えた 基本情報技術者の一歩手前みたいな内容だった 読んだ記事 技術書の予習と復習 超いい記事！！！</description>
     </item>
-    
     <item>
       <title>2023年の抱負とか</title>
       <link>https://piyopanman.dev/articles/ambition-for-2023/</link>
       <pubDate>Sat, 31 Dec 2022 17:36:05 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/articles/ambition-for-2023/</guid>
       <description>2023年の抱負とかを書いたよ</description>
     </item>
-    
     <item>
       <title>2022年12月31日</title>
       <link>https://piyopanman.dev/daily-reports/2022-12-31/</link>
       <pubDate>Sat, 31 Dec 2022 16:23:34 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2022-12-31/</guid>
       <description>やったこと Hugoを使って新・日報開発の続き 目次の設定、OGPの設定など Twitter Card Validatorが使えなくなってるの知らなかったよ〜〜 でもtw</description>
     </item>
-    
     <item>
       <title>【Hugo】紛らわしい用語の整理</title>
       <link>https://piyopanman.dev/memos/hugo/</link>
       <pubDate>Fri, 30 Dec 2022 15:24:46 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/memos/hugo/</guid>
       <description>紛らわしい用語とか紛らわしい用法とかまとめておく！ 間違っていたらTwitterか何かで教えてください！！！！ Section, Content Type, Archetype Section 公式 ディレクトリ構造に</description>
     </item>
-    
     <item>
       <title>2022年12月30日</title>
       <link>https://piyopanman.dev/daily-reports/2022-12-30/</link>
       <pubDate>Fri, 30 Dec 2022 15:09:51 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2022-12-30/</guid>
       <description>やったこと Hugoで新・日報作りの続き なんとかGitHub Pagesを使ってデプロイするところまでできた🎉 カスタムドメインも設定できた！ hu</description>
     </item>
-    
     <item>
       <title>2022月12月29日</title>
       <link>https://piyopanman.dev/daily-reports/2022-12-29/</link>
       <pubDate>Fri, 30 Dec 2022 01:10:19 +0900</pubDate>
-      
       <guid>https://piyopanman.dev/daily-reports/2022-12-29/</guid>
       <description>やったこと javascript.infoを読む会ソロ（~5.11 日付と時間） 日報作り直すためにHugoのドキュメントずっと読んでた 記事読んだ</description>
     </item>
-    
-    
-    
   </channel>
 </rss>
