@@ -9,7 +9,7 @@
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.139.2</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 05 Jan 2023 23:11:28 +0900</lastBuildDate>
     <atom:link href="https://piyopanman.dev/tags/%E9%96%8B%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
@@ -18,14 +18,133 @@
       <link>https://piyopanman.dev/articles/java-classes/</link>
       <pubDate>Thu, 05 Jan 2023 23:11:28 +0900</pubDate>
       <guid>https://piyopanman.dev/articles/java-classes/</guid>
-      <description>Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！ Javaのアクセス修飾子 以下の４つがあります</description>
+      <description>&lt;p&gt;Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！&lt;/p&gt;
+&lt;h2 id=&#34;javaのアクセス修飾子&#34;&gt;Javaのアクセス修飾子&lt;/h2&gt;
+&lt;p&gt;以下の４つがあります。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;名前&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;指定方法&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;アクセス許可の範囲&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;public&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;public&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;どこからでも&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;protected&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;protected&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;自分と同じパッケージか自分のサブクラス&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;package private&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;何も書かない&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;自分と同じパッケージに属するクラス&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;private&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;private&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;自分のクラスのみ&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;メンバにはこの４つのアクセス修飾子を指定することができます。&lt;br&gt;
+（メンバは、クラスを構成する変数やメソッドなどのこと）&lt;/p&gt;</description>
     </item>
     <item>
       <title>【Hugo】紛らわしい用語の整理</title>
       <link>https://piyopanman.dev/memos/hugo/</link>
       <pubDate>Fri, 30 Dec 2022 15:24:46 +0900</pubDate>
       <guid>https://piyopanman.dev/memos/hugo/</guid>
-      <description>紛らわしい用語とか紛らわしい用法とかまとめておく！ 間違っていたらTwitterか何かで教えてください！！！！ Section, Content Type, Archetype Section 公式 ディレクトリ構造に</description>
+      <description>&lt;p&gt;紛らわしい用語とか紛らわしい用法とかまとめておく！&lt;br&gt;
+間違っていたらTwitterか何かで教えてください！！！！&lt;/p&gt;
+&lt;h2 id=&#34;section-content-type-archetype&#34;&gt;Section, Content Type, Archetype&lt;/h2&gt;
+&lt;h3 id=&#34;section&#34;&gt;Section&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/content-management/sections/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    公式
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ディレクトリ構造によって決められるやつ。&lt;/li&gt;
+&lt;li&gt;content直下のディレクトリか&lt;code&gt;_index.md&lt;/code&gt;を含むディレクトリはセクション扱いになる&lt;/li&gt;
+&lt;li&gt;front matterで上書きできない&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/variables/page/#section-variables-and-methods&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    sectionに関する変数やメソッド
+&lt;/a&gt;がある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;content-type&#34;&gt;Content Type&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/content-management/types/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    公式
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;typeが設定されていない場合は所属しているディレクトリになる&lt;/li&gt;
+&lt;li&gt;どのテンプレートを使ってレンダリングされるかに使用される&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;archetype&#34;&gt;Archetype&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/content-management/archetypes/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    公式
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hugo new xxx&lt;/code&gt;したときに、どの&lt;code&gt;.md&lt;/code&gt;ファイルを使ってファイルを生成するかを決める&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hugo new posts/hoge.md&lt;/code&gt;ってしたら、&lt;code&gt;archetype/posts.md&lt;/code&gt;をもとにして&lt;code&gt;content/posts/hoge.md&lt;/code&gt;が作られる&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hugo new xxx&lt;/code&gt;で作ったコンテントファイルで&lt;code&gt;{{ .Site.Xxx }}&lt;/code&gt;みたいに変数は使えないが、&lt;code&gt;archetype&lt;/code&gt;ディレクトリ内の&lt;code&gt;.md&lt;/code&gt;ファイルでは使える&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;taxonomy-term-value&#34;&gt;Taxonomy, Term, Value&lt;/h2&gt;
+&lt;h3 id=&#34;taxonomy&#34;&gt;Taxonomy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;
+    
+
+    
+&gt;
+    公式
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ユーザが独自にコンテンツを分類するための仕組み&lt;/li&gt;
+&lt;li&gt;コンテンツを分類するために使われる&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;config.yml&lt;/code&gt;内でサイトレベルで設定するもの&lt;/li&gt;
+&lt;li&gt;Taxonomyごとのリンクを設定できる（&lt;code&gt;/categories/&lt;/code&gt; &lt;code&gt;/tags/&lt;/code&gt;など）&lt;/li&gt;
+&lt;li&gt;デフォルトでは、&lt;code&gt;categories&lt;/code&gt;と&lt;code&gt;tags&lt;/code&gt;というtaxonomyが設定されている&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;term&#34;&gt;Term&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;taxonomyの中のkey(categoriesの中の &lt;em&gt;memo&lt;/em&gt; とかがterm)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;value&#34;&gt;Value&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Termにアサインされたコンテンツ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;front matterの中で&lt;br&gt;
+&lt;code&gt;taxonomy: [term1, term2]&lt;/code&gt;&lt;br&gt;
+ってする。例えば,&lt;br&gt;
+&lt;code&gt;categories: [memo, development]&lt;/code&gt;&lt;br&gt;
+なので、Valueにあたるのはコンテンツファイル。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

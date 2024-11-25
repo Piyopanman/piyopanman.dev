@@ -9,7 +9,7 @@
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.139.2</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 05 Jan 2023 23:11:28 +0900</lastBuildDate>
     <atom:link href="https://piyopanman.dev/tags/java/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,42 @@
       <link>https://piyopanman.dev/articles/java-classes/</link>
       <pubDate>Thu, 05 Jan 2023 23:11:28 +0900</pubDate>
       <guid>https://piyopanman.dev/articles/java-classes/</guid>
-      <description>Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！ Javaのアクセス修飾子 以下の４つがあります</description>
+      <description>&lt;p&gt;Javaを基礎から復習していて、クラスについて理解が曖昧だった部分があったのでまとめておくぞい！&lt;/p&gt;
+&lt;h2 id=&#34;javaのアクセス修飾子&#34;&gt;Javaのアクセス修飾子&lt;/h2&gt;
+&lt;p&gt;以下の４つがあります。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;名前&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;指定方法&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;アクセス許可の範囲&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;public&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;public&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;どこからでも&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;protected&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;protected&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;自分と同じパッケージか自分のサブクラス&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;package private&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;何も書かない&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;自分と同じパッケージに属するクラス&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;private&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;private&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;自分のクラスのみ&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;メンバにはこの４つのアクセス修飾子を指定することができます。&lt;br&gt;
+（メンバは、クラスを構成する変数やメソッドなどのこと）&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

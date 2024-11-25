@@ -9,7 +9,7 @@
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.139.2</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 27 Jun 2023 21:19:47 +0900</lastBuildDate>
     <atom:link href="https://piyopanman.dev/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
@@ -18,14 +18,112 @@
       <link>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</link>
       <pubDate>Tue, 27 Jun 2023 21:19:47 +0900</pubDate>
       <guid>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</guid>
-      <description>Hugoのフロントマターの値の入力を強制させるためにGitフックを使ったのでそのメモです Hugoのフロントマターとは フロントマターはmdファ</description>
+      <description>&lt;p&gt;Hugoのフロントマターの値の入力を強制させるためにGitフックを使ったのでそのメモです&lt;/p&gt;
+&lt;h2 id=&#34;hugoのフロントマターとは&#34;&gt;Hugoのフロントマターとは&lt;/h2&gt;
+&lt;p&gt;フロントマターはmdファイルの先頭に書くもので、これを使うことで、mdファイルのメタデータを設定することができます。&lt;br&gt;
+&lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    公式Docs
+&lt;/a&gt; に書いてある通り、フロントマターの記述方法は、TOML, YAML, JSON, ORG形式の４つのうちどれかを選ぶことができます。&lt;br&gt;
+フロントマターの変数には、定義済みのもの（date, draft, imagesなど）と自分で自由に定義できるものがあります。&lt;br&gt;
+hugoには、Archetypesというmdファイルを作る際のテンプレートのようなものがあり、このArchetypesにフロントマターを設定しておくことで、いちいち最初からフロントマターをちまちま書く必要がなくなります。&lt;br&gt;
+私の場合は、以下のように設定しています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>【Hugo】紛らわしい用語の整理</title>
       <link>https://piyopanman.dev/memos/hugo/</link>
       <pubDate>Fri, 30 Dec 2022 15:24:46 +0900</pubDate>
       <guid>https://piyopanman.dev/memos/hugo/</guid>
-      <description>紛らわしい用語とか紛らわしい用法とかまとめておく！ 間違っていたらTwitterか何かで教えてください！！！！ Section, Content Type, Archetype Section 公式 ディレクトリ構造に</description>
+      <description>&lt;p&gt;紛らわしい用語とか紛らわしい用法とかまとめておく！&lt;br&gt;
+間違っていたらTwitterか何かで教えてください！！！！&lt;/p&gt;
+&lt;h2 id=&#34;section-content-type-archetype&#34;&gt;Section, Content Type, Archetype&lt;/h2&gt;
+&lt;h3 id=&#34;section&#34;&gt;Section&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/content-management/sections/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    公式
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ディレクトリ構造によって決められるやつ。&lt;/li&gt;
+&lt;li&gt;content直下のディレクトリか&lt;code&gt;_index.md&lt;/code&gt;を含むディレクトリはセクション扱いになる&lt;/li&gt;
+&lt;li&gt;front matterで上書きできない&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/variables/page/#section-variables-and-methods&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    sectionに関する変数やメソッド
+&lt;/a&gt;がある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;content-type&#34;&gt;Content Type&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/content-management/types/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    公式
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;typeが設定されていない場合は所属しているディレクトリになる&lt;/li&gt;
+&lt;li&gt;どのテンプレートを使ってレンダリングされるかに使用される&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;archetype&#34;&gt;Archetype&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/content-management/archetypes/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    公式
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hugo new xxx&lt;/code&gt;したときに、どの&lt;code&gt;.md&lt;/code&gt;ファイルを使ってファイルを生成するかを決める&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hugo new posts/hoge.md&lt;/code&gt;ってしたら、&lt;code&gt;archetype/posts.md&lt;/code&gt;をもとにして&lt;code&gt;content/posts/hoge.md&lt;/code&gt;が作られる&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hugo new xxx&lt;/code&gt;で作ったコンテントファイルで&lt;code&gt;{{ .Site.Xxx }}&lt;/code&gt;みたいに変数は使えないが、&lt;code&gt;archetype&lt;/code&gt;ディレクトリ内の&lt;code&gt;.md&lt;/code&gt;ファイルでは使える&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;taxonomy-term-value&#34;&gt;Taxonomy, Term, Value&lt;/h2&gt;
+&lt;h3 id=&#34;taxonomy&#34;&gt;Taxonomy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;
+    
+
+    
+&gt;
+    公式
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ユーザが独自にコンテンツを分類するための仕組み&lt;/li&gt;
+&lt;li&gt;コンテンツを分類するために使われる&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;config.yml&lt;/code&gt;内でサイトレベルで設定するもの&lt;/li&gt;
+&lt;li&gt;Taxonomyごとのリンクを設定できる（&lt;code&gt;/categories/&lt;/code&gt; &lt;code&gt;/tags/&lt;/code&gt;など）&lt;/li&gt;
+&lt;li&gt;デフォルトでは、&lt;code&gt;categories&lt;/code&gt;と&lt;code&gt;tags&lt;/code&gt;というtaxonomyが設定されている&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;term&#34;&gt;Term&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;taxonomyの中のkey(categoriesの中の &lt;em&gt;memo&lt;/em&gt; とかがterm)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;value&#34;&gt;Value&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Termにアサインされたコンテンツ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;front matterの中で&lt;br&gt;
+&lt;code&gt;taxonomy: [term1, term2]&lt;/code&gt;&lt;br&gt;
+ってする。例えば,&lt;br&gt;
+&lt;code&gt;categories: [memo, development]&lt;/code&gt;&lt;br&gt;
+なので、Valueにあたるのはコンテンツファイル。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

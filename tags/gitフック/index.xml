@@ -9,7 +9,7 @@
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.139.2</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 27 Jun 2023 21:19:47 +0900</lastBuildDate>
     <atom:link href="https://piyopanman.dev/tags/git%E3%83%95%E3%83%83%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,21 @@
       <link>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</link>
       <pubDate>Tue, 27 Jun 2023 21:19:47 +0900</pubDate>
       <guid>https://piyopanman.dev/articles/hugo-front-matter-git-hook/</guid>
-      <description>Hugoのフロントマターの値の入力を強制させるためにGitフックを使ったのでそのメモです Hugoのフロントマターとは フロントマターはmdファ</description>
+      <description>&lt;p&gt;Hugoのフロントマターの値の入力を強制させるためにGitフックを使ったのでそのメモです&lt;/p&gt;
+&lt;h2 id=&#34;hugoのフロントマターとは&#34;&gt;Hugoのフロントマターとは&lt;/h2&gt;
+&lt;p&gt;フロントマターはmdファイルの先頭に書くもので、これを使うことで、mdファイルのメタデータを設定することができます。&lt;br&gt;
+&lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    公式Docs
+&lt;/a&gt; に書いてある通り、フロントマターの記述方法は、TOML, YAML, JSON, ORG形式の４つのうちどれかを選ぶことができます。&lt;br&gt;
+フロントマターの変数には、定義済みのもの（date, draft, imagesなど）と自分で自由に定義できるものがあります。&lt;br&gt;
+hugoには、Archetypesというmdファイルを作る際のテンプレートのようなものがあり、このArchetypesにフロントマターを設定しておくことで、いちいち最初からフロントマターをちまちま書く必要がなくなります。&lt;br&gt;
+私の場合は、以下のように設定しています。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

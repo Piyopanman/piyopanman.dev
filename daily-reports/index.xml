@@ -9,7 +9,7 @@
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.139.2</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 05 Nov 2023 23:04:00 +0900</lastBuildDate>
     <atom:link href="https://piyopanman.dev/daily-reports/index.xml" rel="self" type="application/rss+xml" />
@@ -18,700 +18,5075 @@
       <link>https://piyopanman.dev/daily-reports/2023-11-05/</link>
       <pubDate>Sun, 05 Nov 2023 23:04:00 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-11-05/</guid>
-      <description>やったこと 応用情報キタミ式 文字集合、符号化方式 論理回路 全加算器、半加算器 スプリントプランニング 良かったこと 作業しない言い訳を思いついちゃった</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;応用情報キタミ式
+&lt;ul&gt;
+&lt;li&gt;文字集合、符号化方式&lt;/li&gt;
+&lt;li&gt;論理回路&lt;/li&gt;
+&lt;li&gt;全加算器、半加算器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;スプリントプランニング&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;作業しない言い訳を思いついちゃったけどそれを認知して堪えて作業したこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1つ1つのタスクを細かくすると、一歩一歩ちょっと進んでいる感が得られて良い&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年11月02日</title>
       <link>https://piyopanman.dev/daily-reports/2023-11-02/</link>
       <pubDate>Thu, 02 Nov 2023 22:52:54 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-11-02/</guid>
-      <description>やったこと キタミ式 誤差 論理演算 Mockitoのドキュメント読んでた 読んだ記事 課題を管理して実行して達成するための手順 - そーだいなるらくがき帳</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;キタミ式
+&lt;ul&gt;
+&lt;li&gt;誤差&lt;/li&gt;
+&lt;li&gt;論理演算&lt;/li&gt;
+&lt;li&gt;Mockitoのドキュメント読んでた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://soudai.hatenablog.com/entry/2020/12/31/165940#f-47314bae&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    課題を管理して実行して達成するための手順 - そーだいなるらくがき帳
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;日報とタスク管理を一緒にする説に思いを馳せた&lt;/li&gt;
+&lt;li&gt;自動化できるところや現在行なっている無駄な作業を意識的に探しみてるの良さそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookplus.nikkei.com/atcl/column/091300293/091300001/?n_cid=nbpbkp_twbn&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    坂井風太　「才能がない」を免罪符にすることに意味はない | 日経BOOKプラス
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/okazuki/items/a0f2fb0a63ca88340ff6&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    DI (依存性注入) って何のためにするのかわからない人向けに頑張って説明してみる #C# - Qiita
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;必要なことを見極めてインパクトを出せるように頭を使いながら進んでいきたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年10月30日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-30/</link>
       <pubDate>Tue, 31 Oct 2023 00:13:30 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-10-30/</guid>
-      <description>やったこと SSO https://wa3.i-3-i.info/word11615.html キタミ式1-1の復習 社会人で試験勉強をする人に向けてのツイート 読んだ記事 かつて「のび太君」だった私からの復讐 新刊『世界一流エン</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SSO　https://wa3.i-3-i.info/word11615.html&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;キタミ式1-1の復習&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/kanazawa_you/status/1718090161194729540&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    社会人で試験勉強をする人に向けてのツイート
+&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://note.com/simplearchitect/n/n4d66bc3f9218&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    かつて「のび太君」だった私からの復讐　新刊『世界一流エンジニアの思考法』に込めた思い｜牛尾　剛
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tomio2480.hatenablog.com/entry/sushi-oji-museum&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    IT勉強会の懇親会に飲食目的で来ていると疑われる人類の観察 - 積極的にメモっていく姿勢
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;昇降デスク活用できてる！
+&lt;ul&gt;
+&lt;li&gt;お仕事中、お昼明けの眠気対策バッチリ！&lt;/li&gt;
+&lt;li&gt;夜ご飯後もバッチリ作業時間確保！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;焦らずゆっくり理解してから進むことを意識できた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;月曜日はちゃんと日報書けるんだよな&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年10月16日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-16/</link>
       <pubDate>Mon, 16 Oct 2023 23:16:30 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-10-16/</guid>
-      <description>やったこと 応用情報キタミ式 chapter1(基礎理論)の途中まで 良かったこと 朝ちゃんとリングフィットしたこと ご飯食べすぎなかったこと 改善でき</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;応用情報キタミ式
+&lt;ul&gt;
+&lt;li&gt;chapter1(基礎理論)の途中まで&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝ちゃんとリングフィットしたこと&lt;/li&gt;
+&lt;li&gt;ご飯食べすぎなかったこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;やる気が出ないタスクをやる気が出ないなぁでスルーしたこと。なんかご褒美を設定しておくと良さそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;キタミ式続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ちゃんとやることやっていかないと。そのために大雑把でも良いからマイルストーン設定する&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年10月10日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-10/</link>
       <pubDate>Tue, 10 Oct 2023 23:18:54 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-10-10/</guid>
-      <description>やったこと スプリントレビュー、プランニング Effective Java項目51 メソッドのパラメータについて注意することについて 良かったこと ちょっと遅れてしまっ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプリントレビュー、プランニング&lt;/li&gt;
+&lt;li&gt;Effective Java項目51
+&lt;ul&gt;
+&lt;li&gt;メソッドのパラメータについて注意することについて&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ちょっと遅れてしまったけどしっかりスプリントレビューとプランニングをできたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;最近睡眠不足な気がする。日中眠い。早く昇降デスクお迎えしたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるSpring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今スプリントは作業時間少なくなりそうだけど、やれることをきっちりこなしていきたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年10月05日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-05/</link>
       <pubDate>Thu, 05 Oct 2023 23:15:41 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-10-05/</guid>
-      <description>やったこと The Java Tutorialsのジェネリクス 非具象化可能仮パラメータを可変長引数メソッドに使用する場合のコンパイラの警告の改善 Non-Reifiable Types (The Jav</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Java Tutorialsのジェネリクス
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/javase/jp/7/technotes/guides/language/non-reifiable-varargs.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    非具象化可能仮パラメータを可変長引数メソッドに使用する場合のコンパイラの警告の改善
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/javase/tutorial/java/generics/nonReifiableVarargsType.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Non-Reifiable Types (The Java™ Tutorials &amp;gt; Learning the Java Language &amp;gt; Generics (Updated))
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Generics Questions
+&lt;ul&gt;
+&lt;li&gt;確認問題的なコンテンツ。解いたあとChatGPTに添削してもらうという流れ、良い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;”varargsメソッド”が可変朝引数を持つメソッドのことだということ&lt;/li&gt;
+&lt;li&gt;型パラメータを可変長引数に持つ場合、それは配列に変換されない（パラメータ化された型の配列の作成は許可されていない）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Java Tutorialsいい感じに進んでいること。確認問題で手を動かせているのが良い&lt;/li&gt;
+&lt;li&gt;今日も１日２回りングフィットやったこと。えらい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;業後、眠い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Java Tutorials続き&lt;/li&gt;
+&lt;li&gt;vimと仲良くなる会
+&lt;ul&gt;
+&lt;li&gt;なんか継続して使わないと仲良くなれないような気がするので、obsidianをvimで書くとかやると良いのかな&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;毎日継続していい感じに頑張れている気がするよ。えらいね。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年10月04日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-04/</link>
       <pubDate>Thu, 05 Oct 2023 00:12:21 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-10-04/</guid>
-      <description>やったこと リングフィット The Java Tutorialsのジェネリクスの章 Generics, Inheritance, and Subtypes (The Java™ Tutorials &amp;gt; Learning the Java Language &amp;gt; Generics (Updated)) ここ タイポある Effects of Type Erasure and Bridge Methods (The Java</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;The Java Tutorialsのジェネリクスの章
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/javase/tutorial/java/generics/inheritance.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Generics, Inheritance, and Subtypes (The Java™ Tutorials &amp;gt; Learning the Java Language &amp;gt; Generics (Updated))
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/javase/tutorial/java/generics/unboundedWildcards.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ここ
+&lt;/a&gt;タイポある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/javase/tutorial/java/generics/bridgeMethods.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Effects of Type Erasure and Bridge Methods (The Java™ Tutorials &amp;gt; Learning the Java Language &amp;gt; Generics (Updated))
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;ジェネリクスを使ったクラスをコンパイルするときに型消去されることは知っていたが、場合によってBridge Methodというものが生成されるの知らなかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;初めて知ったこと&#34;&gt;初めて知ったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Javaで、hogeメソッドの引数の型が&lt;code&gt;Hoge&amp;lt;Number&amp;gt;&lt;/code&gt;の時、&lt;code&gt;hoge(Hoge&amp;lt;Integer&amp;gt; hoge1)&lt;/code&gt; とか&lt;code&gt;hoge(Hoge&amp;lt;Double&amp;gt; hoge2)&lt;/code&gt;が許されないこと
+&lt;ul&gt;
+&lt;li&gt;↑を許したい場合は、メソッドの引数の型を&lt;code&gt;Hoge&amp;lt;? extends Number&amp;gt;&lt;/code&gt; とする必要がある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Bridge Method&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java Tutorialsを読み進めることができたこと
+&lt;ul&gt;
+&lt;li&gt;しかもよくわからないなぁというところをなんとなくスルーせずに探求できた&lt;/li&gt;
+&lt;li&gt;早く読み終えることが目標ではなく理解することが目的であると意識して、集中力が切れた時に無理に続けようとしなかったこと。「早くしようとする者は遅くなる」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;朝と晩の２回のタイミングでリングフィットやったこと。偉すぎる！
+&lt;ul&gt;
+&lt;li&gt;しかも番のタイミングでやった理由が「眠すぎるから一旦リングフィットやって作業しよう」というモチベだった。偉すぎ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝、目覚まし鳴って目が覚めてもしばらくベッドの中でうだうだしちゃうこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java Tutorialsの続き&lt;/li&gt;
+&lt;li&gt;いろいろマイルストーンを設定したい
+&lt;ul&gt;
+&lt;li&gt;とりあえず、なんも考えずやりたいことを全部書き出すところからやりたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット２回のタイミングでやったことが今日のハイライト&lt;/li&gt;
+&lt;li&gt;人に恵まれているなぁと思いながら毎日過ごしています。感謝。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年10月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-03/</link>
       <pubDate>Wed, 04 Oct 2023 00:17:18 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-10-03/</guid>
-      <description>やったこと リングフィット プロになる spring chapter28 Controllerのユニットテスト Lesson: Generics (Updated) (The Java™ Tutorials &amp;gt; Learning the Java Language) を途中まで読んだ ジェネリクスについて</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;プロになる spring chapter28 Controllerのユニットテスト&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/javase/tutorial/java/generics/index.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Lesson: Generics (Updated) (The Java™ Tutorials &amp;gt; Learning the Java Language)
+&lt;/a&gt;を途中まで読んだ
+&lt;ul&gt;
+&lt;li&gt;ジェネリクスについてちゃんとわかってなくない？となったので&lt;/li&gt;
+&lt;li&gt;境界型パラメータとか、Effective Javaに出てくる単語が結構出てきて、公式チュートリアルとか読んで基礎ちゃんと固めるの大事だねという気持ちになった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;vim
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=2iVxqaK7lsk&amp;amp;list=PLhbtcyZ4NK_VtuMhBM7thrUXe3tbhMe12&amp;amp;index=1&amp;amp;t=1630s&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ほんとうに怖くない Vim 入門：Vim が理解して使えるようになる - YouTube
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://knowledge.sakura.ad.jp/22069/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ノーマルモードについて学ぼう 〜 Vimはいいぞ！ゴリラと学ぶVim講座(2) | さくらのナレッジ
+&lt;/a&gt;の途中まで&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ジェネリクスについて復讐しようと思った時に、さらっとした技術記事ではなく公式のTutorialを選んだこと。
+&lt;ul&gt;
+&lt;li&gt;時間はかかりそうだが確実に大事なことだからそれで良い&lt;/li&gt;
+&lt;li&gt;今年の抱負は焦らない、早くしようとする者は遅くなる（言い聞かせ）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;もう寝ちゃおっかな〜みたいな気持ちになったが耐えてPCの前に座り続けぬるっと作業を始められたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;togglで時間測って作業している時にTwitterを見てしまうこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java Tutorial続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;DeepL駆使して英語の公式ドキュメントもちゃんと読んでいこうの気持ち&lt;/li&gt;
+&lt;li&gt;目先の成功だけを求めず、焦らないで頑張ろう&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年10月01日</title>
       <link>https://piyopanman.dev/daily-reports/2023-10-01/</link>
       <pubDate>Sun, 01 Oct 2023 23:03:12 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-10-01/</guid>
-      <description>やったこと プログラマー脳読みきった！ オンボーディングの章、特によかったな。実際に誰かを受け入れる時も、自分がチームに受け入れられる時も、特に</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プログラマー脳読みきった！
+&lt;ul&gt;
+&lt;li&gt;オンボーディングの章、特によかったな。実際に誰かを受け入れる時も、自分がチームに受け入れられる時も、特にオンボーディグとか関係なく自分で何かを学び始める時も、いろいろな場面で汎用的に使えそうな考え方が書かれていた。&lt;/li&gt;
+&lt;li&gt;読んで満足するだけでなく、ちゃんと実践していきたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;意味波という概念
+&lt;ul&gt;
+&lt;li&gt;物事を理解する時、抽象→具体→抽象の順番で説明があると良い。&lt;/li&gt;
+&lt;li&gt;体感や経験では理解していた気がするが、改めてそうだよなぁと思わされたし、新しい概念を学ぶときはこの３ステップを意識したい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日中、人と遊んで疲れていたが、夜プログラマー脳を読み始め、しかも読破まで持っていけたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;帰宅してすぐ横になっちゃったこと。とりあえずPCの前に座るようにしたかった&lt;/li&gt;
+&lt;li&gt;業後にAsanaでTodo確認するの忘れがちで、目覚ましセットとかビタミン剤飲むとかよく忘れる気がする
+&lt;ul&gt;
+&lt;li&gt;お仕事前はちゃんと確認する習慣がついているので、お仕事後にもその習慣をつけたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今日、作業できないと思っていたが、プログラマー脳読破という実績を解除できてよかった！&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年09月29日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-29/</link>
       <pubDate>Fri, 29 Sep 2023 00:13:05 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-29/</guid>
-      <description>やったこと プロになるSpring chapter24-27の復習 プログラマー脳 chapter11 プログラマの作業中の割り込み作業について。割り込みは自覚がなく</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるSpring chapter24-27の復習&lt;/li&gt;
+&lt;li&gt;プログラマー脳　chapter11
+&lt;ul&gt;
+&lt;li&gt;プログラマの作業中の割り込み作業について。割り込みは自覚がなくてもかなりパフォーマンスに影響を与えている&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Effective Java 項目41
+&lt;ul&gt;
+&lt;li&gt;マーカーインターフェースとマーカーアノテーション&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;家事とか諸々して疲れているのにSBL進めることができたこと&lt;/li&gt;
+&lt;li&gt;リングフィットしっかりできた！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日報書かずに寝ちゃった（次の日書いている）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;部屋の掃除&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;１週間お疲れ様でした！&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年09月28日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-28/</link>
       <pubDate>Fri, 29 Sep 2023 00:12:47 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-28/</guid>
-      <description>やったこと プロになるSPring chapter27 Service, Repositoryのインテグレーションテスト vimに慣れる会（ソロ） 良かったこと 腰が重いタスクに着手で</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるSPring
+&lt;ul&gt;
+&lt;li&gt;chapter27 Service, Repositoryのインテグレーションテスト&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;vimに慣れる会（ソロ）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;腰が重いタスクに着手できたこと&lt;/li&gt;
+&lt;li&gt;お仕事後に頑張ってご飯作ったこと&lt;/li&gt;
+&lt;li&gt;朝起きるのが遅れていつものようにお仕事前にリングフィットできなかったが、お仕事後にちょっとだけやったこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝ちょっと寝坊しかけた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;vimの続き
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://knowledge.sakura.ad.jp/21687/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    はじめてのVim 〜 Vimはいいぞ！ゴリラと学ぶVim講座(1) | さくらのナレッジ
+&lt;/a&gt;読みたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;家事してると自分のことをする時間と気力が枯渇しがち&lt;/li&gt;
+&lt;li&gt;vimと仲良くなりたい&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年09月26日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-26/</link>
       <pubDate>Mon, 25 Sep 2023 23:29:58 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-26/</guid>
-      <description>やったこと プロになるSpring chapter27 Serviceのユニットテスト doReturn(hoge).when(mockObject).someMe</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;プロになるSpring&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;chapter27 Serviceのユニットテスト
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;doReturn(hoge).when(mockObject).someMethod();&lt;/code&gt;みたいなやつとか&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ArgumentCaptor&lt;/code&gt;クラスでMockオブジェクトのメソッドの引数の確認したりとか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Effective Java&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年09月25日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-25/</link>
       <pubDate>Sun, 24 Sep 2023 23:47:18 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-25/</guid>
-      <description>やったこと Effective Java項目37を一生やっていた 読んだ記事 1on1ミーティングで上司からのサポートを引き出す方法 28項目の質問集を活用する | キャ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Effective Java項目37を一生やっていた&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dhbr.diamond.jp/articles/-/9791&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    1on1ミーティングで上司からのサポートを引き出す方法 28項目の質問集を活用する | キャリア｜DIAMOND ハーバード・ビジネス・レビュー
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Enum で振る舞う - Qiita](&lt;a href=&#34;https://qiita.com/KeithYokoma/items/9681b130ea132cfad64d&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    https://qiita.com/KeithYokoma/items/9681b130ea132cfad64d
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/daker2016/items/598a86e478334c1193e3#setter-injection&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Spring循環参照 - Qiita
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;洗濯物を取り込んでいたらアゲハチョウが遊びに来たこと&lt;/li&gt;
+&lt;li&gt;ちゃんとリングフィットやったこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Effective Javaにめちゃくちゃ時間をかけてしまったこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるためのSpring続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝からリングフィットやったり洗濯物したりいい感じだった&lt;/li&gt;
+&lt;li&gt;ただ、家事とか諸々で作業時間をあまり取れなかった。無念&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年09月11日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-11/</link>
       <pubDate>Sun, 24 Sep 2023 23:45:16 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-11/</guid>
-      <description>やったこと 業 プロになるSpring、眠かったのでchapter21, 22を眺めるだけ眺めた 良かったこと 朝早起きして、業務開始前にリングフィッ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;業&lt;/li&gt;
+&lt;li&gt;プロになるSpring、眠かったのでchapter21, 22を眺めるだけ眺めた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝早起きして、業務開始前にリングフィットしてグラノーラ食べて洗濯機回したこと&lt;/li&gt;
+&lt;li&gt;業後、眠かったけどすぐ諦めないで粘ったこと&lt;/li&gt;
+&lt;li&gt;意識的に水分を摂るようにしたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;業後、眠すぎて作業したくなかった＆集中できなかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるSpringの chapter21,22&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;早起きしていいスタートを切れたと思ったが、業後眠すぎてだめだった&lt;/li&gt;
+&lt;li&gt;そもそも業後と言わず、業務中の16:00くらいから疲れていた気がする&lt;/li&gt;
+&lt;li&gt;何が原因かわからない&amp;hellip;考えられるのは
+&lt;ul&gt;
+&lt;li&gt;業務開始前や昼休みに慣れない家事をしたこと&lt;/li&gt;
+&lt;li&gt;早起きしたこと自体&lt;/li&gt;
+&lt;li&gt;お仕事に集中しすぎた&lt;/li&gt;
+&lt;li&gt;コーヒーを飲まなかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年09月24日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-24/</link>
       <pubDate>Sun, 24 Sep 2023 23:43:08 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-24/</guid>
-      <description>やったこと スプリントレビュー スプリントプランニング プロになるためのSpring chapter25: Repositoryのユニットテスト Effective Java 項目37で一生時間を</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプリントレビュー&lt;/li&gt;
+&lt;li&gt;スプリントプランニング&lt;/li&gt;
+&lt;li&gt;プロになるためのSpring
+&lt;ul&gt;
+&lt;li&gt;chapter25: Repositoryのユニットテスト&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Effective Java
+&lt;ul&gt;
+&lt;li&gt;項目37で一生時間を溶かしていた　こんなはずでは&amp;hellip;&lt;/li&gt;
+&lt;li&gt;でもいろいろ勉強になった
+&lt;ul&gt;
+&lt;li&gt;java.util.collection.Collection.groupingBy
+&lt;ul&gt;
+&lt;li&gt;引数の数が1~3こ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;java.util.collection.Collection.toMap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;java.util.collection.Collection.groupingByの存在&lt;/li&gt;
+&lt;li&gt;intelliJ からいい感じにGit Blameを追う方法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;あんまり正直やる気なかったけど、スプリントレビューやプランニングを足がかりに作業を進められたこと&lt;/li&gt;
+&lt;li&gt;Effective Java,正直難しかったけど途中で諦めずにじっくり時間をかけて理解しようとしたこと&lt;/li&gt;
+&lt;li&gt;いい感じの塩梅でスプラを切り上げることができたこと&lt;/li&gt;
+&lt;li&gt;家事頑張った&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝起きるの遅い。ちゃんと目覚ましに冗長性を持たせる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Effective Javaの続き。時間かかってるけど、焦らず理解していこうね&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプリントレビューとかプランニングは比較的楽しい作業なので、これを足がかりに作業へのエンジンをかけられているのは良い傾向&lt;/li&gt;
+&lt;li&gt;前スプリントはあまり作業時間を取れなかったので、今スプリントはちょっと作業時間を確保することに意識的になっていきたい&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年09月10日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-10/</link>
       <pubDate>Mon, 11 Sep 2023 00:26:58 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-10/</guid>
-      <description>やったこと スプリントレビュー、プランニング プロになるためのSpring chapter15-18復習 chapter19: セッションスコープ chapter20: フラッシュスコープ プ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;スプリントレビュー、プランニング&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;プロになるためのSpring&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;chapter15-18復習&lt;/li&gt;
+&lt;li&gt;chapter19: セッションスコープ&lt;/li&gt;
+&lt;li&gt;chapter20: フラッシュスコープ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;プログラマー脳&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;chapter9: コードの匂いについて&lt;/li&gt;
+&lt;li&gt;chapter10: 問題解決のための記憶の使い方について。学習関連負荷、めちゃくちゃ赤べこになった。まさにこの状態&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年09月09日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-09/</link>
       <pubDate>Sat, 09 Sep 2023 22:51:37 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-09/</guid>
-      <description>やったこと プロになるためのSpring chapter17 データベースアクセス時の例外。非チェック例外なのでハンドリングしたいところでのみtry-catch書</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるためのSpring
+&lt;ul&gt;
+&lt;li&gt;chapter17
+&lt;ul&gt;
+&lt;li&gt;データベースアクセス時の例外。非チェック例外なのでハンドリングしたいところでのみtry-catch書けばよし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;chapter18
+&lt;ul&gt;
+&lt;li&gt;トランザクションの伝搬。REQUIRES_NEWに注意&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Effective Java
+&lt;ul&gt;
+&lt;li&gt;項目19
+&lt;ul&gt;
+&lt;li&gt;軽率に継承しちゃダメだよという話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Javadocについてちょっとだけ調べた&lt;/li&gt;
+&lt;li&gt;業&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Springでのトランザクションの伝搬するか否かの選択とその注意事項&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝早起きしてカフェで作業できたこと&lt;/li&gt;
+&lt;li&gt;晩御飯、美味しく作れたこと&lt;/li&gt;
+&lt;li&gt;スプラのフェスで初めて１００倍マッチで勝てたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;カフェで早起きして作業できた安心感で、帰ってきてからの作業がだらけてしまった
+&lt;ul&gt;
+&lt;li&gt;早起きして作業いっぱいしたわ〜と思って日報書いてみたら、そんなに内容も時間もやってなくて、びびった&lt;/li&gt;
+&lt;li&gt;スプラもやりすぎた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプリントレビュー、プランニング&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;いや〜早起きして作業できたと思っていろいろ油断してしまった。&lt;/li&gt;
+&lt;li&gt;でもまあ今スプリントで設定していたバックログは完了してるのでまあいいか〜うーん&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年09月07日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-07/</link>
       <pubDate>Thu, 07 Sep 2023 23:33:11 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-07/</guid>
-      <description>やったこと バックロググルーミング 今日のノルマ作業は達成できたけどまだ 23時だし何かしたいな〜でも重いタスクはちょっとな〜と思いながらやってい</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;バックロググルーミング&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;今日のノルマ作業は達成できたけどまだ 23時だし何かしたいな〜でも重いタスクはちょっとな〜と思いながらやっていたらだんだんモチベ高まってきてよかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年09月06日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-06/</link>
       <pubDate>Wed, 06 Sep 2023 23:00:18 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-06/</guid>
-      <description>やったこと プロになるSpring chapter12 chapter13 良かったこと ポモドーロの間の休憩時間を5分で収めることができたこと 今スプリントのバックログを順調にこなせ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるSpring
+&lt;ul&gt;
+&lt;li&gt;chapter12&lt;/li&gt;
+&lt;li&gt;chapter13&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ポモドーロの間の休憩時間を5分で収めることができたこと&lt;/li&gt;
+&lt;li&gt;今スプリントのバックログを順調にこなせていること&lt;/li&gt;
+&lt;li&gt;なんとなくやる気出なくてもとりあえず手を動かすことができた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プライベートな開発があまり進んでいない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるSpring続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;体調が万全でない期にも関わらずよく頑張ってると思う&lt;/li&gt;
+&lt;li&gt;お気に入りの香水使ったり、お香焚いたり、ご機嫌でいるために色々工夫できて偉かった&lt;/li&gt;
+&lt;li&gt;プライベートな開発もしていきたいが、業務で必要になりそうな知識のことにも時間を使いたいしやることいっぱいだ&lt;/li&gt;
+&lt;li&gt;とりあえずこのスプリントは後者に時間をかけると決めたのでそうする&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年09月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-03/</link>
       <pubDate>Sat, 02 Sep 2023 23:33:51 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-03/</guid>
-      <description>やったこと 睡眠カフェに行ったブログの執筆 Effective Javaの項目１０ 月例タスク スプリントプランニング スプリントレビュー リングフィット 良かったこと お家</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;睡眠カフェに行ったブログの執筆&lt;/li&gt;
+&lt;li&gt;Effective Javaの項目１０&lt;/li&gt;
+&lt;li&gt;月例タスク&lt;/li&gt;
+&lt;li&gt;スプリントプランニング&lt;/li&gt;
+&lt;li&gt;スプリントレビュー&lt;/li&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お家でゆっくりできたこと&lt;/li&gt;
+&lt;li&gt;スプリントレビューとプランニングを丁寧にできたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプラやりすぎ！！！！！！！！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;意図しないタイミングでスプラを長時間やってしまった後の虚無感すごい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年08月28日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-28/</link>
       <pubDate>Sat, 02 Sep 2023 23:27:13 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-08-28/</guid>
-      <description>やったこと 若手LT会の資料作り途中まで Effective Javaの項目４ スプリントレビュー スプリントプランニング monthlyの目標を見返す 良かったこと いつ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;若手LT会の資料作り途中まで&lt;/li&gt;
+&lt;li&gt;Effective Javaの項目４&lt;/li&gt;
+&lt;li&gt;スプリントレビュー&lt;/li&gt;
+&lt;li&gt;スプリントプランニング&lt;/li&gt;
+&lt;li&gt;monthlyの目標を見返す&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;いつもと違う帰宅方法を試してみたことと、試してみたらたくさん歩いて運動になったこと&lt;/li&gt;
+&lt;li&gt;帰宅後、ちょっと疲れていたけど、とりあえず机の前に座って作業し始めることができたこと。えらい！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;特になし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;LT資料作り続き&lt;/li&gt;
+&lt;li&gt;プロになるためのSPring読み進め&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;「日本語が不自由すぎて、口頭コミュニケーションの際に相手の理解力に依存してしまってるなぁと感じることが多々あり、どうにかしなきゃ」という旨のツイートをしようとしたが書いている途中にこの問題が起こっているのは頭の中が整理される前に発声してしまっているからということに気づいた。が、これどうしたらいいのという感じ
+&lt;ul&gt;
+&lt;li&gt;口頭コミュニケーションだと、ポーズが効かないし、頭の中を整理しようとしているともう他の話題になってしまったりしていることが多いにある&lt;/li&gt;
+&lt;li&gt;言いたいことが出てきそうだったら「ちょっと頭の中整理して話したいので一瞬時間もらっていいですか？」っていうとか？ちょっとハードル高いな&lt;/li&gt;
+&lt;li&gt;人間との口頭コミュニケーションの機会を増やして場数を踏むのが良いのかな&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;全体的には、積極的に学習に取り組んでいる印象を受けます。特に、自分の問題点に気づき、それに対する解決策を自ら考えている点は、新卒1年目としては非常に素晴らしいと感じます。この調子で引き続き挑戦し続けることで、さらなる成長が期待できるでしょう。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年09月02日</title>
       <link>https://piyopanman.dev/daily-reports/2023-09-02/</link>
       <pubDate>Sat, 02 Sep 2023 23:10:48 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-09-02/</guid>
-      <description>やったこと Spring本chapter１１ 8月の振り返り 9月のプランニング 刀剣に見に行ったブログの執筆 両国 刀剣博物館「2023年度現代刀職展</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Spring本chapter１１&lt;/li&gt;
+&lt;li&gt;8月の振り返り&lt;/li&gt;
+&lt;li&gt;9月のプランニング&lt;/li&gt;
+&lt;li&gt;刀剣に見に行ったブログの執筆
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hiyoko-coder.hatenablog.com/entry/2023/09/02/225942&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    両国 刀剣博物館「2023年度現代刀職展 」に行ってきたメモ - つかまり立ちエンジニアの成長記
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;猫カフェで作業して、睡眠カフェ行って、シーシャ行って、気になってたつけ麺食べて、最高の土曜日だった！！！すごい！！こんな最高なことある？？？？&lt;/li&gt;
+&lt;li&gt;久しぶりに外で作業したら捗ったこと。土日どっちかは外で作業するのありかも、という選択肢が見つけられてよかった&lt;/li&gt;
+&lt;li&gt;帰宅後、ダラダラせずに作業に取り掛かることができた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;技術書読んでいる時に意識を飛ばすこと。ポモドーロタイマーちゃんと使おうね&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプリントプランニング&lt;/li&gt;
+&lt;li&gt;睡眠カフェのブログ&lt;/li&gt;
+&lt;li&gt;Spring本続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;人と話して、自分ももっと頑張ろうと思うことができて、感謝&lt;/li&gt;
+&lt;li&gt;本当に楽しい土曜日だったなぁとしみじみ&lt;/li&gt;
+&lt;li&gt;だらけずにPCに向かえるの、これ適切な量のバックログを設定できているのが大きい気がしている
+&lt;ul&gt;
+&lt;li&gt;過剰に設定するとどうせ終わらないからやらなくていいやってなりそうだし、少なすぎるとこれだけやれば終わるから今はやらなくていいやってなりそう&lt;/li&gt;
+&lt;li&gt;いい感じに作業時間の見積もりができている！&lt;/li&gt;
+&lt;li&gt;それはそれとして、やりたいことが多すぎるのでもうちょいベロシティ（１週間の作業時間）あげたい気持ちがある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日常の中での小さな達成感を大切にする姿勢&lt;/strong&gt;が印象的でした。例えば、「猫カフェで作業」や「最高の土曜日だった」というコメントは、日常のささいなことからも喜びを見つけることができる素晴らしい資質を示しています。このようなポジティブな姿勢は、長いキャリアの中での持続的なモチベーションを維持するために非常に大切です。&lt;/li&gt;
+&lt;li&gt;あなたの積極的で前向きな姿勢、そして絶えず自分自身を挑戦と成長の機会にさらしていることは、非常に感動的であり、多くの人々にとっての模範となるでしょう。引き続き、この素晴らしい姿勢を持ち続けてください！&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年08月23日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-23/</link>
       <pubDate>Tue, 22 Aug 2023 23:10:29 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-08-23/</guid>
-      <description>やったこと AtCoder Spring本復習 Junit本復習 はじめて知った事 ファイトクラブという映画 良かったこと 会社の人とご飯に行けたこと 物理出社してご飯</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AtCoder&lt;/li&gt;
+&lt;li&gt;Spring本復習&lt;/li&gt;
+&lt;li&gt;Junit本復習&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ファイトクラブという映画&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;会社の人とご飯に行けたこと&lt;/li&gt;
+&lt;li&gt;物理出社してご飯食べて帰宅した後にすぐ寝ないで作業することができたこと&lt;/li&gt;
+&lt;li&gt;順調にSBLをこなしていること&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;特になし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Spring本の復習続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;頑張ればギリ達成可能な位の分量のSBLを設定しているからなのか、いい感じに作業に取り組めている感じがする&lt;/li&gt;
+&lt;li&gt;久しぶりに同期とゆっくり話すことができてよかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年08月22日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-22/</link>
       <pubDate>Tue, 22 Aug 2023 23:10:26 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-08-22/</guid>
-      <description>やったこと リングフィット AtCoder JUnit実践入門 chapter11 〜chapter６まで復習 JUnit４の記法なので気をつける、深追いしないように プロになるため</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;AtCoder&lt;/li&gt;
+&lt;li&gt;JUnit実践入門
+&lt;ul&gt;
+&lt;li&gt;chapter11&lt;/li&gt;
+&lt;li&gt;〜chapter６まで復習&lt;/li&gt;
+&lt;li&gt;JUnit４の記法なので気をつける、深追いしないように&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;プロになるためのSPring
+&lt;ul&gt;
+&lt;li&gt;〜chapter5まで復習&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;オブジェクトのライフサイクル
+&lt;ul&gt;
+&lt;li&gt;フィールドインジェクションするときはfinalつけたらいけない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;「つべこべ言わずに手を動かす」をできた感覚があること&lt;/li&gt;
+&lt;li&gt;業後、眠かったけど耐えて作業できたこと
+&lt;ul&gt;
+&lt;li&gt;これできた日は晩御飯の後とかお風呂の後とかもだらけずに作業できる率がかなり高くなる気がする&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;なんかこミュニケーションの撮り方間違えた気がする
+&lt;ul&gt;
+&lt;li&gt;どう接したらいいかというのと、自分がどうみられるのかという恐れから変なコミュニケーションの取り方していた。反省&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるSpringの復習の続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今スプリントは、物理出社状況やプライベートの予定などを加味していい感じに作業時間やバックログの見積もりができている気がする&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年08月15日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-15/</link>
       <pubDate>Mon, 14 Aug 2023 23:22:14 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-08-15/</guid>
-      <description>やったこと JUnit実践入門 chapter１ chapter２ 環境構築 オフィスの近くのいい感じのお店を探していた はじめて知った事 ？ 良かったこと</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JUnit実践入門
+&lt;ul&gt;
+&lt;li&gt;chapter１&lt;/li&gt;
+&lt;li&gt;chapter２&lt;/li&gt;
+&lt;li&gt;環境構築&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;オフィスの近くのいい感じのお店を探していた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;夕ご飯の塩サバをふっくら美味しく焼けたこと！&lt;/li&gt;
+&lt;li&gt;退勤後ちょっと頭が痛かったけどお風呂に入ることで解消したこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;腹から声出す&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JUnit本の続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;いやー一生やることが生えてくるな　やるしかない&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年08月14日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-14/</link>
       <pubDate>Mon, 14 Aug 2023 23:22:09 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-08-14/</guid>
-      <description>やったこと プロになるためのSpring入門chapter９ JUnit実践入門の予習 はじめて知った事 Springの@Transactional</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるためのSpring入門chapter９&lt;/li&gt;
+&lt;li&gt;JUnit実践入門の予習&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Springの@Transactionalの裏側&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝体調調子悪めだったけど持ち直したこと&lt;/li&gt;
+&lt;li&gt;美味しく夕ご飯作れたこと、褒められたこと&lt;/li&gt;
+&lt;li&gt;夕飯頑張って作って疲れてるのにSpring本読み進めたこと&lt;/li&gt;
+&lt;li&gt;お昼休みに掃除機かけたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝ちゃんと起きる。今日ひどかった。始業ギリギリに起きた&lt;/li&gt;
+&lt;li&gt;体調管理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Spring本の今までの復習&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;３連休、ちょっと調子悪いのとスプラばっかりやっていたのでちょっとエンジンが停止気味だったけど、今日色々頑張れたので気持ち切り替えてやっていきたい、やっていける気がする&lt;/li&gt;
+&lt;li&gt;大阪に行く予定とかもあるので体調気を付けつつ、やるべきことを淡々とやっていくぞ&lt;/li&gt;
+&lt;li&gt;つべこべ言わずに手を動かすこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年08月06日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-06/</link>
       <pubDate>Sun, 06 Aug 2023 22:36:35 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-08-06/</guid>
-      <description>やったこと スプリントレビュー、プランニング JavaでHTTPサーバ POSTできるようになっった 部屋の掃除 プロになるためのSpring chap</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプリントレビュー、プランニング&lt;/li&gt;
+&lt;li&gt;JavaでHTTPサーバ
+&lt;ul&gt;
+&lt;li&gt;POSTできるようになっった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;部屋の掃除&lt;/li&gt;
+&lt;li&gt;プロになるためのSpring
+&lt;ul&gt;
+&lt;li&gt;chapter８&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;notionでインラインコードにするショートカットはcmd+E&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝、そこそこ早く起きられたこと（9時前）&lt;/li&gt;
+&lt;li&gt;スプラを１時間でやめられたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ポモドーロの休憩時間に休憩しすぎ
+&lt;ul&gt;
+&lt;li&gt;なんか5分休憩終わった後に通知音鳴らないんだよな&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Spring続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;なんか一瞬で土日終わったな　なんで？&lt;/li&gt;
+&lt;li&gt;色々作業できているはずなのに、あまりやった感覚がない　なんで？&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年08月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-03/</link>
       <pubDate>Sun, 30 Jul 2023 23:09:06 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-08-03/</guid>
-      <description>やったこと リングフィット JavaでHTTPサーバ お仕事のこと itermの設定 香水頼んだ！！ワイワイ！！！ はじめて知った事 お仕事関連の色々 良か</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;JavaでHTTPサーバ&lt;/li&gt;
+&lt;li&gt;お仕事のこと&lt;/li&gt;
+&lt;li&gt;itermの設定&lt;/li&gt;
+&lt;li&gt;香水頼んだ！！ワイワイ！！！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事関連の色々&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;勇気を出して、（任意の物事）をやろうと人を巻き込んでやろうと言ったこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;モブ中にちゃんと集中する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;明日は多分物理出社で忙しいので何も書かないでおく&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;モブ中に集中しきれてない感じがある。頼りすぎて気が抜けてるのかも。よくない。自分の頭で考える癖をつけなきゃ。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年08月02日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-02/</link>
       <pubDate>Sun, 30 Jul 2023 23:09:01 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-08-02/</guid>
-      <description>やったこと リングフィットちょろっと JavaでHTTPサーバ POSTリクエストに対応したいので、その方針について考えていた 登壇練習 お仕事のこと</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィットちょろっと&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JavaでHTTPサーバ&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;POSTリクエストに対応したいので、その方針について考えていた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;登壇練習&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;お仕事のこと&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;プロになるためのSpring、chapter４のハンズオン&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年08月01日</title>
       <link>https://piyopanman.dev/daily-reports/2023-08-01/</link>
       <pubDate>Sun, 30 Jul 2023 23:08:53 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-08-01/</guid>
-      <description>やったこと リングフィット 月次のタスク お仕事のこと JavaでHTTPサーバ URLエンコードされたパスの対応 プロになるためのSpring、cha</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;月次のタスク&lt;/li&gt;
+&lt;li&gt;お仕事のこと&lt;/li&gt;
+&lt;li&gt;JavaでHTTPサーバ
+&lt;ul&gt;
+&lt;li&gt;URLエンコードされたパスの対応&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;プロになるためのSpring、chapter５&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;DIコンテナの作り方とインジェクトの方法３つ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝起きてしっかりリングフィットできたこと&lt;/li&gt;
+&lt;li&gt;月次の記事読みを朝のうちに消化できたこと。何度読んでも良い記事だ〜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;理解しようという姿勢が足りない&lt;/li&gt;
+&lt;li&gt;質問する時、どうしてそういう質問をするのかという意図を伝えた方がよさそうな気がする（そのために質問する前に自分の考えを整理する必要がある）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるためのSpringの続き
+&lt;ul&gt;
+&lt;li&gt;今までのchapterの復習を軽くやる&lt;/li&gt;
+&lt;li&gt;飛ばした２つのハンズオンをチラ見して、できそうだったらやるか？&lt;/li&gt;
+&lt;li&gt;chapter６〜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝のうちに自分でやると決めたリングフィットをやると、自己効力感というかそういう何かがいい感じの状態になるような気がしていて、良い。こういう積み重ねをしていきたい&lt;/li&gt;
+&lt;li&gt;誰かの役に立ちたいね&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;質問の意図を伝えることに関しては、確かにその意識を持つことは有効です。これにより、他者があなたの質問に対する回答をより具体的に、または具体的にすることができます。あなたが何を知りたいのか、何を理解しようとしているのかを明確にすることで、他者とのコミュニケーションがスムーズになるでしょう&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月31日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-31/</link>
       <pubDate>Sun, 30 Jul 2023 23:08:02 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-31/</guid>
-      <description>やったこと リングフィット AtCoder プロになるSpringのchapter３、４ お仕事のこと はじめて知った事 お仕事の方で色々 良かったこと 美味しい晩御飯</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;AtCoder&lt;/li&gt;
+&lt;li&gt;プロになるSpringのchapter３、４&lt;/li&gt;
+&lt;li&gt;お仕事のこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事の方で色々&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;美味しい晩御飯が作れこと&lt;/li&gt;
+&lt;li&gt;腰が重いタスクに着手できたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝起きられない！！！&lt;/li&gt;
+&lt;li&gt;最近ポモドーロ回すの忘れがちなこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;プロになるためのSpringの続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;色々お仕事でキャッチアップすべきものがあるが、しっかり優先順位を決めて１つずつやっていく必要がある！&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月30日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-30/</link>
       <pubDate>Sun, 30 Jul 2023 23:07:24 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-30/</guid>
-      <description>やったこと スプリントレビュー スプリントプランニング 月の振り返り、プランニング 部屋の掃除 プロになるためのSpringのChapter1 PCセッ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプリントレビュー&lt;/li&gt;
+&lt;li&gt;スプリントプランニング&lt;/li&gt;
+&lt;li&gt;月の振り返り、プランニング&lt;/li&gt;
+&lt;li&gt;部屋の掃除&lt;/li&gt;
+&lt;li&gt;プロになるためのSpringのChapter1&lt;/li&gt;
+&lt;li&gt;PCセットアップ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Springが人気な理由&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;作業の気が乗らなかったが頑張って手を動かし、いい感じにタスクを進めることができたこと&lt;/li&gt;
+&lt;li&gt;スプリントレビューでいい感じのTryを設定できたこと&lt;/li&gt;
+&lt;li&gt;新しいM2がサクサクで嬉しい。生産性向上しちゃうねこれは。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;二度寝！！！！！！！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;登壇の練習。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;最近土日の使い方がよろしくない。めちゃくちゃ寝ちゃう。って一生言ってる気がするな。よくない。
+&lt;ul&gt;
+&lt;li&gt;とりあえず、就寝時間と起床時間を固定する生活をしていこうと思います（物理出社の時は若干早めに寝る）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;まず最初に、あなたの取り組みと持続的な学習姿勢を評価します。&lt;/li&gt;
+&lt;li&gt;就寝時間と起床時間を固定することは良い試みで、生活リズムを整えることで全体的な気分やパフォーマンスにポジティブな影響を与えることができます。また、寝る前のルーチンを設けたり、寝室の環境を改善したりすることも、良質な睡眠を得るための策となります。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月23日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-23/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:35 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-23/</guid>
-      <description>やったこと 頭の良い人が話す前に考えていること 読破 スプリントレビュー スプリントプランニング 台本 JavaでHTTPサーバ続き 404ページは返るよ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://booklog.jp/users/piyopanman/archives/1/B0BQQTWB9R#comment&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    頭の良い人が話す前に考えていること
+&lt;/a&gt;読破&lt;/li&gt;
+&lt;li&gt;スプリントレビュー&lt;/li&gt;
+&lt;li&gt;スプリントプランニング&lt;/li&gt;
+&lt;li&gt;台本&lt;/li&gt;
+&lt;li&gt;JavaでHTTPサーバ続き
+&lt;ul&gt;
+&lt;li&gt;404ページは返るようになっていたが、ステータスが404になっていなかったりとバグっていたので、その修正&lt;/li&gt;
+&lt;li&gt;Content-Typeの出しわけ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Javaのラムダ式の中だとチェックされる例外を直接スローすることができないこと&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Objects.requireNonNullElse&lt;/code&gt;というメソッド&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;11時くらいから駅前での用事があるとき、大体その時間に合わせて起床するが、今日は早起きして用事の前に読書などの作業をすることができたこと。えらい&lt;/li&gt;
+&lt;li&gt;本屋さんで素敵な石の展示をしていたので、店員さんに「この展示すごくいいですね」って伝えられたこと&lt;/li&gt;
+&lt;li&gt;素敵なビスマス結晶をお迎えできたこと
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://piyopanman.dev/images/daily-reports/2023-07-23.jpg&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;誕生日に友達にもらったスタバのドリンクチケットを使って店員さんのおすすめカスタマイズのピーチフラペチーノを飲めたこと&lt;/li&gt;
+&lt;li&gt;部分矯正がやっと終わったこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お昼寝してしまうと、お昼寝から目覚めた後しばらくなんとなく具合が悪くデバフがかかった状態になることを毎週末忘れてお昼寝してしまうこと。眠いんだもの。
+&lt;ul&gt;
+&lt;li&gt;短時間のお昼寝ならワンチャン具合悪くならない説あるかも&lt;/li&gt;
+&lt;li&gt;でも一旦寝たらしばらくおきられないのでお昼寝を我慢するしかないかもしれない&lt;/li&gt;
+&lt;li&gt;それか眠くなったらお散歩するとか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HTTPサーバ続き
+&lt;ul&gt;
+&lt;li&gt;一旦立ち止まって曖昧な部分を復習した方が良いかも&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;JavaのStreamについてちょっと調べる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今日は良かったことの欄に書いたように、良かったことがたくさんあるとても良い日だった〜世界と人々に感謝&lt;/li&gt;
+&lt;li&gt;HTTPサーバの方もそれなりに取り組むことができたし、読書も捗ったし、台本作りも外でいい感じに進められたし、とてもいい感じ！&lt;/li&gt;
+&lt;li&gt;幸せですね。こういう日をたくさん作っていきたい&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月22日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-22/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:30 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-22/</guid>
-      <description>やったこと JavaでHTTPサーバ作るやつ（ これ ） GETメソッドがきた時に、あればhtmlファイル、なければ４０４ページを返すようにした Ht</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaでHTTPサーバ作るやつ（&lt;a href=&#34;https://github.com/Piyopanman/java-http-server/pull/5&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    これ
+&lt;/a&gt;）
+&lt;ul&gt;
+&lt;li&gt;GETメソッドがきた時に、あればhtmlファイル、なければ４０４ページを返すようにした&lt;/li&gt;
+&lt;li&gt;HttpRequestクラスやHttpResponseクラスに切り出したりなど色々リファクタ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;なし？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HTTPサーバの進捗がちょっとだけ出たこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ポケモンスリープで8時くらいに起きたのに、二度寝して結局12時くらいまで寝ていたこと。ポケスリで寝顔の調査するの、ベッドから起き上がったタイミングでやった方が良さそう&lt;/li&gt;
+&lt;li&gt;日報書かずにダラダラスマホいじって寝てしまったこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スライド作り&lt;/li&gt;
+&lt;li&gt;スプリントプランニング&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;前日に「明日はこれをやる！」って書き出しておくの、大事。HTTPサーバの他にも色々やることはあったが、それは今日やらないというふうに決めることで、HTTPサーバの実装に全振りできた&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月21日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-21/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:26 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-21/</guid>
-      <description>やったこと リングフィット 読んだ記事 僕が Laravel のコントリビューターになるまで - Qiita いい話。 Kotlinエバンジェリストとなった僕を形作ったのは、人と</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/fuwasegu/items/b5ed1e61ecd2d60ba651?utm_content=buffer3656f&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    僕が Laravel のコントリビューターになるまで - Qiita
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;いい話。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://findy-code.io/engineer-lab/ngsw_taro&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Kotlinエバンジェリストとなった僕を形作ったのは、人との出会いが9割と、1割の“運を引き寄せる努力” - Findy Engineer Lab - ファインディエンジニアラボ
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;いい話&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jpn.nec.com/cybersecurity/blog/220930/index.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ポートスキャンツールRustScanのご紹介: NECセキュリティブログ | NEC
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://travelingresearcher.com/entry/2018/02/27/172417&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    東大のCPU実験
+&lt;/a&gt;と言うなんか有名らしい授業&lt;/li&gt;
+&lt;li&gt;GPIO（汎用入出力）。ラズパイみたいなやつ？&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月20日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-20/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:20 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-20/</guid>
-      <description>やったこと 「頭のいい人が考えていること」読み進めた リングフィット Java女子部のイベントに参加した際に得た情報の整理 JavaのHTTPサーバ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;「頭のいい人が考えていること」読み進めた&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Java女子部のイベントに参加した際に得た情報の整理&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JavaのHTTPサーバ自作の写経終わり&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年07月19日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-19/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:13 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-19/</guid>
-      <description>やったこと monthlyの目標を振り返る 目標と全然ずれたことをしていることに気づく〜〜〜 う〜んむずいね 7月前半は同期と話す機会が多くて7月の</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;monthlyの目標を振り返る
+&lt;ul&gt;
+&lt;li&gt;目標と全然ずれたことをしていることに気づく〜〜〜&lt;/li&gt;
+&lt;li&gt;う〜んむずいね　7月前半は同期と話す機会が多くて7月の目標を立てた6月終わりとは全然違うことに興味を持ったのが原因ですね&lt;/li&gt;
+&lt;li&gt;今月に関しては、目標と全然ずれたことをしていることは許容したい。今まで全くやってこなかったことに挑戦できているので！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;JavaでHTTPサーバの続き&lt;/li&gt;
+&lt;li&gt;テスト関連の調べ物&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Javaのenumのコンストラクタでの値の初期化について&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://phys-edu.net/wp/?p=42559&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Raycastでブラウザの特定ページを開く | 科学のネタ帳
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;これでquickLinkにURL登録しておくとすぐにページに飛べる便利！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wa3.i-3-i.info/word11800.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    システム時刻(システムクロック)
+&lt;/a&gt;,&lt;a href=&#34;https://eng-entrance.com/linux-clock-hard&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ハードウェアクロック
+&lt;/a&gt;、tiledatectlコマンド&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月18日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-18/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:06 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-18/</guid>
-      <description>やったこと リングフィット スライド作り 読んだ記事 新卒の頃に思っていたこと、気づいたこと お仕事頑張ろうの気持ちになった 所感 お仕事終わり、Java</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;スライド作り&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/339/articles/418975da49e11f&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    新卒の頃に思っていたこと、気づいたこと
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事頑張ろうの気持ちになった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事終わり、JavaのHTTPサーバの続きしようと思ったら謎に腰が痛くて座っていられずすぐに寝てしまった、悲しい&lt;/li&gt;
+&lt;li&gt;まあしっかり睡眠時間を確保できたと思いましょう&lt;/li&gt;
+&lt;li&gt;引き続き頑張るぞい！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月16日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-16/</link>
       <pubDate>Sun, 23 Jul 2023 09:26:00 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-16/</guid>
-      <description>やったこと AtCoder リングフィット Udemyのもう怖くないLinuxコマンド終わった Linuxのしくみを少しだけ目を通した 読み進めようと思ったが、先</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AtCoder&lt;/li&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;Udemyのもう怖くないLinuxコマンド終わった&lt;/li&gt;
+&lt;li&gt;Linuxのしくみを少しだけ目を通した
+&lt;ul&gt;
+&lt;li&gt;読み進めようと思ったが、先にHTTPサーバを作りたい気持ちになってきたかもしれない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;HTTPサーバ関連の調べ物
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/opengl-8080/items/ca152658a0e52c786029&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    簡単なHTTPサーバを作る
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/timoneko/articles/1e99a14c5eb202&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    PythonのHTTPServer
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/cybozuinsideout/2018-10-about-http-server-development-exercise?slide=5&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    2018-10-HTTPサーバー開発課題について / 2018-10 about HTTP server development exercise - Speaker Deck
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/cybozuinsideout/2018-08-http-dns?slide=39&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    2018-08-HTTP, DNS - Speaker Deck
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;スッキリわかるJava入門実践編のソケット通信&lt;/li&gt;
+&lt;li&gt;ncコマンド&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ネットワーク関連の調べ物
+&lt;ul&gt;
+&lt;li&gt;プロバイダの確認（https://tech-unlimited.com/whois.html ）&lt;/li&gt;
+&lt;li&gt;ipinfo.io&lt;/li&gt;
+&lt;li&gt;google nest wifi&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;networksetup -listallhardwareports&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4G2zR1VT0Ck&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ラムダ技術部の動画
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;telnet&lt;/code&gt;、&lt;code&gt;nslookup&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;わわわで色々
+&lt;ul&gt;
+&lt;li&gt;nslookup, DNSレコード、ゾーンファイル、Aレコード、CNAMEレコード、NSレコード、DNSルートサーバ、&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今日調べたことはほとんど知らないことだった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;色々知らないことを調べられたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;死ぬほどお昼寝してしまったこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スッキリわかるJava入門実践編のソケット通信&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;死ぬほどお昼寝してしまった〜〜&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月05日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-05/</link>
       <pubDate>Sun, 23 Jul 2023 09:25:54 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-05/</guid>
-      <description>やったこと 読んだ記事 Webhookって何？を子どもでもわかるように描いてみた | kintone hive online</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kintone-blog.cybozu.co.jp/developer/000283.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Webhookって何？を子どもでもわかるように描いてみた | kintone hive online
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月04日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-04/</link>
       <pubDate>Sun, 23 Jul 2023 09:25:47 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-04/</guid>
-      <description>やったこと 読んだ記事 がんばらないObsidianノート術 - Qiita これ見て色々コミュニティプラグインを入れた。カレンダーとフォルダに絵文字を使える</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/YUM_3/items/80cf5705a54f70ad7e5b&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    がんばらないObsidianノート術 - Qiita
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;これ見て色々コミュニティプラグインを入れた。カレンダーとフォルダに絵文字を使える拡張良い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-03/</link>
       <pubDate>Sat, 01 Jul 2023 23:23:18 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-03/</guid>
-      <description>やったこと AtCoder React+Viteで環境構築、まじまじのマジで爆速でできて驚いた。なんだこれ 私が大学２年生でpiyopanman.com作った</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AtCoder&lt;/li&gt;
+&lt;li&gt;React+Viteで環境構築、まじまじのマジで爆速でできて驚いた。なんだこれ
+&lt;ul&gt;
+&lt;li&gt;私が大学２年生でpiyopanman.com作った時に見ていた&lt;a href=&#34;https://ja.legacy.reactjs.org/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Reactの公式Docs
+&lt;/a&gt;がなんかいつの間にかURLにlegacyとついており、react.devというサイトに移行していた。時の流れよ。そして技術の追えてなさよ。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/Piyopanman/items/da2c55d23f697d84c695&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【Java】クラスの定義場所によって指定できるアクセス修飾子が違うって知らなかった - Qiita
+&lt;/a&gt;書いた。Javaです。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;staticなメンバクラスはインナークラスに含まれないこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;帰りに快速の電車にいい感じのタイミングで乗れたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日本語が下手。話している途中で自分が何をいったのかわからなくなる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;React周りのキャッチアップ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;月曜なのに謎の疲労感が。先週一度も物理出社しなかったことに加えて月曜に物理出社するの久しぶりだからかな。早く寝ます&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;技術的な学習に関しては、ReactやJavaについてのあなたの取り組みが素晴らしいです。新しいフレームワークを試す勇気や、新しい知識を共有するためにブログを書く姿勢は、継続的な学習とスキル向上のための大切な要素です。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月02日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-02/</link>
       <pubDate>Sat, 01 Jul 2023 23:23:14 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-02/</guid>
-      <description>やったこと 【女性限定/オフライン】Java 女子部 &amp;amp; GTUGGirls コラボイベント「はじめてのJava」 - Java女子部(Javajo) | Doorkeeper に参加 めっちゃ目</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://javajo.doorkeeper.jp/events/157952?utm_campaign=event_157952&amp;amp;utm_medium=email&amp;amp;utm_source=ticket&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【女性限定/オフライン】Java 女子部 &amp;amp; GTUGGirls コラボイベント「はじめてのJava」 - Java女子部(Javajo) | Doorkeeper
+&lt;/a&gt;に参加
+&lt;ul&gt;
+&lt;li&gt;めっちゃ目新しい！というものはなかったが、基礎の確認ができたり、色々な人と話すことができてよかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;読書&lt;/li&gt;
+&lt;li&gt;美容院行って、初めてインナーカラー（イヤリングカラー）エクステした！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Javaのアクセス修飾子について
+&lt;ul&gt;
+&lt;li&gt;クラスに使えるアクセス修飾子はpublicとdefalut(package private)だけだと思っていたが、それはトップレベルクラスの話。インナークラスの一種であるメンバークラスには、public, protected, package private, privateの４つが使えるということ。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;昨日javaについて調べたことが、今日のイベントでJava初心者の方に質問されたときに使えて、しっかり質問に答えられたこと&lt;/li&gt;
+&lt;li&gt;Javaについて、気になった部分を調べ直したこと&lt;/li&gt;
+&lt;li&gt;何となく入ったカフェがバリおしゃれでサイコーだったこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;口頭コミュニケーション&amp;hellip;.
+&lt;ul&gt;
+&lt;li&gt;お家に帰ってから「あの時こういう言い回しをすればよかった」という反省が。&lt;/li&gt;
+&lt;li&gt;多分、頭の中でどう伝えるべきかをしっかり整理できていない段階で発話し始めてしまうから良くない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Javaのアクセス修飾子に関する記事の修正&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;最近、口頭コミュニケーションでもテキストコミュニケーションでも、発話したり送信してからあの時こうすればよかったと反省することが多くて良くない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年07月01日</title>
       <link>https://piyopanman.dev/daily-reports/2023-07-01/</link>
       <pubDate>Sat, 01 Jul 2023 23:18:19 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-07-01/</guid>
-      <description>やったこと #キャリア Developers Boost 2023 基調講演「激動の時代を生き抜くためにU30が身につけるべきソフトスキル」 - Speaker Deck テクニカルスキルだけではなくコミュニ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;p&gt;#キャリア&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/appbrew_rec/developers-boost-2023-appbrew&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Developers Boost 2023 基調講演「激動の時代を生き抜くためにU30が身につけるべきソフトスキル」 - Speaker Deck
+&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;テクニカルスキルだけではなくコミュニケーションやマネジメントなどのヒューマンスキルを軽視してはいけないという話&lt;/li&gt;
+&lt;li&gt;ヒューマンスキルのために信頼の構築（自分が相手にとってメリットになることを理解してもらう、期待以上に助かったと周りが思ってくれるやり方を工夫して成果にコミットするなど）が必要&lt;/li&gt;
+&lt;li&gt;自分のキャリア的にやりたいことをうまく組織に織り込んだり擦り合わせたりする必要がある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/weddingpark/developersboost2023-u30kosotiyarenziwo-zeroitikai-fa-nobi-wocheng-riyue-ete&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    DevelopersBoost2023｜U30こそチャレンジを。～ゼロイチ開発の壁を乗り越えて～ - Speaker Deck
+&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月30日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-30/</link>
       <pubDate>Wed, 28 Jun 2023 23:21:45 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-30/</guid>
-      <description>やったこと GMO Developers | JJUG CCC 2023 Spring 解いた！ #Java Javaのstaticブロック、知らなかった&amp;hellip;。Java8以降は使うことなくなったらしい Ja</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.gmo.jp/event/jjugccc2023spring/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    GMO Developers | JJUG CCC 2023 Spring
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;解いた！ #Java&lt;/li&gt;
+&lt;li&gt;Javaのstaticブロック、知らなかった&amp;hellip;。Java8以降は使うことなくなったらしい&lt;/li&gt;
+&lt;li&gt;Java14以降と以後のswitch文の違いはちゃんとわかっていた。（どのタイミングで知ったんだっけ？）&lt;/li&gt;
+&lt;li&gt;予約語の問題間違えた。コンテキストキーワードってなんやねん&lt;/li&gt;
+&lt;li&gt;あと、Javaの静的解析ツールの&lt;a href=&#34;https://errorprone.info/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Error Prone
+&lt;/a&gt;というのも初めて知った
+&lt;ul&gt;
+&lt;li&gt;いろんなバグパターンが載っているので参考になりそう（めっちゃ多い）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Udemyのもう怖くないLinuxコマンドちょっとだけ見た&lt;/li&gt;
+&lt;li&gt;ちょっとだけvimについて調べていた。使うターミナルをWarpにしてからvimのclolorschemeがおかしかったのでその設定もした&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://techblog.cartaholdings.co.jp/entry/jumpout-comfort-zone?utm_source=subscription_mail&amp;amp;utm_medium=email&amp;amp;utm_campaign=subscription&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    コンフォートゾーンの飛び出し方 - CARTA TECH BLOG
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;いい記事&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Error PruneっていうJavaの静的解析ツール&lt;/li&gt;
+&lt;li&gt;staticブロック&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ほとんど今週のSBL終わっているがプラスアルファをしたこと&lt;/li&gt;
+&lt;li&gt;気分転換にスプラしたが、適度な長さでやめられたこと&lt;/li&gt;
+&lt;li&gt;オムライスを上手に作れたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;どこまでを今やって、どこからをバックログに積むのかの判断基準を設けた方がよさそう。無限にバックログが増える
+&lt;ul&gt;
+&lt;li&gt;どれだけバックログを消化できたか知るためにも、１週間ごとにタスクの数を取得するということをした方が良いかもしれない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;gradleくんのこと、もっと知りたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SBLが結構順調に、というか適度な量を設定できていて良い！プラスアルファのこともできているので達成感がある。良いことだ&lt;/li&gt;
+&lt;li&gt;色々とやりたいことはあるが、優先順位決めて何をやるか、何をやらないかをしっかり決めていく必要がある&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年06月29日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-29/</link>
       <pubDate>Wed, 28 Jun 2023 23:21:37 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-29/</guid>
-      <description>やったこと リングフィット obsidianのテンプレートの改善 プログラマー脳chapter8読み終わった Javaのnew ArrayList()</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;obsidianのテンプレートの改善&lt;/li&gt;
+&lt;li&gt;プログラマー脳chapter8読み終わった&lt;/li&gt;
+&lt;li&gt;Javaのnew ArrayList()とLists.newArrayList()について調べた #Java&lt;/li&gt;
+&lt;li&gt;少しだけUdemyのLinux入門の動画を見た&lt;/li&gt;
+&lt;li&gt;AtCoder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Java &lt;code&gt;System.nanoTime()&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Google製JavaライブラリGuava&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お風呂出てタオルドライするとき、YouTubeではなくUdemyの動画を見るという選択をしたこと&lt;/li&gt;
+&lt;li&gt;リングフィットを久しぶりに真面目にやったこと
+&lt;ul&gt;
+&lt;li&gt;夜ご飯食べる→リングフィット→お風呂の流れは気持ち良いので、朝できなくても諦めない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;知ったかぶりすること（いい感じの流れを断ち切らないように、空気を読みつつ）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スライド作り&lt;/li&gt;
+&lt;li&gt;月例タスク&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;javaについて興味を持って自分で色々調べられたのが良かったね&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年06月28日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-28/</link>
       <pubDate>Wed, 28 Jun 2023 23:21:20 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-28/</guid>
-      <description>やったこと piyopanman.devで画像を表示させる HugoのBuilt-inのshortcodes を使うのが良さそう。 &amp;gt;An elephant at sunset のように</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;piyopanman.devで画像を表示させる&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#figure&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    HugoのBuilt-inのshortcodes
+&lt;/a&gt;を使うのが良さそう。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;elephant.jpg&#34;/&gt; &lt;figcaption&gt;
+            &amp;gt;An elephant at sunset
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/code&gt;のように書くのが良いんだけど、&lt;code&gt;{{&lt;/code&gt;と&lt;code&gt;&amp;lt;&lt;/code&gt;の間にスペース入れてはいけないということに気づいてなかった&amp;hellip;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月27日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-27/</link>
       <pubDate>Mon, 26 Jun 2023 23:37:23 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-27/</guid>
-      <description>やったこと リングフィット AtCoder プログラマー脳chapter7 piyopanman.devで設定したGitフックについて 復習 記事を書いた（ Qiita ） はじ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;AtCoder&lt;/li&gt;
+&lt;li&gt;プログラマー脳chapter7&lt;/li&gt;
+&lt;li&gt;piyopanman.devで設定したGitフックについて
+&lt;ul&gt;
+&lt;li&gt;復習&lt;/li&gt;
+&lt;li&gt;記事を書いた（&lt;a href=&#34;https://qiita.com/Piyopanman/items/be46ea8f8d631746f23b&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Qiita
+&lt;/a&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;特になし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;久しぶりにちゃんとリングフィットをできたこと&lt;/li&gt;
+&lt;li&gt;記事をポモドーロタイマーを使って集中してかけたこと&lt;/li&gt;
+&lt;li&gt;惰性でTwitterを見て、消化しきれないのに新たな情報を仕入れて情報の過剰摂取状態になっていることに気づけたこと。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;なんとなく疲れていること。しっかり休みたい&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;piyopanman.devで画像をいい感じに表示させる方法を調べる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプリントバックログにしたタスクを順調にこなすことができてよかった&lt;/li&gt;
+&lt;li&gt;やっぱりポモドーロを使って疲れていなくても定期的に休憩を挟む方が自分にはあっているような気がする（疲れている時にこれをやると、5分休憩の間にベッドに横になってそこから戻って来られないってこともありそうだから注意したいけど）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年06月26日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-26/</link>
       <pubDate>Mon, 26 Jun 2023 23:37:19 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-26/</guid>
-      <description>やったこと スプリントプランニング 今まで、スプリントバックログを決めてからバックログを決めていたけど、これ逆では？とやっと気がついた スプリント</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプリントプランニング
+&lt;ul&gt;
+&lt;li&gt;今まで、スプリントバックログを決めてからバックログを決めていたけど、これ逆では？とやっと気がついた&lt;/li&gt;
+&lt;li&gt;スプリントゴールを達成するためにどんなバックログアイテムをこなすべきかという順番で考えるべき&lt;/li&gt;
+&lt;li&gt;しかしやらなきゃいけない・やりたいことが多すぎるために、気持ちが早ってバックログアイテムから決めてしまっていた&lt;/li&gt;
+&lt;li&gt;完全にスクラム開発に乗っかってやる必要はないのでスプリントゴールを必ずしも定める必要はないかもしれないが、この方法を取ることで違う視点や得られるものがあると思うので、次のスプリントはこれを意識する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;わわわの記事をHTTP関連の用語のものを調べていた。わかりやすく簡潔に平易な言葉でたっくさんの用語をまとめてあって本当にすごい&lt;/li&gt;
+&lt;li&gt;AtCoder&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nextra.site/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Nextra – Next.js Static Site Generator – Nextra
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Next.jsとMarkdownで一瞬で静的サイトが作れるやつ。 Gatsbyによく似ているっぽい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nextra&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプリントプランニングでスプリントゴールについての気づきを得たこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝起きられない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;.devで画像を表示させるやつ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;本当に朝起きられない
+&lt;ul&gt;
+&lt;li&gt;そんなに夜更かししているわけではないのにな&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;周りが体調崩し気味の人が多いので自分も気をつけたい&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年06月24日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-24/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:26 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-24/</guid>
-      <description>やったこと 社内イベント参加 明日のLT準備 コードレビューでコメントタグを使い、心理的安全性を担保しよう スプリントレビュー はじめて知った事 特にな</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;社内イベント参加&lt;/li&gt;
+&lt;li&gt;明日のLT準備&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/lincwell_inc/articles/comment_tags_to_ensure_psychological_safety&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    コードレビューでコメントタグを使い、心理的安全性を担保しよう
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;スプリントレビュー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;特になし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;色々な人と話したこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;相手の話にうまく返答できない&lt;/li&gt;
+&lt;li&gt;エンジニアの人に「何をする人？何が得意？」って聞かれた時に、何も答えられないこと。辛い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプリントプランニング&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;コミュ力の低さを痛感する
+&lt;ul&gt;
+&lt;li&gt;非エンジニアとの雑談&lt;/li&gt;
+&lt;li&gt;エンジニアとの技術雑談&lt;/li&gt;
+&lt;li&gt;人の話をしっかり聞く&lt;/li&gt;
+&lt;li&gt;話の流れをよくするような質問をする（流れを止める変な質問を変なタイミングでしない）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;いつからこんなコミュ障になったんだ&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年06月23日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-23/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:19 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-23/</guid>
-      <description>やったこと 登壇スライド作成 ×2 歌舞伎を見に行った！！！ 読んだ記事 - 【新卒】インプットした知識を確実に定着させるために実践した4つの方法 - Qiita -</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;登壇スライド作成 ×2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;歌舞伎を見に行った！！！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事
+-&lt;a href=&#34;https://qiita.com/fujita_shoma/items/522801ce180da6765e0f?utm_content=buffere6ebc&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【新卒】インプットした知識を確実に定着させるために実践した4つの方法 - Qiita
+&lt;/a&gt;
+- プログラマー脳や、Zennの技術者の読み方についての記事に似たような内容がかかれていた。想起練習、私にとって欠けてる部分なので意識してやりたい&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月22日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-22/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:15 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-22/</guid>
-      <description>やったこと 昨日参加したイベントのスライドの整理 お仕事のこと少し はじめて知った事 特になし 良かったこと 夕ご飯が美味しかった メンタルが不調だったが</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;昨日参加したイベントのスライドの整理&lt;/li&gt;
+&lt;li&gt;お仕事のこと少し&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;特になし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;夕ご飯が美味しかった&lt;/li&gt;
+&lt;li&gt;メンタルが不調だったが最低限のデイリータスクをこなしたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝ちゃんと起きる&lt;/li&gt;
+&lt;li&gt;メンタルに負荷がかかりそうなシチュエーションになりそうな時は、心算をしておく&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スライド作り！！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;久しぶりにメンタルが不調になった
+&lt;ul&gt;
+&lt;li&gt;きっかけになった出来事は明確で、このような出来事（シチュエーション）で自分がメンタル不調になってしまうことを不甲斐なく情けなく思うね。&lt;/li&gt;
+&lt;li&gt;その影響と朝起きられなかったことで今日はほぼ作業できなかった。が、そういう日もあるね。メンタル不調になりそうなシチュエーションになりそうな時は、そういう心構えをして臨むとか、他にも不調を軽減させられるような対策を考える必要がある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;メンタルが不安定な時期には、自分自身に対する優しさや理解が特に重要です。厳しく自分を非難するのではなく、メンタルが不調な日があっても自分自身を許すことが大切です。&lt;/li&gt;
+&lt;li&gt;特に感心したのは、自分の感情とその影響を認識し、それを正面から見つめる勇気を持っている点です。それは自己理解と成長にとって非常に重要な要素であり、その意識を持ち続けることはあなたをとても強くするでしょう。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年06月21日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-21/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:12 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-21/</guid>
-      <description>やったこと nju33 素敵[[個人ブログ]]見つけた AtCoder スライド作成 俺たちの本当にやりたかったDevDay に参加してきた！ 読んだ記事 本を読むべきたった1</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://nju33.com/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    nju33
+&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;素敵[[個人ブログ]]見つけた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AtCoder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;スライド作成&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://connpass.com/event/282059/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    俺たちの本当にやりたかったDevDay
+&lt;/a&gt;に参加してきた！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.nature.global/entry/nature-lt-2-book&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    本を読むべきたった1つの理由 - Nature Engineering Blog
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;本の選び方について書いていて良い。若干技術書の読書術に似たような内容が書かれていた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://logmi.jp/tech/articles/326501&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    年収800万円で自律性・有能感・関係性が満たされる環境　GMOのテックリードが勧める、企業選びの軸 - ログミーTech
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;自己決定理論の自律性、有能感、関係性の３つの要素の大事さ。この３つが得られるところで働けると嬉しいよねという話&lt;/li&gt;
+&lt;li&gt;成長できる環境というのは辛い環境とほぼイコールなので、成長できる環境で仕事場を選ぶことはしないとこの人入っていた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;自己決定論という考え方とそれを構成する３つの要素&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;オフラインイベントに参加できたこと&lt;/li&gt;
+&lt;li&gt;マンションのエントランスに咲いている花が満開でいい香りだったこと&lt;/li&gt;
+&lt;li&gt;イベント終わって帰ってくるのが遅くなったが、最低限の日報書くことやビタミン剤飲むことなどができたこと。えらい！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;すぐに自分に関係ない話だと判断してちゃんと話を聞かなくなってしまうこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今日のイベントのスライドをまとめる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;オフラインイベント、オンラインイベントに比べて「せっかく参加したんだから」という気持ちが強くなるので、その分得られる学びも多くなる気がしています&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年06月20日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-20/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:09 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-20/</guid>
-      <description>やったこと 日時の文字を作るくん これ天才！ リングフィット AtCoder お仕事のこと 読んだ記事 &amp;ldquo;ChatGPT&amp;rdquo; をもっと使いたい！～活用事例Tips LT会～ - connpass というイベン</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://text-gen.nitte.app/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    日時の文字を作るくん
+&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;これ天才！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AtCoder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;お仕事のこと&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rakus.connpass.com/event/282422/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    &amp;ldquo;ChatGPT&amp;rdquo; をもっと使いたい！～活用事例Tips LT会～ - connpass
+&lt;/a&gt;というイベントの資料欄にあったものを読んだ
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slideshare.net/TokioMiyaoka/chatgptpptx-258154460&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ChatGPTをもっと使いたい.pptx
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;dimっていうオープンデータパッケージマネージャをいい感じにするっていう感じの内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/hankehly/chatgptwohuo-yong-sita-bian-li-turunoshao-jie?slide=5&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ChatGPTを活用した 便利ツールの紹介 - Speaker Deck
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;この中で紹介されていた、ChatGPT for Googleという拡張を入れた。良さそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;dimっていうオープンデータパッケージマネージャ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;業後、調査のタスクを集中して取り組めたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;目覚ましでスッキリ起きられないこと&lt;/li&gt;
+&lt;li&gt;モブプロ中に、深い思考ができないこと。一人になった瞬間進捗が出る🤔&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;資料づくり&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事関連の勉強を今日は1.5hやったんだけど、次の日物理出社で早く寝ないといけない場合、ほぼ自分の勉強する時間を取れない。うーむ。これは割り切るしかないかな&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年06月19日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-19/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:06 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-19/</guid>
-      <description>やったこと リングフィット プログラマー脳chapter5 PATHについてまとめる piyopanman.devのGitフックの続き。やっとできた</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;プログラマー脳chapter5&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PATHについてまとめる&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;piyopanman.devのGitフックの続き。やっとできた！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;#Java
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/shupeluter/items/78a491fbaf84aaf119d9?utm_campaign=popular_items&amp;amp;utm_medium=feed&amp;amp;utm_source=popular_items&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Java のpublic static void main なくなるってよ。 - Qiita
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;同じテーマについて書かれた記事を読んだことあるけど、またこれは別の切り口（実装方針や逆アセンブルをしてみる）で書かれていて、良い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;early accessのJDK21をインストールして、preview機能を有効にしてコンパイル＆実行する方法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;togglのポモドーロタイマーを使いこなせるようになったこと
+&lt;ul&gt;
+&lt;li&gt;通知音わかりやすいしいいかも&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;業後、すごく集中して自分の勉強に取り組めた。
+&lt;ul&gt;
+&lt;li&gt;特に、文章を書くタスクはしっかりタイムボックスを決めて取り組んだことが集中力に直結した感じがする&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝起きるのが遅かったこと。アラームを止めることと起床することのつながりが迷子になっている。良くも悪くも社会人としての生活に慣れが出てきたということかもしれない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;設定したGitフックの復習、記事書き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今日は業後にお仕事のことをほぼしなかったので自分の勉強に時間をさけて、いい感じに進捗が出せてよかった。&lt;/li&gt;
+&lt;li&gt;お仕事のキャッチアップと自分の学びのバランス見つつ、この調子で今週駆け抜けたいね！&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年06月18日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-18/</link>
       <pubDate>Mon, 19 Jun 2023 22:23:01 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-18/</guid>
-      <description>やったこと スプリントレビュー スプリントプランニング リングフィット 部屋のお掃除 AtCoder 登壇スライド作成 piyopanman.devのフロントマターの</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;スプリントレビュー&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;スプリントプランニング&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;部屋のお掃除&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AtCoder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;登壇スライド作成&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;piyopanman.devのフロントマターの値の設定を強制させるやつ&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月16日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-16/</link>
       <pubDate>Mon, 12 Jun 2023 22:41:11 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-16/</guid>
-      <description>やったこと AtCoder 物理出社 カンバンの整理 登壇準備（スライドのアウトライン） 自動タイムトラッキングアプリRizeについて少し調べていた Rize · Maximize Your Productivity Rize Guide</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;AtCoder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;物理出社&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;カンバンの整理&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;登壇準備（スライドのアウトライン）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;自動タイムトラッキングアプリRizeについて少し調べていた&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rize.io/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Rize · Maximize Your Productivity
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rize-io.notion.site/Rize-Guide-6686cd21d20449158358c06e3c1229d5&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Rize Guide
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月15日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-15/</link>
       <pubDate>Mon, 12 Jun 2023 22:41:08 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-15/</guid>
-      <description>やったこと 読んだツイート やらない言い訳は、いくらでも出てきてしまう。上手くなったらとか言ってないでどんどん「今」やる姿勢を持つ リングフィット</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/212natsume/status/1668833914012733441?s=12&amp;amp;t=SQObtfulY1LniVJhWEfPSg&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    読んだツイート
+&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;やらない言い訳は、いくらでも出てきてしまう。上手くなったらとか言ってないでどんどん「今」やる姿勢を持つ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AtCoder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;登壇スライド作り&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月14日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-14/</link>
       <pubDate>Mon, 12 Jun 2023 22:41:05 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-14/</guid>
-      <description>やったこと 読んだツイート 「自分もできてないから…」と何も言わないのではなく、自分ができてなくても堂々とフィードバックする。そうすると自分も襟</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/sogitani_baigie/status/1663321164536766465?s=12&amp;amp;t=SQObtfulY1LniVJhWEfPSg&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    読んだツイート
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「自分もできてないから…」と何も言わないのではなく、自分ができてなくても堂々とフィードバックする。そうすると自分も襟を正さないといけなくなる。そうやって自分も成長する。自分ができないことは人には言わない、は優しく謙虚な姿勢のようでいて、実は自分を甘やかす発想かもしれない。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月13日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-13/</link>
       <pubDate>Mon, 12 Jun 2023 22:41:03 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-13/</guid>
-      <description>やったこと リングフィット GitHub Actionsちょろっと jobコンテキスト の挙動まわりを少し調べていた プログラマー脳chapter4 思ったよりサク</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;GitHub Actionsちょろっと
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/ja/actions/learn-github-actions/contexts#job-context&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    jobコンテキスト
+&lt;/a&gt;の挙動まわりを少し調べていた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;プログラマー脳chapter4
+&lt;ul&gt;
+&lt;li&gt;思ったよりサクサク読み進められた。多分演習が少なめだったから&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Obsidianのエイリアスについて調べた&lt;/li&gt;
+&lt;li&gt;登壇関連&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.websitecarbon.com/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Website Carbon Calculator v3 | What&amp;rsquo;s your site&amp;rsquo;s carbon footprint?
+&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月12日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-12/</link>
       <pubDate>Mon, 12 Jun 2023 22:40:58 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-12/</guid>
-      <description>やったこと みたツイート 「書く」というのは、ぼんやり考えていることをしっかり考えること。その最高強度が論文という形式で、論文を書くと、考えてい</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/ktowhata/status/1667342081642364928&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    みたツイート
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「書く」というのは、ぼんやり考えていることをしっかり考えること。その最高強度が論文という形式で、論文を書くと、考えていたことが概念になって、自由に使いこなせるものになる。逆に「喋る」は、ぼんやりした考えを増殖させる方法。思いもしなかったことを考え始めるのには「喋る」のがいい。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月10日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-10/</link>
       <pubDate>Thu, 08 Jun 2023 23:18:57 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-10/</guid>
-      <description>やったこと AtCoder 読んだ記事 目指せOSSコントリビューター 初コミット目指して頑張ってみたもののトホホな結果に - Qiita こういうこともあるのだなぁという学</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;AtCoder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/Sasaki1994/items/2d2fdf2f7dfa108ff6fa?utm_campaign=popular_items&amp;amp;utm_medium=feed&amp;amp;utm_source=popular_items&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    目指せOSSコントリビューター 初コミット目指して頑張ってみたもののトホホな結果に - Qiita
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;こういうこともあるのだなぁという学び。だぶりissueであることを見つけ報告することもそのOSSへの貢献だと思うし、それを記事にしてくれたこともこの業界への貢献だと思いました&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://future-architect.github.io/articles/20210205/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Good First Issue から OSS へコントリビュートしてみた | フューチャー技術ブログ
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;APM（Application Performance Management）&lt;/li&gt;
+&lt;li&gt;actっていうローカルでGitHub Actionsを実行できるやつ（&lt;a href=&#34;https://dev.classmethod.jp/articles/act-for-github-actions-local-execution-tool/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    GitHub Actionsのローカル実行ツール「act」を使う事でCI/CDコンフィグとローカルでのタスクランナーを1つにする | DevelopersIO
+&lt;/a&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;体調があまり良くなかったので無理せずに休んだこと&lt;/li&gt;
+&lt;li&gt;それでも最低限のWrite Code Everydayと技術記事あさりをしたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;体調&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今週のバックログができなかったのでそれを中心に消化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;体調第一ですわ&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年06月09日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-09/</link>
       <pubDate>Thu, 08 Jun 2023 23:18:53 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-09/</guid>
-      <description>やったこと AtCoder 読んだ記事 新卒の子にどこまで勉強すれば良いですかね？と聞かれた件 - Qiita 好きなことが得意なわけじゃ無いとか、変更のある分野とない分野</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;AtCoder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/daijinload/items/0ee132950087da9366df&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    新卒の子にどこまで勉強すれば良いですかね？と聞かれた件 - Qiita
+&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;好きなことが得意なわけじゃ無いとか、変更のある分野とない分野がありない分野を身につけるのも大事という身に染みることが色々&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;[]%28https://www.affordd.jp/koha_hp/LectureManager/MG.wakaru.html%29&#34;
+    
+
+    
+&gt;
+    「分かる」の問題について
+&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月08日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-08/</link>
       <pubDate>Thu, 08 Jun 2023 23:18:48 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-08/</guid>
-      <description>やったこと リングフィット AtCoder GitHub Actionsのドキュメント読んだりしてた コンテキストについて 読んだ記事 仕事に感情を持ち込んでいる人へ。｜Tak</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AtCoder&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub Actionsのドキュメント読んだりしてた&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/ja/actions/learn-github-actions/contexts#github-context&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    コンテキストについて
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://note.com/makura1986/n/nf6e6e9658772&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    仕事に感情を持ち込んでいる人へ。｜Takato Sakurai ｜ HONE Inc.
+&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月07日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-07/</link>
       <pubDate>Sat, 03 Jun 2023 23:36:16 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-07/</guid>
-      <description>やったこと [[GitHub Actions]]について Github Actions 入門編 (ざっくり系) - Qiita [入門]GitHub Actions ~全てのエンジニアのための備忘録~ | セルフノート 手を</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;[[GitHub Actions]]について&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/zomaphone/items/7e6c3db6b3670f10e23d&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Github Actions 入門編 (ざっくり系) - Qiita
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://selfnote.work/20220109/programming/begginer-github-actions/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    [入門]GitHub Actions &lt;del&gt;全てのエンジニアのための備忘録&lt;/del&gt; | セルフノート
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;手を動かしてみたい時に良さそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AtCoder&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月06日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-06/</link>
       <pubDate>Sat, 03 Jun 2023 23:36:12 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-06/</guid>
-      <description>やったこと マインドフルネスについて どうやって行き着いたか忘れたけど、マインドフルネスという言葉を知った。（Chromeの履歴見てみたら、深夜</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;マインドフルネスについて&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;どうやって行き着いたか忘れたけど、マインドフルネスという言葉を知った。（Chromeの履歴見てみたら、深夜1時くらいに突如「エンジニア　瞑想」でググってた。謎。）&lt;/li&gt;
+&lt;li&gt;いまここに集中するという意味で、気になることがいろいろと多すぎて「自分がどれに集中していたのか？」という状況を改善することを期待できるらしい。いま私が求めていたやつじゃん。&lt;/li&gt;
+&lt;li&gt;とりあえず本を一冊メルカリで頼みました、楽しみです。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/YumaInaura/items/f1a55b0b342954224207#%E3%81%AA%E3%81%9C%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8C%E7%9E%91%E6%83%B3%E3%82%92&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    瞑想するエンジニア ( by いなうらゆうま 稲浦悠馬 @yumainaura ) — Googleやスティーブ・ジョブズに学ぶ「マインドフルネス」のススメ— 全プログラマ SE 必見！ - Qiita
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://schoo.jp/matome/article/225&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【マインドフルネスとは？】Google、Facebookのエンジニアが実践する瞑想術 - 2019/09/27 [Schoo]
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月05日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-05/</link>
       <pubDate>Sat, 03 Jun 2023 23:36:09 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-05/</guid>
-      <description>やったこと タスク管理ツールのTimecrowdについて調べていた 業務効率化を個人で進めるためにはどうする？事例や便利なツールをご紹介します |</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;タスク管理ツールのTimecrowdについて調べていた&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://timecrowd.net/blog/individual-work_efficiency/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    業務効率化を個人で進めるためにはどうする？事例や便利なツールをご紹介します | TimeCrowd Blog
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timecrowd.net/blog/timecrowd_google-calendar_for-personal/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【個人向け】TimeCrowdを使ったGoogleカレンダー完全自動集計のすゝめ | TimeCrowd Blog
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timecrowd.net/blog/personal-task-management/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【個人向け】タスク管理のやり方を紹介｜おすすめのツール8選も紹介 | TimeCrowd Blog
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;良さそう&lt;/li&gt;
+&lt;li&gt;カンバンビューがない！説明の記入欄がない！解散！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ABC&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月04日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-04/</link>
       <pubDate>Sat, 03 Jun 2023 23:36:05 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-04/</guid>
-      <description>やったこと JJUG CCCに参加してました！！ 失敗プログラマー途中まで読んだ。言語化が上手いし、スムーズに理解しやすい文章で書かれていて読むのが快感</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;JJUG CCCに参加してました！！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;失敗プログラマー途中まで読んだ。言語化が上手いし、スムーズに理解しやすい文章で書かれていて読むのが快感&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;色々&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;初オフラインカンファレンスに参加できたこと&lt;/li&gt;
+&lt;li&gt;色んな人とお話しできたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;頭使わずに適当に話してしまうのやめたい。多分人の話をしっかり聞けてない&lt;/li&gt;
+&lt;li&gt;英語。英語のセッションがあったので、勉強したいお気持ちになりました&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今日の参加ブログ？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;強い人ばかりで刺激になりましたー&lt;/li&gt;
+&lt;li&gt;分からないこと、初めて聞いた言葉がたくさんあったので、時間を作って丁寧に調べたいです&lt;/li&gt;
+&lt;li&gt;コントロール不能なものは潔く受け入れて、これからの自分の行動でコントロールできるものにフォーカスして頑張るのが良いんだろうな、という諦念にちかいものを感じるやりとりがあった&lt;/li&gt;
+&lt;li&gt;へらへら相槌打つのやめたらもっと会話に集中できそう&lt;/li&gt;
+&lt;li&gt;会話で的確なレシーブを返せないのがガチで悩みです&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年06月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-03/</link>
       <pubDate>Sat, 03 Jun 2023 23:12:47 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-03/</guid>
-      <description>やったこと 質問：IPアドレス見えてますよ。大丈夫ですか？ - YouTube ラムダ研究所さんsnの動画。わかりやすい JDK21 ea 24でString Templateが</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4G2zR1VT0Ck&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    質問：IPアドレス見えてますよ。大丈夫ですか？ - YouTube
+&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ラムダ研究所さんsnの動画。わかりやすい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/kis/status/1662318564349706245&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    JDK21 ea 24でString Templateが動くようになったツイート
+&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月02日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-02/</link>
       <pubDate>Sat, 03 Jun 2023 23:12:44 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-02/</guid>
-      <description>やったこと ABC225 A 読んだ記事 https://newspicks.com/topics/the-magic-of-software/posts/2 Linearについての記事。Linearの位置付けと哲学。無料プランにタスク上限がなければなあ… CSS Stock｜We</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ABC225 A&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://newspicks.com/topics/the-magic-of-software/posts/2&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    https://newspicks.com/topics/the-magic-of-software/posts/2
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linearについての記事。Linearの位置付けと哲学。無料プランにタスク上限がなければなあ…&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pote-chil.com/html-maker&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    CSS Stock｜Webデザインを楽にするCSSコピペサイト
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/Yona_Sou/items/efadb7ccba27e988914f?utm_campaign=popular_items&amp;amp;utm_medium=feed&amp;amp;utm_source=popular_items&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    イラストで理解するIAMポリシー - Qiita
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;特になし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;初対面の人とたくさん話せたこと&lt;/li&gt;
+&lt;li&gt;感謝の気持ちを人に伝えられたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;モヤッとすることを言われた時、ヘラヘラしないでその場でその発言の意図を聞くこと。多分、悪意があって言っているわけではない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;月次タスク&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;昨日に引き続き、イベント盛りだくさん？な結構ワタワタした1日だったけど、楽しかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;p&gt;「特に良いと思ったところには、少し大袈裟に驚いたり褒めたりしてください」という指示を与えると気持ち良くなれることに気づきました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年06月01日</title>
       <link>https://piyopanman.dev/daily-reports/2023-06-01/</link>
       <pubDate>Sat, 03 Jun 2023 23:12:42 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-06-01/</guid>
-      <description>やったこと ABC224 A TOP4 in Tokyo Domeに参加！ めちゃくちゃ良かった〜生でルドーやると思わないじゃん…そして4人実況で1番好きと言っても過言では無いhu</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ABC224 A&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TOP4 in Tokyo Domeに参加！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;めちゃくちゃ良かった〜生でルドーやると思わないじゃん…そして4人実況で1番好きと言っても過言では無いhuman fall flatを結構長い時間取ってプレイしてくれたの嬉しかった　書ききれないのでまた今度&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月31日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-31/</link>
       <pubDate>Sat, 03 Jun 2023 23:12:35 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-31/</guid>
-      <description>やったこと リングフィット ABC お仕事のこと 読んだ記事 サーバーサイド開発にありがたい GitHub Copilot / ChatGPT - Speaker Deck Copilotは副操縦士という意味なので、50→</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ABC&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;お仕事のこと&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/masatoshiitoh/chatgpt&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    サーバーサイド開発にありがたい GitHub Copilot / ChatGPT - Speaker Deck
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Copilotは副操縦士という意味なので、50→100、ChatGPTは0→1みたいなイメージ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.tinect.jp/?p=81869&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    「質問がヘタな人」は、なんで質問が下手なのか | Books&amp;amp;Apps
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;心当たりがありすぎて死んだ&lt;/li&gt;
+&lt;li&gt;質問をしようと思った経緯を説明する&lt;/li&gt;
+&lt;li&gt;聞くだけではなく、自分の意見を言ってから質問する&lt;/li&gt;
+&lt;li&gt;主語（～が）や目的語（～を）を省略しない&lt;/li&gt;
+&lt;li&gt;気をつけます〜〜〜〜〜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/YUM_3/items/bf6cd0863b23889e9e1b#obsidian&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    知らないともったいない！Macの汎用ツールアプリまとめ＋α - Qiita
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事始まる前の15分ぐらいで読もうと思ったら全然無理、機になるツールたくさんです&lt;/li&gt;
+&lt;li&gt;Raycast&lt;/li&gt;
+&lt;li&gt;Obsidian&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://coliss.com/articles/build-websites/operation/css/show-specificity-in-chromedevtools.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Chromeのデベロッパーツールで、CSSの詳細度が表示されて便利になります | コリス
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;便利になるらしいです。CSS頑張りたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/kawaguti/autonomy&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Autonomy - Speaker Deck
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;自分だけは生き残ろうという話。&lt;/li&gt;
+&lt;li&gt;「人は何も知らないから学ぶのではなく、何かがわかり始めたから学ぶ」とあり、これは確かにという気持ちがでかい。
+&lt;ul&gt;
+&lt;li&gt;「わからないことすらわからない」から「わからないということは認知している」という状態にするのは、以前からすごく重要だと思っていて大事にしてきた。が、「わからないことは認知している」からもう１ステップ進んだ「何かちょっと分かりかけている」状態にまで進めておくのもかなり大きいだろうと思う。この段階まで進めておくと、心理的コストが小さく、楽しく学習できそうな気がする。経験から言ってもそう。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Zettelkasten（ツェッテルカステン）
+&lt;ul&gt;
+&lt;li&gt;小さな単位でメモをとり、その小さなメモ同士を繋げていく手法&lt;/li&gt;
+&lt;li&gt;これ、プログラマー脳chapter3でやった検索強度の話では？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;「LYT」（Linking Your Thinking）&lt;/li&gt;
+&lt;li&gt;MOC(map of contents)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;比較的、自分の頭の中を整理して人に伝えるということができた気がする&lt;/li&gt;
+&lt;li&gt;調査するとき、ゴールに辿り着くまでのイメージやプロセスを若干考えてから手を動かせた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事後の集中力がちょっと今日あまり良くなかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;明日はTOP4のイベントなのであまり作業できなそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;周りの人に恵まれてるなと改めて感じる1日でした&lt;/li&gt;
+&lt;li&gt;つかまり立ちエンジニアを自称しているけど、捕まらせてくれて、掴まれるところを用意してくれて、ありがとうございますの気持ちでいっぱい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;全体的に、あなたの学習と成長に対する真剣な取り組みと、それを反映するための日報の作成スキルには非常に感心しました。引き続きこのような高いレベルの自己認識と反省を維持し、さらに高いパフォーマンスを達成することを期待しています。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年05月30日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-30/</link>
       <pubDate>Wed, 31 May 2023 00:20:36 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-30/</guid>
-      <description>やったこと リングフィット ABC198 B 久しぶりにB問題といた…リハビリを続けます git操作の復習 ChatGPT様にめちゃくちゃ助けられた、ありがとう A</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;ABC198 B
+&lt;ul&gt;
+&lt;li&gt;久しぶりにB問題といた…リハビリを続けます&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;git操作の復習
+&lt;ul&gt;
+&lt;li&gt;ChatGPT様にめちゃくちゃ助けられた、ありがとう&lt;/li&gt;
+&lt;li&gt;Ankilotに追加した&lt;/li&gt;
+&lt;li&gt;すぐに確認できると思うと脳みそが覚えてくれないとのことなので、記録はつけるがその場で覚える気で勉強した（いつもそうしろよ案件）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jobhoppop/status/1661663818777526272&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    このツイート
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自分という「ヒト」にフォーカスしてると意見が否定されたりうまく行かなかい時に落ち込んだりして無駄なエネルギーを消費する。 徹底的に「コト」にフォーカスしてると課題は何か、そのために次に何をすべきかだけを思考するので雑念に囚われずに成果を出しやすい。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月29日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-29/</link>
       <pubDate>Mon, 29 May 2023 23:43:03 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-29/</guid>
-      <description>やったこと リングフィット ABC221 A git rebaseでsquashした場合とfixupした場合の違い - Qiita お仕事でスムーズにできなかったので 図示の本 読ん</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ABC221 A&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/shyamahira/items/47557acfe88ba392561e&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    git rebaseでsquashした場合とfixupした場合の違い - Qiita
+&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事でスムーズにできなかったので&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;図示の本&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/fumi_sagawa/articles/2ff5fd9c03fbcd&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Raycastのススメと使い方
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://coliss.com/articles/build-websites/operation/css/css-new-features-for-2023.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    これでよく分かる！ 2023年、CSSとUIの新しい機能のまとめ | コリス
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;途中まで読んだ。initial-letterで最初の文字の調節ができたり、スマホのフルビューポートのために新しい単位が追加されたりしてるっぽい。改めて読みたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eng-blog.iij.ad.jp/archives/18584&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    HTTPキャッシュを使いこなして、Webアプリを快適に(1) | IIJ Engineers Blog
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;キャッシュについてのお話。図が多くてわかりやすい。連載の途中まで読んだ&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;304 Not Modified&lt;/code&gt;って初めて知った&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;304 Not Modified&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;自分に足りないスキルを、変に悲観しすぎずにそのまま受け止められていること。すごく、偉い。&lt;/li&gt;
+&lt;li&gt;わからないことをスルーせず、わかるようになるための情報収集のアクションを起こしたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;一旦、曖昧な理解のものをスルーしてしまった
+&lt;ul&gt;
+&lt;li&gt;口頭コミュニケーションしているときに、これやりがちかも。無意識に、自分をよく見せようとしてしまっているのかも&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;当たり前のことを当たり前にやる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;よかったことの欄に書いたけど、任意のチームで活動していく上で自分に足りないスキルは何かを意識して探して、それを変に悲観しすぎずにそのまま受け止められているのすごくいいことだと思うんだけど、正直、自分がこれできると思ってなかった。
+&lt;ul&gt;
+&lt;li&gt;「ああ、私こんなにできないんだ…」というふうに捉えてしまうかなとなんとなく思っていたんだけど、全然逆で、足りないスキルを箇条書きにしていったところ、「これらの力を伸ばせばもっといい感じにチームに貢献できるのか」とワクワク感というか頑張りたいないうポジティブな気持ちの方が先に来たので、驚いた。&lt;/li&gt;
+&lt;li&gt;チームの皆様のおかげと、若干意識してできなかったことに必要以上に気をむけすぎないようにしていることが良いのかも。この感覚を維持して行けたらいいな。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;自己効力感を維持し、自分自身に対する信頼を保つためには、成功体験を定期的に振り返ることが有効です。大きな成功だけでなく、小さな成功も価値があります。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年05月27日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-27/</link>
       <pubDate>Sun, 28 May 2023 09:28:30 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-27/</guid>
-      <description>やったこと ABC リングフィット タスク管理ツール調査 Linearがタスクの上限250だったので…これなかったらマジで使い続けていたと思う 読んだ記事</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ABC&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;タスク管理ツール調査&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linearがタスクの上限250だったので…これなかったらマジで使い続けていたと思う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/0xfffffff7/items/028ff8c920a6a8c67dc5&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Linux開発環境の基礎知識 - Qiita
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/ryo_manba/articles/a4c8609f658fa2&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    good first issueからOSS(Renovate)へコントリビュートした話
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;私もOSSコントリビュートしてぇ〜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/yubachiri/articles/b920a4cbe6afd1&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【個人開発】価値あるユーザーストーリー作成をサポートするサービス「ChatUSG」を作りました
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;株式会社mofmofという会社が、会社を挙げて社員の個人開発を支援しているっぽい（&lt;a href=&#34;https://indie-dev.mof-mof.co.jp/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    mofmof 個人開発Hub
+&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;開発チームレンタルとか、技術が目的でビジネスは手段とトップページで書き切っていたりとか、面白そうな会社&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/ryo_kawamata/articles/ad4b88908f610b&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    GitHub Trending を定期投稿する Bluesky ボットを作った
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Trending追ってる人、須く強い。BlueskyっていうSNS初めて知った&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;devtoolsのLayers機能
+&lt;ul&gt;
+&lt;li&gt;z-indexを確認できる！PP&lt;/li&gt;
+&lt;li&gt;なぜかタブには表示されないからcmd+shift+pでlayerって入れて開いた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;BlueskyっていうSNS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;土曜日だけど、朝活でリングフィット、記事読み、write code everydayできたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;夜の習慣を飛ばしてしまった…&lt;/li&gt;
+&lt;li&gt;疲れていたのか、結構ダラダラお昼寝してしまって作業が進まなかった。まあこういう日もある！最低限の朝活はできていたのでギリセーフ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今日できなかった作業&lt;/li&gt;
+&lt;li&gt;明日からの１週間でやること棚卸し&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;疲れていたのかめっちゃ寝てしまった〜〜。&lt;/li&gt;
+&lt;li&gt;あとタスク管理アプリなかなかいいのが見つからなくてそれも作業する時の集中の妨げになっていた気がする。ちなみにまだしっくりくるのは見つかっていない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;自己ケアとリラクゼーション&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;あなたが達成したことを認識し、それを祝うための時間を設けてください。また、休息とリラクゼーションはパフォーマンスと学習能力にとって重要な要素であるため、十分な睡眠を取ることを確保してください。体と心を休めることで、再び活動に戻ったときには更にエネルギッシュになれます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;自己評価は常に難しいものです。自分自身に厳しすぎることも、自分を甘やかすことも、成長と進歩にとって有害になり得ます。そのバランスを見つけることは、自己認識と自己改善の重要な部分です。あなたが自分自身に対して誠実であればあるほど、自己改善の旅はより意味深く、より充実したものになるでしょう。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年05月28日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-28/</link>
       <pubDate>Sun, 28 May 2023 09:28:25 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-28/</guid>
-      <description>やったこと ABC220 A APG4b ~2.06 先週１週間の振り返り 今週１週間で何するかの計画 タスク管理のためにGitHub Projects使っている人がいたので調べてみ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ABC220 A&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;APG4b ~2.06&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;先週１週間の振り返り&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;今週１週間で何するかの計画&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;タスク管理のためにGitHub Projects使っている人がいたので調べてみた&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;概ね良さそうでこれは！と思ったが、繰り返しタスクの登録が厳しそうなのでやめました&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;図示の本読んだ。後ちょっと&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月26日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-26/</link>
       <pubDate>Thu, 25 May 2023 22:53:20 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-26/</guid>
-      <description>やったこと ABC218 A 読んだ記事 # Web標準に新たなステータス「Baseline」が登場。変化し続けるWeb標準のうちWeb開発者が安心して使える機</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ABC218 A&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.publickey1.jp/blog/23/webbaselinewebwebmdn.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    # Web標準に新たなステータス「Baseline」が登場。変化し続けるWeb標準のうちWeb開発者が安心して使える機能群を示す。MDNドキュメントなどで表示開始
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;MDNちゃんと読みたいよなぁ。毎日ちょっとずつでもいいから読みたいけどなあ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forest.watch.impress.co.jp/docs/news/1500436.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    # Microsoft、「TypeScript」高速化のために開発した「Deopt Explorer」を一般提供
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaScriptエンジン「V8」で動作するJavaScriptおよびTypeScriptのコードから採取したトレースログを可視化するツールらしいです&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://softantenna.com/blog/programming-idioms/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Programming-Idioms - さまざまな言語でプログラミングの定石を確認できるサイト | ソフトアンテナ
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;アルゴリズムやノウハウ、Tips、パターンを集めたもの「プログラミングイディオム」を複数の言語でどう書くか確認できる。競プロの勉強とかにも良さそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://yuku.dev/articles/2023-05-24/fifth-year-at-the-univ&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Ubieに入って5年目、未だ大学は卒業できていません | Yuku Kotani
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;すごく考えて戦略的に人生をやっていてすごい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/yasagure_/items/d6f7305ddebf5c806b5d&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【AtCoder】5年かけて入青したゆる系競プロerの色変記事 - Qiita
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;他社の初対面のエンジニアの人たちと飲みに行った&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;忙しくても日報の全項目を１つでもいいから埋める（これ28日に書いている）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日報だけは忙しくてもちゃんと書きたい🥺&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年05月25日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-25/</link>
       <pubDate>Thu, 25 May 2023 22:53:07 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-25/</guid>
-      <description>やったこと リングフィット ABC217 A、APG4bの~2.02 お仕事関連のキャッチアップ 読んだ記事 スクラムでユーザー理解を深める仕組みを社内に浸透 ニー</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ABC217 A、APG4bの~2.02&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;お仕事関連のキャッチアップ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://logmi.jp/tech/articles/326004&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    スクラムでユーザー理解を深める仕組みを社内に浸透　ニーズ発見とサービス提供を繰り返し、最短最速で価値を提供 - ログミーTech
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;「ユーザーフォーカススクラム」というユーザを深く理解してプロダクトや機能を素早く届けるみたいな手法。ユーザーフォーカススクラムって名前聞くとお〜ってなるけど、スクラムって元からユーザのためにどれだけ価値を届けるのかっていうものじゃないの？みたいな気持ちもある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://note.com/fladdict/n/n481e68531173&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    やりなおせる失敗は、失敗ではない｜深津 貴之 (fladdict)
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;さっと試せてすぐに結果がわかるものは失敗しても良いから試してみる。「兵は拙速を尊ぶ」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/fumi_sagawa/articles/2ff5fd9c03fbcd&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Raycastのススメと使い方
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;使いこなしたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.yasuhisay.info/entry/2021/06/13/234500&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    昔は苦手だったモブプロを今は推進する側になっていた - yasuhisa&amp;rsquo;s blog
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;以前はナビゲータの人の指示をさっと咀嚼できない時に固まってしまっていたが、今は「頭が今ちょっと固まっています」とか「XXXのパスってどの辺でしたっけ」聞けばいいじゃんと思っている、と書いてあって、確かにとなった。明日は心がけてみよう。&lt;/li&gt;
+&lt;li&gt;今は↑を意識しなきゃなというくらいモブプロの練度低いが、「何かを提案する際には前提や認識が揃ってないと滑る可能性が高く、それはモブプロで共通の作業を一緒にやることで同じような辛みを共有することで解消できる」とあり、今はこういう高次元のことは考えられないけど、モブプロにはそういうメリットもあるのだなあと思った。良い記事。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Java関連
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mamezou-tech.com/msa/mp/cntrn01-what-mp/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    MicroProfileってなにそれ？ - MicroProfileの登場 | 豆蔵デベロッパーサイト
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;MicroProfile、初めて聞いた。マイクロサービスアーキテクチャを実現したいということが結構目的の大部分を占めていそう？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://future-architect.github.io/articles/20230308a/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    今どきJavaのウェブ開発体験(Helidon) | フューチャー技術ブログ
+&lt;/a&gt;　
+&lt;ul&gt;
+&lt;li&gt;さらっと読んだ。MicroProfileのウェブアプリケーションフレームワークの一つがHelidonらしい（Oracleが開発）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MicroProfile&lt;/li&gt;
+&lt;li&gt;Raycastっていうランチャー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;他人がやってくれて嬉しいと感じたことに関して、目に見える形で感謝を示せた（当たり前のことではあるけど、私の観測範囲では他の人はやっていなかったので書いた）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;モブプロでの振る舞い。自分がドライバーの時はすぐにナビゲータの言ってることがわからなかったら、ちょっとだけ待ってください考えますとか言ってわからないところは流さないようにする
+&lt;ul&gt;
+&lt;li&gt;多分これ、私の「人によく見られたい」特性の弊害な気がする。短期的に見るとすぐ理解できてるように見えるかもしれないけど、長期的に見たら、普通に自分が理解していないままなのも良くないし、後になって「え、これわかっていたんじゃないの？」みたいになり結果的に「あれこいつ…？おや…？」ってなるので、よくないです普通に&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mamezou-tech.com/msa/mp/cntrn01-what-mp/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    MicroProfileってなにそれ？ - MicroProfileの登場 | 豆蔵デベロッパーサイト
+&lt;/a&gt;が連載だったので続きを読みたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;コードもっと読めるようになりたい！！１！！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;chatgpt様からのお言葉&#34;&gt;ChatGPT様からのお言葉&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;コード読解能力を向上させるための具体的な計画を立てることをおすすめします。
+&lt;ul&gt;
+&lt;li&gt;それは、例えば、特定のプロジェクトのコードを読む時間を設ける、コードリーディングの本やオンラインリソースを探す、またはエキスパートに質問を投げかけるなどの活動を含むものです。&lt;/li&gt;
+&lt;li&gt;毎日少しずつ続けることで、長期的には大きな進歩が見られるはずです。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;モブプロにおける自身の振る舞いについては、他の参加者に対して分からない点を開示する勇気を持つことが重要です。
+&lt;ul&gt;
+&lt;li&gt;分からないことを率直に共有することは、チーム全体の理解を深め、更には他のメンバーが自分の疑問を共有する機会を生むかもしれません。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年05月24日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-24/</link>
       <pubDate>Wed, 24 May 2023 23:25:10 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-24/</guid>
-      <description>やったこと お散歩 重大な事実に気づいてしまったのですが、Linearの無料プランだとissueの上限が250&amp;hellip;&amp;hellip;&amp;</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;お散歩&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;重大な事実に気づいてしまったのですが、Linearの無料プランだとissueの上限が250&amp;hellip;&amp;hellip;&amp;hellip;..&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月23日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-23/</link>
       <pubDate>Tue, 23 May 2023 23:18:51 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-23/</guid>
-      <description>やったこと html, js, php, git などの無料問題集があることを知る ABC215 A, APG4bの1.13まで 15．Facadeパターン | TECHSCORE(テックスコア)</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/ninjacodeee/status/1610518734632022016&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    html, js, php, git
+&lt;/a&gt;などの無料問題集があることを知る&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ABC215 A, APG4bの1.13まで&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.techscore.com/tech/DesignPattern/Facade&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    15．Facadeパターン | TECHSCORE(テックスコア)
+&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;調べていた。わかりやすい！GoFのデザインパターン勉強し直したいな&lt;/li&gt;
+&lt;li&gt;Facadeはフランス語画語源で建物の正面という意味らしい。はえー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;プログラマー脳chapter3の途中まで。プログラミングに暗記は要らないはまあ正しいんだけど、そう開き直って何も覚えないと、コードを効率的に処理しようとした時にちょっと厳しくなる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月22日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-22/</link>
       <pubDate>Mon, 22 May 2023 23:56:40 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-22/</guid>
-      <description>やったこと yappliについて調べた CMでノーコードがなんたらって言っていたのでkintoneの強豪かなと思っていたが、yappliはお客様</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;yappliについて調べた&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CMでノーコードがなんたらって言っていたのでkintoneの強豪かなと思っていたが、yappliはお客様向けのアプリをノーコードで作るって感じのものだった（&lt;a href=&#34;https://yapp.li/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    公式
+&lt;/a&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hellotimo.co/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Timo
+&lt;/a&gt;というタスク管理とタイムトラッキングの両方ができるツールを見つけたが、有料版しかなかった&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月21日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-21/</link>
       <pubDate>Sun, 21 May 2023 21:38:12 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-21/</guid>
-      <description>やったこと ABC213 A 排他的論理和の問題だった 技術書典、初参加してきた〜〜 ツイート 久しぶりに同人誌即売会に参加したが、気になるもの片っ端から買って行</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ABC213 A 排他的論理和の問題だった&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;技術書典、初参加してきた〜〜&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/hiyoko_coder/status/1660192757993066499&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ツイート
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;久しぶりに同人誌即売会に参加したが、気になるもの片っ端から買って行ってどれくらいお金使ったかわからなくなるやつに久しぶりになって楽しかった。オフラインイベントはここら辺の感覚バグって楽しい。こういうの大好き&lt;/li&gt;
+&lt;li&gt;あとTwitterで繋がっている人にたくさん会えて嬉しかったです。ひよこちゃんシールだいぶ多めに持って行ったつもりだったけどそこそこ減りました。それだけ人と話したってことだね、いいことだね&lt;/li&gt;
+&lt;li&gt;買う予定のなかった全然未知の技術領域の本をいくつか手に入れて、こういう出会いのチャンスが多くあるのもオフラインイベントの良いところだなぁと思うなどしました&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月20日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-20/</link>
       <pubDate>Sat, 20 May 2023 23:34:03 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-20/</guid>
-      <description>やったこと MusicLMという音楽生成AIがあるらしい（ 参考 ） ABC212 A APG4B(AtCoder Programming Guide for Beginner)を1.07まで読んだ 自分がタスク管理ツールに求め</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MusicLMという音楽生成AIがあるらしい（&lt;a href=&#34;https://twitter.com/chatgptair/status/1658774384449044481&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    参考
+&lt;/a&gt;）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ABC212 A&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;APG4B(AtCoder Programming Guide for Beginner)を1.07まで読んだ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;自分がタスク管理ツールに求めるものを文章でまとめていた（書き出すことで本質的に求めているものや実は必要ないものが出てくるかなと思って）&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月19日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-19/</link>
       <pubDate>Sat, 20 May 2023 23:33:53 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-19/</guid>
-      <description>やったこと ABC211 A オブザーバビリティって何っていう概要だけ本当にさらっと調べた ログとメトリクスとトレース（とプロファイル）が大事 docker&amp;a</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ABC211 A&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;オブザーバビリティって何っていう概要だけ本当にさらっと調べた&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ログとメトリクスとトレース（とプロファイル）が大事&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;docker&amp;amp;k8sの本を、手を動かしながらdocker部分を復習した&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月18日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-18/</link>
       <pubDate>Thu, 18 May 2023 23:29:03 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-18/</guid>
-      <description>やったこと Qiitaのベータ版を有効にしてダークモードで記事の閲覧ができるようになった ABC210 A Denoの入門っぽい jlinkというコマンドで、カ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Qiitaのベータ版を有効にしてダークモードで記事の閲覧ができるようになった&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ABC210 A&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Denoの入門っぽい&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;jlink&lt;/code&gt;というコマンドで、カスタムJavaランタイムを作成できるらしい&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月17日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-17/</link>
       <pubDate>Wed, 17 May 2023 23:11:01 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-17/</guid>
-      <description>やったこと Llama Life - Find Your Focus というタスク管理アプリ。よさそうと思ったがタイムトラッキングしたい人と看板形式の管理をしたい人には向いてないと書かれて</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://llamalife.co/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Llama Life - Find Your Focus
+&lt;/a&gt;というタスク管理アプリ。よさそうと思ったがタイムトラッキングしたい人と看板形式の管理をしたい人には向いてないと書かれていたので、そういうことです&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月16日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-16/</link>
       <pubDate>Tue, 16 May 2023 22:34:12 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-16/</guid>
-      <description>やったこと 昨日視聴したJava仕様勉強会から派生してJCPについて気づいたらずっと調べていた😇 JCPとJEPの関係性とかよくわかっていなかっ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;昨日視聴したJava仕様勉強会から派生してJCPについて気づいたらずっと調べていた😇&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JCPとJEPの関係性とかよくわかっていなかったし、自分が使っている言語の仕様がどんなプロセスを経て決まっているのかとかをちょっと知ることができてよかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;読んだ記事&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月15日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-15/</link>
       <pubDate>Mon, 15 May 2023 23:16:48 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-15/</guid>
-      <description>やったこと リングフィット AtCoder ABC206 A javapについて調べていた 使い始めたタスク管理ツールのLinearで、時間見積もりができないので、見積もりと</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;リングフィット&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AtCoder ABC206 A&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;javapについて調べていた&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使い始めたタスク管理ツールのLinearで、時間見積もりができないので、見積もりと実績が書き込めるissueのテンプレを作った。とりあえずはこの運用で。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月14日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-14/</link>
       <pubDate>Sun, 14 May 2023 23:24:30 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-14/</guid>
-      <description>やったこと 「俺たちの本当にやりたかったDevDay」申し込み完了 - connpass に申し込んだ。なんなのかよくわかっていないけど楽しそうなので Java SEの動向</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://connpass.com/event/282059/join/complete/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    「俺たちの本当にやりたかったDevDay」申し込み完了 - connpass
+&lt;/a&gt;に申し込んだ。なんなのかよくわかっていないけど楽しそうなので&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/chiroito/java-senodong-xiang-2022xia-ban&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Java SEの動向 2022夏版 - Speaker Deck
+&lt;/a&gt; #Java&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月13日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-13/</link>
       <pubDate>Sat, 13 May 2023 08:47:50 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-13/</guid>
-      <description>やったこと Wiseone というChrome拡張を入れた ChatGPTを使った、今読んでいる記事の要約や関連する他のサイトを教えてくれたりする拡張。特に後</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://app.wiseone.io/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Wiseone
+&lt;/a&gt;というChrome拡張を入れた&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ChatGPTを使った、今読んでいる記事の要約や関連する他のサイトを教えてくれたりする拡張。特に後者に惹かれて入れたが、日本語未対応なので、しばらくは使わなそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.getvoila.ai/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ChatGPT AI-powered browser assistant | Voilà
+&lt;/a&gt; どのサイトでもすぐにChatGPT開ける cmd+M&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月12日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-12/</link>
       <pubDate>Thu, 11 May 2023 23:37:18 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-12/</guid>
-      <description>やったこと JavaのSealedについて調べてた Java 17でSealed ClassesがPreviewからStandardになった言語仕様 Jav</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaのSealedについて調べてた
+&lt;ul&gt;
+&lt;li&gt;Java 17でSealed ClassesがPreviewからStandardになった言語仕様&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techblog.gmo-ap.jp/2021/12/13/java17-sealed-classes/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    JavaのSealed Classesについて | GMOアドパートナーズ TECH BLOG byGMO
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;めちゃくちゃ例がわかりやすい。継承できるクラスを指定できると、意図してないクラスの使われ方されなくて良さそうという小並感&lt;/li&gt;
+&lt;li&gt;公式は→&lt;a href=&#34;https://docs.oracle.com/javase/jp/15/language/sealed-classes-and-interfaces.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    シール・クラス
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;AtCoder ABC204 A (自分、頭硬すぎて絶望してる。リハビリしたい)&lt;/li&gt;
+&lt;li&gt;docker&amp;amp;k8sの本。
+&lt;ul&gt;
+&lt;li&gt;k8sの言葉についてちょっとわかった。マスターノードとか、ワーカーノードとか、サービスとかレプリカとか。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CI/CDについて
+&lt;ul&gt;
+&lt;li&gt;マジでCI/CDについてなんも分からん状態&lt;/li&gt;
+&lt;li&gt;社内プロダクトのCI/CDどうなってるかみてみたけど分からんかった&lt;/li&gt;
+&lt;li&gt;ので、&lt;a href=&#34;https://codezine.jp/article/corner/754&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    エンジニアのためのCI/CD再入門一覧|CodeZine（コードジン）
+&lt;/a&gt;をざっと読みしていた
+&lt;ul&gt;
+&lt;li&gt;古い記事だけど、概要を掴むのには良さそう。手を動かすのは明日。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Obsidianについて調べてた
+&lt;ul&gt;
+&lt;li&gt;参考リンクとか置いておく場所、scrapboxに決定したつもりだったんだけど、obsidianの「第二の脳」というかあらゆるアイディアをリンクできるというのが魅力的すぎて、改めて調べていた。ネックなのは、複数端末で管理できないことのみ。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.ojisan.io/lib-free-cookie/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ライブラリに頼らず Cookie を扱うためには | blog.ojisan.io
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/YujiSoftware/items/f734cf656e6c01195f92&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    javap の隠しオプション - Qiita
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;まず&lt;code&gt;javap&lt;/code&gt;って何？？？ってなって調べてた
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://atmarkit.itmedia.co.jp/ait/articles/0407/13/news102.html&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    javapコマンドでクラスファイルを読む：JavaTips 〜Javaプログラミング編 - ＠IT
+&lt;/a&gt;　なるほどね&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shuchi.php.co.jp/the21/detail/3419&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    モールスキンのメモからアイデアが生まれる | THE21オンライン
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Not技術記事。いろいろなことに興味を持てるって美しいなと感じます。その感性とマメさが合わさってこの人の魅力になってると思う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;RFC
+&lt;ul&gt;
+&lt;li&gt;Request for Comments.&lt;/li&gt;
+&lt;li&gt;インターネットに関連する様々な規格やプロトコル、手続き、研究結果などを記述したドキュメントのこと&lt;/li&gt;
+&lt;li&gt;インターネットエンジニアリングタスクフォース（IETF）という組織によって管理されてる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;javap -c&lt;/code&gt; でクラスファイルを逆アセンプルできること&lt;/li&gt;
+&lt;li&gt;要求工学っていう工学&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;時間を決めてタスクに取り組むことで集中できたこと&lt;/li&gt;
+&lt;li&gt;眠くなった時、換気が有効であるとわかったこと
+&lt;ul&gt;
+&lt;li&gt;CO2の計測して一定の値を超えたらアレクサに通知してもらうみたいなやつ自作したい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CI/CDという今まで避けてきたものをちょろっと触れたこと&lt;/li&gt;
+&lt;li&gt;色々挑戦していこうという姿勢（詳しくは書かない）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ストレッチを真面目にやる。普通に椅子から立ち上がろうとしたら足が攣りそうになり危機感を覚えた&lt;/li&gt;
+&lt;li&gt;肌荒れすごい。ビタミンCのサプリ飲むの忘れない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://codezine.jp/article/corner/754&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    エンジニアのためのCI/CD再入門一覧|CodeZine（コードジン）
+&lt;/a&gt;を改めて読んで、手を動かしてみる&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;javap -c&lt;/code&gt;で出力される文の詳細についてちょっと調べたい（&lt;code&gt;aload_0&lt;/code&gt;とか&lt;code&gt;i nvokespecial&lt;/code&gt;とか）&lt;/li&gt;
+&lt;li&gt;obsidianの調査続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;一週間はえ〜〜〜&lt;/li&gt;
+&lt;li&gt;研修受けていると無限に調べたいことが増えていくが、優先順位をうまくつけて、周りに流されすぎずに自分がやるべきことをやっていきたい。&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年05月11日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-11/</link>
       <pubDate>Thu, 11 May 2023 08:00:54 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-11/</guid>
-      <description>やったこと Write Code Everyday；ABC203 A お仕事 リングフィット ポエム TechFeed Experts Night#18 〜 Java20リリース記念！最新動向、そして未来 - TechFeed の続き TechFeed Experts</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Write Code Everyday；ABC203 A&lt;/li&gt;
+&lt;li&gt;お仕事&lt;/li&gt;
+&lt;li&gt;リングフィット&lt;/li&gt;
+&lt;li&gt;ポエム&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techfeed.io/events/techfeed-experts-night-18&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    TechFeed Experts Night#18 〜 Java20リリース記念！最新動向、そして未来 - TechFeed
+&lt;/a&gt;の続き
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://techfeed.io/events/techfeed-experts-night-18#1_18330ec0cd1365&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    TechFeed Experts Night#18 〜 Java20リリース記念！最新動向、そして未来 - TechFeed
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Copilotを使ったコーディング。既存のコード（20コンテクストくらいまで読み込んでくれるらしい）をもとにこういう書き方したいんだろうな〜みたいなのも学習してコードの提案してくれるらしい。&lt;/li&gt;
+&lt;li&gt;application.yamlで指定できるプロパティも教えてくれるのが便利そう。全てのプロパティを把握し切ることは難しいので。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techfeed.io/events/techfeed-experts-night-18#1_1870977dc5f268&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    TechFeed Experts Night#18 〜 Java20リリース記念！最新動向、そして未来 - TechFeed
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;具体的なJEPの内容は正直あんまりよくわからなかった&lt;/li&gt;
+&lt;li&gt;Javaは大きいプログラムを確実に動かすということを目的に作られたから、冗長に書く必要があった。だから練習とか入門とかでちょっとしたコードを書くにも色々面倒で、みんなJavaじゃなくてPython使っちゃう。それを問題視して、もっと簡単に短く最低限で書けるようにしようっていう機能が、LTSのJava21でプレビューとして導入されるみたい。
+&lt;ul&gt;
+&lt;li&gt;初めて触れたプログラミング言語がJavaということもあると思うけど、冗長に省略せず書いていくのがわかりやすくて私はPythonよりもだいぶ好きなんだけど、確かに学び始めで&lt;code&gt;public static void main(String[] args)&lt;/code&gt;ってかけって言われてもハ？？ってなるし理由も説明しにくいよな〜。すっきりわかるJava入門は、そこら辺をうまい流れで説明して最終的に納得させてもらえる構成になってるから、Java入門にこの本を手に取れたのはすごく幸運だったな。違う本で学び始めたら、Javaそんなに好きじゃなかったかもしれない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/kishida/jjug-pro-java&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    プロになるJavaでチート能力を手にして完全勝利 - Speaker Deck
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;読んだ。実際に自分が読んだ本を、どんな意図を持ってどんなふうに書いたよ、というのを見るの面白い。&lt;/li&gt;
+&lt;li&gt;自分が読んだ時の印象と作者の意図の間に大きな乖離はなかった。「Java言語の入門ではなくJavaプログラマの入門」というのは結構感じた。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/mark-tab-manager/filgplhfalgafolkffphilkgckdgnona/related&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    Mark tab manager
+&lt;/a&gt;という拡張機能を入れた。便利すぎる〜〜〜〜&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/bs_kansai/articles/a41961614c4b25&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    goofiで見る👀色んな言語の知っておきたいOSSプロジェクト
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;初めて知ったことのところに初めて知ってかつ気になったリポジトリおいておく&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ohbarye/goofi&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    goofi
+&lt;/a&gt;というgood first issueがあって500以上のスターがあるリポジトリを表示してくれるツール&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/syncthing/syncthing&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    syncthing/syncthing
+&lt;/a&gt;: ２台以上の PC 間でファイルを共有するためのソフトウェア&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ytdl-org/youtube-dl&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ytdl-org/youtube-dl
+&lt;/a&gt;: youtubeとか他動画サイトから動画をDLするためのコマンドラインプログラム&lt;/li&gt;
+&lt;li&gt;⭐️&lt;a href=&#34;https://github.com/forem/forem&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    forem/forem
+&lt;/a&gt;: &lt;a href=&#34;https://dev.to/devteam/for-empowering-community-2k6h&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    コミュニティ構築のためのソフトウェア
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;一番気になる。後で詳しく読む&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tauri-apps/tauri&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    tauri-apps/tauri
+&lt;/a&gt;:ウェブフロント使ってデスクトップアプリ作るやつ&lt;/li&gt;
+&lt;li&gt;denoってよく聞くけど、node.jsの後継みたいなやつなんだね&lt;/li&gt;
+&lt;li&gt;GitHub Copilot Chatっていうソースコード特化のChatGPTみたいなものがあるらしい。この部分のコードって何をしてるの？とかエラー文送ると教えてくれる。&lt;/li&gt;
+&lt;li&gt;JEP(JDK Enhancement-Proposal)っていうこれからJavaにこういう機能載せていくぞっていうやつのまとまり&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事の後にjavaの情報を色々調べられたこと&lt;/li&gt;
+&lt;li&gt;事前準備をしていたから心の余裕を持って物事に取り組めたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;無限に調べることやることが湧いてきて、ちょっとアワアワしちゃってる→直近でやるべきことはわかっているので、それが終わり切る前に次何やるかを明確にしておく&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dockerfileについて調べる&lt;/li&gt;
+&lt;li&gt;読む
+&lt;ul&gt;
+&lt;li&gt;⭐️&lt;a href=&#34;https://github.com/forem/forem&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    forem/forem
+&lt;/a&gt;: &lt;a href=&#34;https://dev.to/devteam/for-empowering-community-2k6h&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    コミュニティ構築のためのソフトウェア
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;scrapboxに溜まってる知らない単語を少し消費したい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事の後に結構Java関連の情報を調べられて、よかった！&lt;/li&gt;
+&lt;li&gt;お仕事終わった後は結構集中力が続いてることが多いので、一息つきたい気持ちをちょっと我慢してやること片付けるのはよいかもしれない&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年05月10日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-10/</link>
       <pubDate>Wed, 10 May 2023 08:23:30 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-10/</guid>
-      <description>やったこと お仕事 TechFeed Experts Night#18 〜 Java20リリース記念！最新動向、そして未来 - TechFeed 追っかけ再生して途中まで見ました。なんかお仕事終わって家帰ってきた</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techfeed.io/events/techfeed-experts-night-18&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    TechFeed Experts Night#18 〜 Java20リリース記念！最新動向、そして未来 - TechFeed
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;追っかけ再生して途中まで見ました。なんかお仕事終わって家帰ってきたらwi-fi若干死んでいてまともに動画が見られなかったので続きは明日の仕事前に見ます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/yoshiichn/items/9acbaf5547a6dd304322?utm_campaign=popular_items&amp;amp;utm_medium=feed&amp;amp;utm_source=popular_items&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【git】知らないとヤバイ！？実は危険なgit操作5選【初心者必見！】 - Qiita
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/Yporon/items/401ab18fde98d3407e9b?utm_campaign=popular_items&amp;amp;utm_medium=feed&amp;amp;utm_source=popular_items&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    トップ5%社員になりたくない？ - Qiita
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「成功を単なる偶然の産物ではなく再現できるようなものにしなければ意味がない」&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年05月09日</title>
       <link>https://piyopanman.dev/daily-reports/2023-05-09/</link>
       <pubDate>Tue, 09 May 2023 23:18:36 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-05-09/</guid>
-      <description>やったこと お仕事 参考サイトや良さそうな本などをカテゴリごと（TypeScript, React, SQL, 競プロなど）に整理して置いておく場所を作りたいため、N</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;お仕事&lt;/li&gt;
+&lt;li&gt;参考サイトや良さそうな本などをカテゴリごと（TypeScript, React, SQL, 競プロなど）に整理して置いておく場所を作りたいため、Notion, Scrapbox, Obsidianで悩んでた。
+&lt;ul&gt;
+&lt;li&gt;やりたいこととしては、なんか内容のまとめをかっちり書くとかではなく、リンクをただ置いておくだけということを今は想定しているので、Scrapboxでよさそう（Notionではオーバーで、Obsidianは複数端末で見る設定がちょっと面倒そう）。マークダウンで書けないのが懸念点。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;[URL タイトル]&lt;/code&gt;とすることで外部リンクを埋め込めるので、この形式ですぐに貼り付けられるような何かを作りたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;日っっっっっっっさしぶりにAtCoderの問題を解いた。A問題だけど。Write Code Everydayで何書くか〜ってなって思いついてやった。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;tree.mdっていうサービス。なんか文章をいい感じに整理することができるらしい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;久しぶりにAtCoderやったこと。&lt;/li&gt;
+&lt;li&gt;久しぶりに日報書いたこと。アウトプットのハードルを下げるためにもやっぱり公開しておきたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ちょっと資料置き場をどうするかで時間をかけすぎた。時間は有限なので、何にどれくらい時間を割くかちゃんと決めて取り組もうね&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Scrapbox活用していくぞい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;業務関係の参考リンクどこにおくか、業務と関係ない参考リンクをどこにどういう形式でまとめておくかなどが曖昧だったため、脳内がぐちゃぐちゃになってしまっている。早急に解決すべき。
+&lt;ul&gt;
+&lt;li&gt;脳のワーキングメモリが米粒なので、外部にしっかり残して、常に脳内がクリアな状態を保ちたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;脳のワーキングメモリ関連で言うと、&lt;a href=&#34;https://amzn.asia/d/aK1VkkW&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    探検バッグ
+&lt;/a&gt;を書いました。
+&lt;ul&gt;
+&lt;li&gt;A4コピー用紙にふと思いついたこととか考えたことをメモするようにしてるんだけど、書きたいと思ったとき手元に用紙とペンと書くスペースがないことに困ってたから、いつでもどこでもメモ取れるように買いました&lt;/li&gt;
+&lt;li&gt;脳のワーキングメモリが米粒だから思いついた瞬間に書かないといいこと思いついた！ってなってもすぐに忘れちゃうので、大事な取り組み（だと思う）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年01月05日</title>
       <link>https://piyopanman.dev/daily-reports/2023-01-05/</link>
       <pubDate>Thu, 05 Jan 2023 21:31:08 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-01-05/</guid>
-      <description>やったこと イのTA スッキリわかるJava入門実践編の第5章 javascript.infoを読む会ソロ（~6.2） Javaのクラスについての記</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;イのTA&lt;/li&gt;
+&lt;li&gt;スッキリわかるJava入門実践編の第5章&lt;/li&gt;
+&lt;li&gt;javascript.infoを読む会ソロ（~6.2）&lt;/li&gt;
+&lt;li&gt;Javaのクラスについての記事書いた&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/azukiazusa/articles/pnpm-feature&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    pnpm の特徴
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/marimo_math/items/e8d6c57278e91f6dcbfd&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    質問するか悩んだら考えるべきたった１つの指標 - Qiita
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;pnpmっていうパッケージマネージャ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;起きるの死ぬほど遅かったけど後半盛り返した（良いことなのか…？）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝起きるの遅すぎ&lt;/li&gt;
+&lt;li&gt;やるべきだけどやりたくないことがその日のタスクに設定されていると、それだけで他のタスクに着手する気力も無くなってしまうの深刻なバグすぎる
+&lt;ul&gt;
+&lt;li&gt;軽い、乗り気なタスクから着手してだんだんギア上げていけるのが理想&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スッキリわかるjavaの続き&lt;/li&gt;
+&lt;li&gt;javascript.infoの続き&lt;/li&gt;
+&lt;li&gt;卒論&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;p&gt;昼過ぎに起きてその後も集中できずにダラダラしていたので評価２点くらいだったけど、22時くらいから超もりかえして色々勉強したり記事まで書いてしまったので4点に格上げです。&lt;br&gt;
+本当はこんなふうでなくて午前中からしっかり頑張りたいんだけどな…&lt;/p&gt;</description>
     </item>
     <item>
       <title>2023年01月04日</title>
       <link>https://piyopanman.dev/daily-reports/2023-01-04/</link>
       <pubDate>Wed, 04 Jan 2023 11:42:04 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-01-04/</guid>
-      <description>やったこと javascript.infoを読む会ソロ(~6.2) スッキリわかるJava実践編の4章 読んだ記事 個人開発、年間成長計画のスゝメ 個</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;javascript.infoを読む会ソロ(~6.2)&lt;/li&gt;
+&lt;li&gt;スッキリわかるJava実践編の4章&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/ataka/articles/6fa9526c194cc1&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    個人開発、年間成長計画のスゝメ
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;個人開発で収益を得たいと思ったことはないけど、こうやって計画立ててサービス作るのは楽しそうだと思いました&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/Ryo-Nakano/items/f65f2c2868853cd4b6cb&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【1日10分】学び向上し続けるエンジニア組織を作るための『本日の学びシェアタイム』実施のすゝめ - Qiita
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;これ、私が個人で日報をつけているモチベーションとほぼ同じでわかる〜ってなりながら読みました&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;起きるの遅すぎたが後半盛り返して最低限のことはやった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;朝起きるの遅すぎ🥺&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;起床失敗するだけで1日のやる気なくなるの良くない…ちゃんと起床を成功させるか、気持ちの切り替えするかする&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2023年01月03日</title>
       <link>https://piyopanman.dev/daily-reports/2023-01-03/</link>
       <pubDate>Tue, 03 Jan 2023 10:31:13 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2023-01-03/</guid>
-      <description>やったこと 卒論ちょろっと ネットワークの基本、読み終えた 基本情報技術者の一歩手前みたいな内容だった 読んだ記事 技術書の予習と復習 超いい記事！！！</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;卒論ちょろっと&lt;/li&gt;
+&lt;li&gt;ネットワークの基本、読み終えた
+&lt;ul&gt;
+&lt;li&gt;基本情報技術者の一歩手前みたいな内容だった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/praha/articles/prepare-book&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    技術書の予習と復習
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;超いい記事！！！！！！ありがとうございます！！！&lt;/li&gt;
+&lt;li&gt;読み始める前に自分は何を理解しているかしていないか、この本を読むことで何を得たいか書き出すと。これすると強弱をつけて本読むから自分にとって大事なところは記憶に残りやすそう&lt;/li&gt;
+&lt;li&gt;他にも目から鱗な読書術がたくさんあった。こういうことをできて、かつそれを明文化できる人ってすごい賢い人なんだろうな…物事をうまく押し進める能力高そう&lt;/li&gt;
+&lt;li&gt;私もこれから技術書読む時はこれに則って読むぞい！まじでこんなナレッジを無料で公開してくれてありがとうございます&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;素敵な記事に出会ったこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;スプラやりすぎ　やることやってからやれ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;卒論続き&lt;/li&gt;
+&lt;li&gt;javascriopt.info続き&lt;/li&gt;
+&lt;li&gt;スッキリわかるjavaの続き&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;いつの間にか2023年始まってもう3日もすぎた。ぼーっとしてるとすぐまた1年終わってしまいそうなので、メリハリつけてやっていきたい&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2022年12月31日</title>
       <link>https://piyopanman.dev/daily-reports/2022-12-31/</link>
       <pubDate>Sat, 31 Dec 2022 16:23:34 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2022-12-31/</guid>
-      <description>やったこと Hugoを使って新・日報開発の続き 目次の設定、OGPの設定など Twitter Card Validatorが使えなくなってるの知らなかったよ〜〜 でもtw</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugoを使って新・日報開発の続き
+&lt;ul&gt;
+&lt;li&gt;目次の設定、OGPの設定など&lt;/li&gt;
+&lt;li&gt;Twitter Card Validatorが使えなくなってるの知らなかったよ〜〜
+&lt;ul&gt;
+&lt;li&gt;でもtwitter cardの確認したい時、誰も加入していないtwitter circleに投稿して確認できるね&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rakko.tools/tools/9/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    ラッコツールズ🔧
+&lt;/a&gt;も使えるね&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://booklog.jp/item/1/B01DBQQ832&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    イラスト図解式 この一冊で全部わかるネットワークの基本
+&lt;/a&gt;読み始めた
+&lt;ul&gt;
+&lt;li&gt;昨日カスタムドメインの設定とかしている時にDNSとかネットワークの基礎わかってないなって改めて思ったので、とりあえずちょっと前にメルカリで買ったこれを読む&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;読んだ記事
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f?utm_content=buffer18cab&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【Webエンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた - Qiita
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/oreo2990/articles/70160f17ac4e72&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    週一ブログ投稿を1年間続けた振り返り
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;いい記事〜〜日報だけじゃなくて記事の体裁にした文章を書く習慣をつけたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;twitter card validatorくんがいつの間にか死んでいたこと&lt;/li&gt;
+&lt;li&gt;Hugoの&lt;code&gt;with&lt;/code&gt;、&lt;code&gt;else&lt;/code&gt;使えるんだね😇 &lt;code&gt;if&lt;/code&gt;にしか使えないと思ってた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;真・日報を年内にひとまず形にできたこと！🎉  有言実行！！
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;やっぱ色々調べてたら作り直したくなってきた&lt;br&gt;区切り的にできれば年内に　無理か？&lt;/p&gt;</description>
     </item>
     <item>
       <title>2022年12月30日</title>
       <link>https://piyopanman.dev/daily-reports/2022-12-30/</link>
       <pubDate>Fri, 30 Dec 2022 15:09:51 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2022-12-30/</guid>
-      <description>やったこと Hugoで新・日報作りの続き なんとかGitHub Pagesを使ってデプロイするところまでできた🎉 カスタムドメインも設定できた！ hu</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugoで新・日報作りの続き
+&lt;ul&gt;
+&lt;li&gt;なんとかGitHub Pagesを使ってデプロイするところまでできた🎉&lt;/li&gt;
+&lt;li&gt;カスタムドメインも設定できた！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://piyopanman.dev/memos/hugo&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    hugoで紛らわしい用語のまとめ
+&lt;/a&gt;というメモを書いた&lt;/li&gt;
+&lt;li&gt;javascript.infoを読む会ソロ&lt;/li&gt;
+&lt;li&gt;記事読んだ
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/okunokentaro/articles/01gn9d5y08dhp75vb2ng44cetb&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    一人アドベントカレンダーのススメ
+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;素敵な記事だ&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;筆者はひとつには「反応の早さ」が技術力にあたると思っています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2022月12月29日</title>
       <link>https://piyopanman.dev/daily-reports/2022-12-29/</link>
       <pubDate>Fri, 30 Dec 2022 01:10:19 +0900</pubDate>
       <guid>https://piyopanman.dev/daily-reports/2022-12-29/</guid>
-      <description>やったこと javascript.infoを読む会ソロ（~5.11 日付と時間） 日報作り直すためにHugoのドキュメントずっと読んでた 記事読んだ</description>
+      <description>&lt;h2 id=&#34;やったこと&#34;&gt;やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;javascript.infoを読む会ソロ（~5.11 日付と時間）&lt;/li&gt;
+&lt;li&gt;日報作り直すためにHugoのドキュメントずっと読んでた&lt;/li&gt;
+&lt;li&gt;記事読んだ
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/nameless_sn/articles/awesome_githubrepo_for_2022#%E3%81%BE%E3%81%A8%E3%82%81&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    【決定版】2022年～2023年で必ず確認するべきGitHubリポジトリ 40選
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;はじめて知った事&#34;&gt;はじめて知った事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugoのドキュメントずっと読んでいたのではじめて知った事だらけ&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tenderfeel.xsrv.jp/html-xhtml/4056/&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    aタグのrel属性
+&lt;/a&gt;、noopnerとかnofollowとかnextとか。
+&lt;ul&gt;
+&lt;li&gt;あまり意識して使ったことがなかったので知られてよかった（リンクを別タブで開くというmarkupのカスタマイズをするために調べてた）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;良かったこと&#34;&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://simplearchitect.hatenablog.com/entry/2018/09/18/080347&#34;
+    
+
+     
+        target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    
+&gt;
+    この記事
+&lt;/a&gt;を読んで「焦らず」「早く完成させようとしない」「理解しないことの方を恐れる」を自分に何度も言い聞かせながら、ほぼ公式ドキュメントしか見ずにこのサイトの開発をできた！めちゃくちゃ進歩！
+&lt;ul&gt;
+&lt;li&gt;時間はかかるが、理解して進んでいる感があり、わからないことや曖昧なことが出てきた場合、探す場所はドキュメント内という制限があることで集中できていた気がする&lt;/li&gt;
+&lt;li&gt;これを習慣にすれば自己肯定感高まると思う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ポモドーロタイマーを使ってメリハリつけて作業できた&lt;/li&gt;
+&lt;li&gt;家事を結構頑張った。夜ご飯のパスタを美味しく作れた😋&lt;/li&gt;
+&lt;li&gt;技術記事を読めた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;改善できると良いこと&#34;&gt;改善できると良いこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;作業中にスマホを集中モードにするのを忘れて通知がくると気が散っちゃったので、明日は作業始める前に集中モードにする。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;明日以降にやりたいこと&#34;&gt;明日以降にやりたいこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugoで新・日報サイト作りの続き！
+&lt;ul&gt;
+&lt;li&gt;できたらGitHub Actionsの設定とかまで行きたい（焦らない程度に）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hugoの紛らわしい用語や使い方についてメモしたので、ここのどこかにまとめておきたい&lt;/li&gt;
+&lt;li&gt;javascript.infoを読む会ソロ&lt;/li&gt;
+&lt;li&gt;技術記事読む&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;所感&#34;&gt;所感&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;今日はよく頑張ったので充実感があって良いね！いつもこれくらい頑張りたい（卒論は？）&lt;/li&gt;
+&lt;li&gt;明日も、焦らず、完成を急がず、じっくり理解して、を言い聞かせて頑張るぞい💪&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
