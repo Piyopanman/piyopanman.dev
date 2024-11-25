@@ -1,6 +1,7 @@
 baseURL: "https://piyopanman.dev/"
 title: Piyopanman
-paginate: 10
+pagination:
+  pagerSize: 10
 theme: PaperMod
 defaultContentLanguage: "ja"
 languageCode: "ja"
