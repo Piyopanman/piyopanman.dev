@@ -9,10 +9,17 @@
       <url>https://piyopanman.dev/images/piyopanman.png</url>
       <link>https://piyopanman.dev/images/piyopanman.png</link>
     </image>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.154.0</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 31 Dec 2024 19:47:27 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 07:48:30 +0900</lastBuildDate>
     <atom:link href="https://piyopanman.dev/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025年の振り返りと2026年の抱負とか</title>
+      <link>https://piyopanman.dev/articles/ambition-for-2026/</link>
+      <pubDate>Fri, 02 Jan 2026 07:48:30 +0900</pubDate>
+      <guid>https://piyopanman.dev/articles/ambition-for-2026/</guid>
+      <description>2025年の振り返りと2026年の抱負とかを書いたよ</description>
+    </item>
     <item>
       <title>2024年の振り返りと2025年の抱負とか</title>
       <link>https://piyopanman.dev/articles/ambition-for-2025/</link>
@@ -130,7 +137,7 @@ hugoには、Archetypesというmdファイルを作る際のテンプレート�
       <link>https://piyopanman.dev/articles/katana-exhibition-2023-05-14/</link>
       <pubDate>Sun, 14 May 2023 23:29:29 +0900</pubDate>
       <guid>https://piyopanman.dev/articles/katana-exhibition-2023-05-14/</guid>
-      <description>&lt;h2 id=&#34;当日のツイートはこちらhttpstwittercomhiyoko_seekerstatus1657604856155369472&#34;&gt;当日のツイートは&lt;a href=&#34;https://twitter.com/hiyoko_seeker/status/1657604856155369472&#34;
+      <description>&lt;h2 id=&#34;当日のツイートはこちら&#34;&gt;当日のツイートは&lt;a href=&#34;https://twitter.com/hiyoko_seeker/status/1657604856155369472&#34;
     
 
      
